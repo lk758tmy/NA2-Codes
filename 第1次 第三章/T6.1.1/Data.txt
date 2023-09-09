@@ -1,0 +1,106 @@
+Error:2-范数
+Time:CPU时间
+
+Size: 5
+Error: 0.000002
+Time(ms): 0.007
+
+Size: 10
+Error: 0.000016
+Time(ms): 0.092
+
+Size: 15
+Error: 0.000043
+Time(ms): 0.559
+
+Size: 20
+Error: 0.000127
+Time(ms): 2.307
+
+Size: 25
+Error: 0.000123
+Time(ms): 7.853
+
+Size: 30
+Error: 0.000305
+Time(ms): 15.842
+
+Size: 35
+Error: 0.000475
+Time(ms): 33.707
+
+Size: 40
+Error: 0.000448
+Time(ms): 73.945
+
+Size: 45
+Error: 0.000661
+Time(ms): 146.044
+
+Size: 50
+Error: 0.001458
+Time(ms): 197.551
+
+Size: 55
+Error: 0.002672
+Time(ms): 336.036
+
+Size: 60
+Error: 0.013714
+Time(ms): 540.010
+
+Size: 65
+Error: 0.003737
+Time(ms): 775.855
+
+Size: 70
+Error: 0.002455
+Time(ms): 1103.133
+
+Size: 75
+Error: 0.004402
+Time(ms): 1705.565
+
+Size: 80
+Error: 0.011625
+Time(ms): 2736.763
+
+Size: 85
+Error: 0.003458
+Time(ms): 3150.883
+
+Size: 90
+Error: 0.004208
+Time(ms): 4546.546
+
+Size: 95
+Error: 0.005568
+Time(ms): 6339.388
+
+Size: 100
+Error: 0.029436
+Time(ms): 8743.915
+
+Size: 4
+Error: 0.000002
+Time(ms): 0.004
+
+Size: 8
+Error: 0.000013
+Time(ms): 0.040
+
+Size: 16
+Error: 0.000058
+Time(ms): 1.796
+
+Size: 32
+Error: 0.000930
+Time(ms): 33.188
+
+Size: 64
+Error: 0.001477
+Time(ms): 1001.031
+
+Size: 128
+Error: 0.017806
+Time(ms): 35621.793
