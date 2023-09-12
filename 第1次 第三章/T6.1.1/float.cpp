@@ -12,24 +12,24 @@ void matrix_make(float *h,int n){
 	*h=4;
 	for(int i=1;i<n2;i++){
 		p+=(n2+1); *p=4;
-		if(i%n!=0) *(p-1)=*(p-n2)=2;
+		if(i%n!=0) *(p-1)=*(p-n2)=-1;
 	}
 	for(int i=n,j=0;i<n2;i++,j++)
 		*(h+i*n2+j)=*(h+j*n2+i)=-1;
 	return ;
 }
 void vector_make(float *h,int n){
-	*h=5;
-	for(int i=1;i<n-1;i++){h++; *h=7;}
-	h++; *h=5;
+	*h=2;
+	for(int i=1;i<n-1;i++){h++; *h=1;}
+	h++; *h=2;
 	for(int i=1;i<n-1;i++){
-		h++; *h=4;
-		for(int j=1;j<n-1;j++){h++; *h=6;}
-		h++; *h=4;
+		h++; *h=1;
+		for(int j=1;j<n-1;j++){h++; *h=0;}
+		h++; *h=1;
 	}
-	h++; *h=5;
-	for(int i=1;i<n-1;i++){h++; *h=7;}
-	h++; *h=5;
+	h++; *h=2;
+	for(int i=1;i<n-1;i++){h++; *h=1;}
+	h++; *h=2;
 	return ;
 }
 void vector_print(float *h,int n){
