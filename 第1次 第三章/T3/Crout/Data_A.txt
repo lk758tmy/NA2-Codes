@@ -1,0 +1,29 @@
+Size: 5
+Time(ms): 0.010
+
+Size: 10
+Time(ms): 0.264
+
+Size: 15
+Time(ms): 2.622
+
+Size: 20
+Time(ms): 21.788
+
+Size: 25
+Time(ms): 71.330
+
+Size: 30
+Time(ms): 210.218
+
+Size: 35
+Time(ms): 535.494
+
+Size: 40
+Time(ms): 1442.026
+
+Size: 45
+Time(ms): 2932.898
+
+Size: 50
+Time(ms): 5479.711
