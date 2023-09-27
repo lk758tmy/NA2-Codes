@@ -1,0 +1,199 @@
+Type: 1
+Value of a: 0.001000
+Size: 250
+Time(ms): 5.398
+
+Type: 1
+Value of a: 1000.000000
+Size: 250
+Time(ms): 6.365
+
+Type: 1
+Value of a: 0.001000
+Size: 500
+Time(ms): 50.873
+
+Type: 1
+Value of a: 1000.000000
+Size: 500
+Time(ms): 52.382
+
+Type: 1
+Value of a: 0.001000
+Size: 750
+Time(ms): 156.225
+
+Type: 1
+Value of a: 1000.000000
+Size: 750
+Time(ms): 161.742
+
+Type: 1
+Value of a: 0.001000
+Size: 1000
+Time(ms): 381.984
+
+Type: 1
+Value of a: 1000.000000
+Size: 1000
+Time(ms): 336.862
+
+Type: 1
+Value of a: 0.001000
+Size: 1250
+Time(ms): 689.874
+
+Type: 1
+Value of a: 1000.000000
+Size: 1250
+Time(ms): 678.020
+
+Type: 1
+Value of a: 0.001000
+Size: 1500
+Time(ms): 1240.887
+
+Type: 1
+Value of a: 1000.000000
+Size: 1500
+Time(ms): 1229.601
+
+Type: 1
+Value of a: 0.001000
+Size: 1750
+Time(ms): 2227.340
+
+Type: 1
+Value of a: 1000.000000
+Size: 1750
+Time(ms): 2478.633
+
+Type: 1
+Value of a: 0.001000
+Size: 2000
+Time(ms): 3908.282
+
+Type: 1
+Value of a: 1000.000000
+Size: 2000
+Time(ms): 3812.720
+
+Type: 1
+Value of a: 0.001000
+Size: 2250
+Time(ms): 5902.210
+
+Type: 1
+Value of a: 1000.000000
+Size: 2250
+Time(ms): 5289.936
+
+Type: 1
+Value of a: 0.001000
+Size: 2500
+Time(ms): 8619.499
+
+Type: 1
+Value of a: 1000.000000
+Size: 2500
+Time(ms): 8871.473
+
+Type: 2
+Value of a: 0.001000
+Size: 250
+Time(ms): 4.792
+
+Type: 2
+Value of a: 1000.000000
+Size: 250
+Time(ms): 4.618
+
+Type: 2
+Value of a: 0.001000
+Size: 500
+Time(ms): 42.193
+
+Type: 2
+Value of a: 1000.000000
+Size: 500
+Time(ms): 43.457
+
+Type: 2
+Value of a: 0.001000
+Size: 750
+Time(ms): 149.815
+
+Type: 2
+Value of a: 1000.000000
+Size: 750
+Time(ms): 143.154
+
+Type: 2
+Value of a: 0.001000
+Size: 1000
+Time(ms): 346.008
+
+Type: 2
+Value of a: 1000.000000
+Size: 1000
+Time(ms): 365.272
+
+Type: 2
+Value of a: 0.001000
+Size: 1250
+Time(ms): 745.679
+
+Type: 2
+Value of a: 1000.000000
+Size: 1250
+Time(ms): 756.568
+
+Type: 2
+Value of a: 0.001000
+Size: 1500
+Time(ms): 1356.863
+
+Type: 2
+Value of a: 1000.000000
+Size: 1500
+Time(ms): 1410.015
+
+Type: 2
+Value of a: 0.001000
+Size: 1750
+Time(ms): 2388.093
+
+Type: 2
+Value of a: 1000.000000
+Size: 1750
+Time(ms): 2263.647
+
+Type: 2
+Value of a: 0.001000
+Size: 2000
+Time(ms): 3961.041
+
+Type: 2
+Value of a: 1000.000000
+Size: 2000
+Time(ms): 3809.875
+
+Type: 2
+Value of a: 0.001000
+Size: 2250
+Time(ms): 5883.268
+
+Type: 2
+Value of a: 1000.000000
+Size: 2250
+Time(ms): 5825.466
+
+Type: 2
+Value of a: 0.001000
+Size: 2500
+Time(ms): 8277.405
+
+Type: 2
+Value of a: 1000.000000
+Size: 2500
+Time(ms): 8536.233
