@@ -1,0 +1,47 @@
+Type:2
+Size: 10
+Time(ms): 0.000
+A.Error: 0.000333 x10^(-12)
+R.Error: 0.000105 x10^(-12)
+
+Type:2
+Size: 20
+Time(ms): 0.000
+A.Error: 0.000881 x10^(-12)
+R.Error: 0.000197 x10^(-12)
+
+Type:2
+Size: 40
+Time(ms): 0.001
+A.Error: 0.022468 x10^(-12)
+R.Error: 0.003552 x10^(-12)
+
+Type:2
+Size: 80
+Time(ms): 0.001
+A.Error: 0.053940 x10^(-12)
+R.Error: 0.006031 x10^(-12)
+
+Type:2
+Size: 160
+Time(ms): 0.003
+A.Error: 0.123873 x10^(-12)
+R.Error: 0.009793 x10^(-12)
+
+Type:2
+Size: 320
+Time(ms): 0.005
+A.Error: 0.523743 x10^(-12)
+R.Error: 0.029278 x10^(-12)
+
+Type:2
+Size: 640
+Time(ms): 0.023
+A.Error: 2.118464 x10^(-12)
+R.Error: 0.083740 x10^(-12)
+
+Type:2
+Size: 1280
+Time(ms): 0.066
+A.Error: -nan x10^(-12)
+R.Error: -nan x10^(-12)
