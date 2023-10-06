@@ -1,0 +1,65 @@
+Size: 5
+Error: 0.000000
+Time(ms): 0.026
+
+Size: 10
+Error: 0.000002
+Time(ms): 0.168
+
+Size: 15
+Error: 0.000004
+Time(ms): 3.270
+
+Size: 20
+Error: 0.000020
+Time(ms): 21.402
+
+Size: 25
+Error: 0.000059
+Time(ms): 55.113
+
+Size: 30
+Error: 0.000107
+Time(ms): 161.988
+
+Size: 35
+Error: 0.000232
+Time(ms): 464.946
+
+Size: 40
+Error: 0.000437
+Time(ms): 1095.529
+
+Size: 45
+Error: 0.000739
+Time(ms): 2364.244
+
+Size: 50
+Error: 0.001344
+Time(ms): 4621.286
+
+Size: 55
+Error: 0.002110
+Time(ms): 7854.596
+
+Size: 60
+Error: 0.002898
+Time(ms): 13344.269
+
+Size: 65
+Error: 0.004413
+Time(ms): 21374.883
+
+Size: 70
+Error: 0.006344
+Time(ms): 30896.623
+
+Size: 75
+Error: 0.008910
+Time(ms): 47676.305
+
+Size: 80
+Error: 0.011911
+Time(ms): 69526.680
+
+Size>80 时间过长
