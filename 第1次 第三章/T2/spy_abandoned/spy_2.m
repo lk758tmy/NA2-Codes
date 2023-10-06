@@ -4,8 +4,9 @@ A=zeros(n,n);
 A(1,1)=1;
 for i=2:n
     A(i,i)=1;
-    A(n,i)=a;
-    A(i,n)=a;
+    A(1,i)=a;
+    A(i,1)=a;
 end
+A
 [L,U,P]=lu(A);
 spy(L+U)

@@ -1,0 +1,99 @@
+Type: 1
+Value of a: 0.001000
+Size: 250
+Time(ms): 0.227
+
+Type: 1
+Value of a: 1000.000000
+Size: 250
+Time(ms): 0.212
+
+Type: 1
+Value of a: 0.001000
+Size: 500
+Time(ms): 1.069
+
+Type: 1
+Value of a: 1000.000000
+Size: 500
+Time(ms): 1.037
+
+Type: 1
+Value of a: 0.001000
+Size: 750
+Time(ms): 3.094
+
+Type: 1
+Value of a: 1000.000000
+Size: 750
+Time(ms): 2.637
+
+Type: 1
+Value of a: 0.001000
+Size: 1000
+Time(ms): 4.992
+
+Type: 1
+Value of a: 1000.000000
+Size: 1000
+Time(ms): 4.461
+
+Type: 1
+Value of a: 0.001000
+Size: 1250
+Time(ms): 7.743
+
+Type: 1
+Value of a: 1000.000000
+Size: 1250
+Time(ms): 9.983
+
+Type: 1
+Value of a: 0.001000
+Size: 1500
+Time(ms): 11.056
+
+Type: 1
+Value of a: 1000.000000
+Size: 1500
+Time(ms): 11.898
+
+Type: 1
+Value of a: 0.001000
+Size: 1750
+Time(ms): 22.894
+
+Type: 1
+Value of a: 1000.000000
+Size: 1750
+Time(ms): 17.498
+
+Type: 1
+Value of a: 0.001000
+Size: 2000
+Time(ms): 23.328
+
+Type: 1
+Value of a: 1000.000000
+Size: 2000
+Time(ms): 20.357
+
+Type: 1
+Value of a: 0.001000
+Size: 2250
+Time(ms): 33.967
+
+Type: 1
+Value of a: 1000.000000
+Size: 2250
+Time(ms): 33.324
+
+Type: 1
+Value of a: 0.001000
+Size: 2500
+Time(ms): 49.293
+
+Type: 1
+Value of a: 1000.000000
+Size: 2500
+Time(ms): 48.947
