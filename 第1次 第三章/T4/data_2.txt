@@ -1,0 +1,47 @@
+Type:2
+Size: 5
+Time(ms): 0.000
+A.Error: 0.000272 x10^(-12)
+R.Error: 0.000122 x10^(-12)
+
+Type:2
+Size: 10
+Time(ms): 0.000
+A.Error: 0.000333 x10^(-12)
+R.Error: 0.000105 x10^(-12)
+
+Type:2
+Size: 20
+Time(ms): 0.000
+A.Error: 0.000881 x10^(-12)
+R.Error: 0.000197 x10^(-12)
+
+Type:2
+Size: 40
+Time(ms): 0.001
+A.Error: 0.022468 x10^(-12)
+R.Error: 0.003552 x10^(-12)
+
+Type:2
+Size: 80
+Time(ms): 0.001
+A.Error: 0.053940 x10^(-12)
+R.Error: 0.006031 x10^(-12)
+
+Type:2
+Size: 160
+Time(ms): 0.002
+A.Error: 0.123873 x10^(-12)
+R.Error: 0.009793 x10^(-12)
+
+Type:2
+Size: 320
+Time(ms): 0.004
+A.Error: 0.523743 x10^(-12)
+R.Error: 0.029278 x10^(-12)
+
+Type:2
+Size: 640
+Time(ms): 0.008
+A.Error: 2.118464 x10^(-12)
+R.Error: 0.083740 x10^(-12)

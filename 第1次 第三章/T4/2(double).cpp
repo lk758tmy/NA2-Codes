@@ -10,7 +10,7 @@ void make_matrix_tb(double *a,double *b,double *c,int n){
        *(a+i)=*(c+i)=-1; *(b+i)=2;
     }
     double tmp=1;
-    for(int i=1;i<n;i++){
+    for(int i=0;i<n;i++){
         tmp/=2.0; *(a+i)*=tmp; *(b+i)*=tmp; *(c+i)*=tmp;
     }
     return ;
@@ -59,6 +59,6 @@ void _main(int n){
     return ;
 }
 int main(){
-    for(int n=10;n<1281;n*=2) _main(n);
+    for(int n=5;n<1281;n*=2) _main(n);
     return 0;
 }
