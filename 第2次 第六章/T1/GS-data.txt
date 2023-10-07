@@ -1,0 +1,125 @@
+Size: 5
+Type: 1
+Count: 52
+Time(ms): 0.087
+A.Error: 0.00000166
+R.Error: 0.00000033
+
+Size: 5
+Type: 2
+Count: 51
+Time(ms): 0.049
+A.Error: 0.00000227
+R.Error: 0.00000045
+
+Size: 5
+Type: 3
+Count: 53
+Time(ms): 0.053
+A.Error: 0.00000128
+R.Error: 0.00000026
+
+Size: 10
+Type: 1
+Count: 179
+Time(ms): 3.183
+A.Error: 0.00000339
+R.Error: 0.00000034
+
+Size: 10
+Type: 2
+Count: 164
+Time(ms): 1.275
+A.Error: 0.00001178
+R.Error: 0.00000118
+
+Size: 10
+Type: 3
+Count: 185
+Time(ms): 2.564
+A.Error: 0.00000194
+R.Error: 0.00000019
+
+Size: 15
+Type: 1
+Count: 395
+Time(ms): 41.558
+A.Error: 0.00000287
+R.Error: 0.00000019
+
+Size: 15
+Type: 2
+Count: 343
+Time(ms): 22.609
+A.Error: 0.00002259
+R.Error: 0.00000151
+
+Size: 15
+Type: 3
+Count: 382
+Time(ms): 22.909
+A.Error: 0.00000464
+R.Error: 0.00000031
+
+Size: 20
+Type: 1
+Count: 705
+Time(ms): 219.673
+A.Error: 0.00000181
+R.Error: 0.00000009
+
+Size: 20
+Type: 2
+Count: 587
+Time(ms): 87.951
+A.Error: 0.00003234
+R.Error: 0.00000162
+
+Size: 20
+Type: 3
+Count: 634
+Time(ms): 94.698
+A.Error: 0.00001108
+R.Error: 0.00000055
+
+Size: 25
+Type: 1
+Count: 1083
+Time(ms): 845.170
+A.Error: 0.00000193
+R.Error: 0.00000008
+
+Size: 25
+Type: 2
+Count: 885
+Time(ms): 344.709
+A.Error: 0.00005144
+R.Error: 0.00000206
+
+Size: 25
+Type: 3
+Count: 975
+Time(ms): 378.437
+A.Error: 0.00001357
+R.Error: 0.00000054
+
+Size: 30
+Type: 1
+Count: 1540
+Time(ms): 2610.761
+A.Error: 0.00000192
+R.Error: 0.00000006
+
+Size: 30
+Type: 2
+Count: 1267
+Time(ms): 1119.600
+A.Error: 0.00005577
+R.Error: 0.00000186
+
+Size: 30
+Type: 3
+Count: 1352
+Time(ms): 1108.618
+A.Error: 0.00002386
+R.Error: 0.00000080
