@@ -1,0 +1,8767 @@
+Size: 5
+
+Omega: 0.01
+Count: 11401
+Time(ms): 15.983
+ 
+Omega: 0.02
+Count: 5672
+Time(ms): 9.700
+ 
+Omega: 0.03
+Count: 3762
+Time(ms): 7.584
+ 
+Omega: 0.04
+Count: 2808
+Time(ms): 5.216
+ 
+Omega: 0.05
+Count: 2235
+Time(ms): 2.489
+ 
+Omega: 0.06
+Count: 1853
+Time(ms): 4.357
+ 
+Omega: 0.07
+Count: 1580
+Time(ms): 5.182
+ 
+Omega: 0.08
+Count: 1375
+Time(ms): 2.927
+ 
+Omega: 0.09
+Count: 1216
+Time(ms): 1.895
+ 
+Omega: 0.10
+Count: 1089
+Time(ms): 2.120
+ 
+Omega: 0.11
+Count: 985
+Time(ms): 1.812
+ 
+Omega: 0.12
+Count: 898
+Time(ms): 1.573
+ 
+Omega: 0.13
+Count: 824
+Time(ms): 1.363
+ 
+Omega: 0.14
+Count: 761
+Time(ms): 1.257
+ 
+Omega: 0.15
+Count: 707
+Time(ms): 1.411
+ 
+Omega: 0.16
+Count: 659
+Time(ms): 1.462
+ 
+Omega: 0.17
+Count: 617
+Time(ms): 1.574
+ 
+Omega: 0.18
+Count: 579
+Time(ms): 0.911
+ 
+Omega: 0.19
+Count: 546
+Time(ms): 0.882
+ 
+Omega: 0.20
+Count: 516
+Time(ms): 0.733
+ 
+Omega: 0.21
+Count: 488
+Time(ms): 0.690
+ 
+Omega: 0.22
+Count: 464
+Time(ms): 0.661
+ 
+Omega: 0.23
+Count: 441
+Time(ms): 0.628
+ 
+Omega: 0.24
+Count: 420
+Time(ms): 0.599
+ 
+Omega: 0.25
+Count: 401
+Time(ms): 0.608
+ 
+Omega: 0.26
+Count: 383
+Time(ms): 0.464
+ 
+Omega: 0.27
+Count: 367
+Time(ms): 0.404
+ 
+Omega: 0.28
+Count: 352
+Time(ms): 0.389
+ 
+Omega: 0.29
+Count: 338
+Time(ms): 0.537
+ 
+Omega: 0.30
+Count: 325
+Time(ms): 0.403
+ 
+Omega: 0.31
+Count: 312
+Time(ms): 0.342
+ 
+Omega: 0.32
+Count: 301
+Time(ms): 0.337
+ 
+Omega: 0.33
+Count: 290
+Time(ms): 0.319
+ 
+Omega: 0.34
+Count: 280
+Time(ms): 0.342
+ 
+Omega: 0.35
+Count: 270
+Time(ms): 0.297
+ 
+Omega: 0.36
+Count: 261
+Time(ms): 0.290
+ 
+Omega: 0.37
+Count: 252
+Time(ms): 0.590
+ 
+Omega: 0.38
+Count: 244
+Time(ms): 0.423
+ 
+Omega: 0.39
+Count: 236
+Time(ms): 0.304
+ 
+Omega: 0.40
+Count: 229
+Time(ms): 0.356
+ 
+Omega: 0.41
+Count: 222
+Time(ms): 0.352
+ 
+Omega: 0.42
+Count: 215
+Time(ms): 0.279
+ 
+Omega: 0.43
+Count: 209
+Time(ms): 0.270
+ 
+Omega: 0.44
+Count: 203
+Time(ms): 0.278
+ 
+Omega: 0.45
+Count: 197
+Time(ms): 0.276
+ 
+Omega: 0.46
+Count: 191
+Time(ms): 0.278
+ 
+Omega: 0.47
+Count: 186
+Time(ms): 0.276
+ 
+Omega: 0.48
+Count: 181
+Time(ms): 0.275
+ 
+Omega: 0.49
+Count: 176
+Time(ms): 0.251
+ 
+Omega: 0.50
+Count: 171
+Time(ms): 0.259
+ 
+Omega: 0.51
+Count: 167
+Time(ms): 0.261
+ 
+Omega: 0.52
+Count: 162
+Time(ms): 0.271
+ 
+Omega: 0.53
+Count: 158
+Time(ms): 0.222
+ 
+Omega: 0.54
+Count: 154
+Time(ms): 0.172
+ 
+Omega: 0.55
+Count: 150
+Time(ms): 0.235
+ 
+Omega: 0.56
+Count: 147
+Time(ms): 0.139
+ 
+Omega: 0.57
+Count: 143
+Time(ms): 0.135
+ 
+Omega: 0.58
+Count: 139
+Time(ms): 0.140
+ 
+Omega: 0.59
+Count: 136
+Time(ms): 0.127
+ 
+Omega: 0.60
+Count: 133
+Time(ms): 0.124
+ 
+Omega: 0.61
+Count: 130
+Time(ms): 0.146
+ 
+Omega: 0.62
+Count: 127
+Time(ms): 0.122
+ 
+Omega: 0.63
+Count: 124
+Time(ms): 0.108
+ 
+Omega: 0.64
+Count: 121
+Time(ms): 0.129
+ 
+Omega: 0.65
+Count: 118
+Time(ms): 0.103
+ 
+Omega: 0.66
+Count: 115
+Time(ms): 0.099
+ 
+Omega: 0.67
+Count: 113
+Time(ms): 0.102
+ 
+Omega: 0.68
+Count: 110
+Time(ms): 0.096
+ 
+Omega: 0.69
+Count: 108
+Time(ms): 0.097
+ 
+Omega: 0.70
+Count: 105
+Time(ms): 0.094
+ 
+Omega: 0.71
+Count: 103
+Time(ms): 0.104
+ 
+Omega: 0.72
+Count: 101
+Time(ms): 0.092
+ 
+Omega: 0.73
+Count: 98
+Time(ms): 0.111
+ 
+Omega: 0.74
+Count: 96
+Time(ms): 0.126
+ 
+Omega: 0.75
+Count: 94
+Time(ms): 0.108
+ 
+Omega: 0.76
+Count: 92
+Time(ms): 0.094
+ 
+Omega: 0.77
+Count: 90
+Time(ms): 0.099
+ 
+Omega: 0.78
+Count: 88
+Time(ms): 0.077
+ 
+Omega: 0.79
+Count: 86
+Time(ms): 0.095
+ 
+Omega: 0.80
+Count: 84
+Time(ms): 0.076
+ 
+Omega: 0.81
+Count: 82
+Time(ms): 0.089
+ 
+Omega: 0.82
+Count: 81
+Time(ms): 0.093
+ 
+Omega: 0.83
+Count: 79
+Time(ms): 0.072
+ 
+Omega: 0.84
+Count: 77
+Time(ms): 0.067
+ 
+Omega: 0.85
+Count: 76
+Time(ms): 0.067
+ 
+Omega: 0.86
+Count: 74
+Time(ms): 0.066
+ 
+Omega: 0.87
+Count: 72
+Time(ms): 0.092
+ 
+Omega: 0.88
+Count: 71
+Time(ms): 0.079
+ 
+Omega: 0.89
+Count: 69
+Time(ms): 0.062
+ 
+Omega: 0.90
+Count: 68
+Time(ms): 0.068
+ 
+Omega: 0.91
+Count: 66
+Time(ms): 0.129
+ 
+Omega: 0.92
+Count: 65
+Time(ms): 0.087
+ 
+Omega: 0.93
+Count: 64
+Time(ms): 0.069
+ 
+Omega: 0.94
+Count: 62
+Time(ms): 0.081
+ 
+Omega: 0.95
+Count: 61
+Time(ms): 0.060
+ 
+Omega: 0.96
+Count: 60
+Time(ms): 0.084
+ 
+Omega: 0.97
+Count: 58
+Time(ms): 0.104
+ 
+Omega: 0.98
+Count: 57
+Time(ms): 0.060
+ 
+Omega: 0.99
+Count: 56
+Time(ms): 0.057
+ 
+Omega: 1.00
+Count: 54
+Time(ms): 0.053
+ 
+Omega: 1.01
+Count: 53
+Time(ms): 0.055
+ 
+Omega: 1.02
+Count: 52
+Time(ms): 0.062
+ 
+Omega: 1.03
+Count: 51
+Time(ms): 0.048
+ 
+Omega: 1.04
+Count: 50
+Time(ms): 0.048
+ 
+Omega: 1.05
+Count: 49
+Time(ms): 0.059
+ 
+Omega: 1.06
+Count: 47
+Time(ms): 0.046
+ 
+Omega: 1.07
+Count: 46
+Time(ms): 0.042
+ 
+Omega: 1.08
+Count: 45
+Time(ms): 0.050
+ 
+Omega: 1.09
+Count: 44
+Time(ms): 0.041
+ 
+Omega: 1.10
+Count: 43
+Time(ms): 0.038
+ 
+Omega: 1.11
+Count: 42
+Time(ms): 0.038
+ 
+Omega: 1.12
+Count: 41
+Time(ms): 0.037
+ 
+Omega: 1.13
+Count: 40
+Time(ms): 0.038
+ 
+Omega: 1.14
+Count: 39
+Time(ms): 0.035
+ 
+Omega: 1.15
+Count: 38
+Time(ms): 0.034
+ 
+Omega: 1.16
+Count: 37
+Time(ms): 0.034
+ 
+Omega: 1.17
+Count: 36
+Time(ms): 0.070
+ 
+Omega: 1.18
+Count: 35
+Time(ms): 0.032
+ 
+Omega: 1.19
+Count: 34
+Time(ms): 0.030
+ 
+Omega: 1.20
+Count: 33
+Time(ms): 0.031
+ 
+Omega: 1.21
+Count: 32
+Time(ms): 0.029
+ 
+Omega: 1.22
+Count: 31
+Time(ms): 0.028
+ 
+Omega: 1.23
+Count: 30
+Time(ms): 0.028
+ 
+Omega: 1.24
+Count: 29
+Time(ms): 0.026
+ 
+Omega: 1.25
+Count: 28
+Time(ms): 0.026
+ 
+Omega: 1.26
+Count: 27
+Time(ms): 0.024
+ 
+Omega: 1.27
+Count: 26
+Time(ms): 0.024
+ 
+Omega: 1.28
+Count: 25
+Time(ms): 0.023
+ 
+Omega: 1.29
+Count: 24
+Time(ms): 0.022
+ 
+Omega: 1.30
+Count: 23
+Time(ms): 0.021
+ 
+Omega: 1.31
+Count: 22
+Time(ms): 0.021
+ 
+Omega: 1.32
+Count: 21
+Time(ms): 0.019
+ 
+Omega: 1.33
+Count: 19
+Time(ms): 0.028
+ 
+Omega: 1.34
+Count: 17
+Time(ms): 0.025
+ 
+Omega: 1.35
+Count: 18
+Time(ms): 0.029
+ 
+Omega: 1.36
+Count: 17
+Time(ms): 0.042
+ 
+Omega: 1.37
+Count: 17
+Time(ms): 0.037
+ 
+Omega: 1.38
+Count: 18
+Time(ms): 0.022
+ 
+Omega: 1.39
+Count: 18
+Time(ms): 0.022
+ 
+Omega: 1.40
+Count: 18
+Time(ms): 0.024
+ 
+Omega: 1.41
+Count: 19
+Time(ms): 0.028
+ 
+Omega: 1.42
+Count: 19
+Time(ms): 0.028
+ 
+Omega: 1.43
+Count: 20
+Time(ms): 0.031
+ 
+Omega: 1.44
+Count: 21
+Time(ms): 0.032
+ 
+Omega: 1.45
+Count: 21
+Time(ms): 0.031
+ 
+Omega: 1.46
+Count: 22
+Time(ms): 0.036
+ 
+Omega: 1.47
+Count: 23
+Time(ms): 0.034
+ 
+Omega: 1.48
+Count: 23
+Time(ms): 0.042
+ 
+Omega: 1.49
+Count: 24
+Time(ms): 0.035
+ 
+Omega: 1.50
+Count: 24
+Time(ms): 0.034
+ 
+Omega: 1.51
+Count: 24
+Time(ms): 0.029
+ 
+Omega: 1.52
+Count: 25
+Time(ms): 0.030
+ 
+Omega: 1.53
+Count: 26
+Time(ms): 0.029
+ 
+Omega: 1.54
+Count: 26
+Time(ms): 0.037
+ 
+Omega: 1.55
+Count: 27
+Time(ms): 0.031
+ 
+Omega: 1.56
+Count: 28
+Time(ms): 0.030
+ 
+Omega: 1.57
+Count: 28
+Time(ms): 0.048
+ 
+Omega: 1.58
+Count: 29
+Time(ms): 0.048
+ 
+Omega: 1.59
+Count: 30
+Time(ms): 0.037
+ 
+Omega: 1.60
+Count: 30
+Time(ms): 0.043
+ 
+Omega: 1.61
+Count: 31
+Time(ms): 0.047
+ 
+Omega: 1.62
+Count: 33
+Time(ms): 0.048
+ 
+Omega: 1.63
+Count: 34
+Time(ms): 0.062
+ 
+Omega: 1.64
+Count: 35
+Time(ms): 0.067
+ 
+Omega: 1.65
+Count: 37
+Time(ms): 0.050
+ 
+Omega: 1.66
+Count: 37
+Time(ms): 0.046
+ 
+Omega: 1.67
+Count: 39
+Time(ms): 0.057
+ 
+Omega: 1.68
+Count: 41
+Time(ms): 0.045
+ 
+Omega: 1.69
+Count: 41
+Time(ms): 0.065
+ 
+Omega: 1.70
+Count: 43
+Time(ms): 0.147
+ 
+Omega: 1.71
+Count: 44
+Time(ms): 0.042
+ 
+Omega: 1.72
+Count: 47
+Time(ms): 0.044
+ 
+Omega: 1.73
+Count: 49
+Time(ms): 0.054
+ 
+Omega: 1.74
+Count: 50
+Time(ms): 0.062
+ 
+Omega: 1.75
+Count: 53
+Time(ms): 0.048
+ 
+Omega: 1.76
+Count: 55
+Time(ms): 0.055
+ 
+Omega: 1.77
+Count: 58
+Time(ms): 0.045
+ 
+Omega: 1.78
+Count: 60
+Time(ms): 0.060
+ 
+Omega: 1.79
+Count: 64
+Time(ms): 0.065
+ 
+Omega: 1.80
+Count: 67
+Time(ms): 0.053
+ 
+Omega: 1.81
+Count: 72
+Time(ms): 0.056
+ 
+Omega: 1.82
+Count: 75
+Time(ms): 0.059
+ 
+Omega: 1.83
+Count: 82
+Time(ms): 0.064
+ 
+Omega: 1.84
+Count: 85
+Time(ms): 0.068
+ 
+Omega: 1.85
+Count: 91
+Time(ms): 0.121
+ 
+Omega: 1.86
+Count: 98
+Time(ms): 0.142
+ 
+Omega: 1.87
+Count: 108
+Time(ms): 0.137
+ 
+Omega: 1.88
+Count: 116
+Time(ms): 0.172
+ 
+Omega: 1.89
+Count: 127
+Time(ms): 0.098
+ 
+Omega: 1.90
+Count: 140
+Time(ms): 0.132
+ 
+Omega: 1.91
+Count: 156
+Time(ms): 0.138
+ 
+Omega: 1.92
+Count: 177
+Time(ms): 0.148
+ 
+Omega: 1.93
+Count: 203
+Time(ms): 0.160
+ 
+Omega: 1.94
+Count: 238
+Time(ms): 0.191
+ 
+Omega: 1.95
+Count: 289
+Time(ms): 0.230
+ 
+Omega: 1.96
+Count: 361
+Time(ms): 0.354
+ 
+Omega: 1.97
+Count: 481
+Time(ms): 0.775
+ 
+Omega: 1.98
+Count: 727
+Time(ms): 1.059
+ 
+Omega: 1.99
+Count: 1462
+Time(ms): 2.412
+
+-------- 
+Size: 5
+Min-Step-Count: 17
+Best-Omega: 1.34
+--------
+
+Size: 7
+
+Omega: 0.01
+Count: 20469
+Time(ms): 62.017
+ 
+Omega: 0.02
+Count: 10183
+Time(ms): 22.692
+ 
+Omega: 0.03
+Count: 6755
+Time(ms): 15.215
+ 
+Omega: 0.04
+Count: 5040
+Time(ms): 20.937
+ 
+Omega: 0.05
+Count: 4012
+Time(ms): 18.002
+ 
+Omega: 0.06
+Count: 3326
+Time(ms): 14.117
+ 
+Omega: 0.07
+Count: 2836
+Time(ms): 11.617
+ 
+Omega: 0.08
+Count: 2469
+Time(ms): 7.156
+ 
+Omega: 0.09
+Count: 2183
+Time(ms): 6.396
+ 
+Omega: 0.10
+Count: 1955
+Time(ms): 10.911
+ 
+Omega: 0.11
+Count: 1768
+Time(ms): 7.081
+ 
+Omega: 0.12
+Count: 1612
+Time(ms): 7.259
+ 
+Omega: 0.13
+Count: 1480
+Time(ms): 6.633
+ 
+Omega: 0.14
+Count: 1367
+Time(ms): 3.976
+ 
+Omega: 0.15
+Count: 1269
+Time(ms): 3.275
+ 
+Omega: 0.16
+Count: 1183
+Time(ms): 2.698
+ 
+Omega: 0.17
+Count: 1107
+Time(ms): 5.029
+ 
+Omega: 0.18
+Count: 1040
+Time(ms): 6.056
+ 
+Omega: 0.19
+Count: 980
+Time(ms): 6.682
+ 
+Omega: 0.20
+Count: 926
+Time(ms): 6.147
+ 
+Omega: 0.21
+Count: 877
+Time(ms): 3.601
+ 
+Omega: 0.22
+Count: 832
+Time(ms): 3.071
+ 
+Omega: 0.23
+Count: 792
+Time(ms): 3.778
+ 
+Omega: 0.24
+Count: 754
+Time(ms): 4.212
+ 
+Omega: 0.25
+Count: 720
+Time(ms): 3.282
+ 
+Omega: 0.26
+Count: 688
+Time(ms): 1.755
+ 
+Omega: 0.27
+Count: 659
+Time(ms): 3.108
+ 
+Omega: 0.28
+Count: 632
+Time(ms): 2.867
+ 
+Omega: 0.29
+Count: 606
+Time(ms): 3.360
+ 
+Omega: 0.30
+Count: 583
+Time(ms): 2.994
+ 
+Omega: 0.31
+Count: 561
+Time(ms): 1.801
+ 
+Omega: 0.32
+Count: 540
+Time(ms): 2.879
+ 
+Omega: 0.33
+Count: 520
+Time(ms): 3.625
+ 
+Omega: 0.34
+Count: 502
+Time(ms): 3.808
+ 
+Omega: 0.35
+Count: 485
+Time(ms): 1.618
+ 
+Omega: 0.36
+Count: 468
+Time(ms): 2.670
+ 
+Omega: 0.37
+Count: 453
+Time(ms): 1.090
+ 
+Omega: 0.38
+Count: 438
+Time(ms): 0.909
+ 
+Omega: 0.39
+Count: 424
+Time(ms): 1.086
+ 
+Omega: 0.40
+Count: 411
+Time(ms): 0.965
+ 
+Omega: 0.41
+Count: 399
+Time(ms): 0.869
+ 
+Omega: 0.42
+Count: 387
+Time(ms): 0.778
+ 
+Omega: 0.43
+Count: 375
+Time(ms): 0.841
+ 
+Omega: 0.44
+Count: 364
+Time(ms): 0.907
+ 
+Omega: 0.45
+Count: 354
+Time(ms): 0.789
+ 
+Omega: 0.46
+Count: 344
+Time(ms): 0.788
+ 
+Omega: 0.47
+Count: 334
+Time(ms): 0.790
+ 
+Omega: 0.48
+Count: 325
+Time(ms): 0.671
+ 
+Omega: 0.49
+Count: 316
+Time(ms): 0.798
+ 
+Omega: 0.50
+Count: 308
+Time(ms): 0.659
+ 
+Omega: 0.51
+Count: 300
+Time(ms): 0.714
+ 
+Omega: 0.52
+Count: 292
+Time(ms): 0.640
+ 
+Omega: 0.53
+Count: 285
+Time(ms): 0.896
+ 
+Omega: 0.54
+Count: 277
+Time(ms): 0.682
+ 
+Omega: 0.55
+Count: 270
+Time(ms): 0.597
+ 
+Omega: 0.56
+Count: 264
+Time(ms): 0.577
+ 
+Omega: 0.57
+Count: 257
+Time(ms): 0.605
+ 
+Omega: 0.58
+Count: 251
+Time(ms): 0.892
+ 
+Omega: 0.59
+Count: 245
+Time(ms): 1.067
+ 
+Omega: 0.60
+Count: 239
+Time(ms): 0.969
+ 
+Omega: 0.61
+Count: 233
+Time(ms): 0.946
+ 
+Omega: 0.62
+Count: 228
+Time(ms): 0.881
+ 
+Omega: 0.63
+Count: 223
+Time(ms): 0.733
+ 
+Omega: 0.64
+Count: 218
+Time(ms): 0.575
+ 
+Omega: 0.65
+Count: 213
+Time(ms): 0.543
+ 
+Omega: 0.66
+Count: 208
+Time(ms): 0.532
+ 
+Omega: 0.67
+Count: 203
+Time(ms): 0.570
+ 
+Omega: 0.68
+Count: 198
+Time(ms): 0.568
+ 
+Omega: 0.69
+Count: 194
+Time(ms): 0.497
+ 
+Omega: 0.70
+Count: 190
+Time(ms): 0.508
+ 
+Omega: 0.71
+Count: 186
+Time(ms): 0.677
+ 
+Omega: 0.72
+Count: 182
+Time(ms): 0.436
+ 
+Omega: 0.73
+Count: 178
+Time(ms): 0.400
+ 
+Omega: 0.74
+Count: 174
+Time(ms): 0.350
+ 
+Omega: 0.75
+Count: 170
+Time(ms): 0.366
+ 
+Omega: 0.76
+Count: 166
+Time(ms): 0.357
+ 
+Omega: 0.77
+Count: 163
+Time(ms): 0.348
+ 
+Omega: 0.78
+Count: 159
+Time(ms): 0.328
+ 
+Omega: 0.79
+Count: 156
+Time(ms): 0.360
+ 
+Omega: 0.80
+Count: 153
+Time(ms): 0.374
+ 
+Omega: 0.81
+Count: 149
+Time(ms): 0.330
+ 
+Omega: 0.82
+Count: 146
+Time(ms): 0.331
+ 
+Omega: 0.83
+Count: 143
+Time(ms): 0.341
+ 
+Omega: 0.84
+Count: 140
+Time(ms): 0.284
+ 
+Omega: 0.85
+Count: 137
+Time(ms): 0.274
+ 
+Omega: 0.86
+Count: 134
+Time(ms): 0.353
+ 
+Omega: 0.87
+Count: 132
+Time(ms): 0.271
+ 
+Omega: 0.88
+Count: 129
+Time(ms): 0.259
+ 
+Omega: 0.89
+Count: 126
+Time(ms): 0.255
+ 
+Omega: 0.90
+Count: 124
+Time(ms): 0.251
+ 
+Omega: 0.91
+Count: 121
+Time(ms): 0.245
+ 
+Omega: 0.92
+Count: 118
+Time(ms): 0.239
+ 
+Omega: 0.93
+Count: 116
+Time(ms): 0.237
+ 
+Omega: 0.94
+Count: 114
+Time(ms): 0.227
+ 
+Omega: 0.95
+Count: 111
+Time(ms): 0.246
+ 
+Omega: 0.96
+Count: 109
+Time(ms): 0.237
+ 
+Omega: 0.97
+Count: 107
+Time(ms): 0.252
+ 
+Omega: 0.98
+Count: 104
+Time(ms): 0.281
+ 
+Omega: 0.99
+Count: 102
+Time(ms): 0.263
+ 
+Omega: 1.00
+Count: 100
+Time(ms): 0.248
+ 
+Omega: 1.01
+Count: 98
+Time(ms): 0.254
+ 
+Omega: 1.02
+Count: 96
+Time(ms): 0.216
+ 
+Omega: 1.03
+Count: 94
+Time(ms): 0.208
+ 
+Omega: 1.04
+Count: 92
+Time(ms): 0.219
+ 
+Omega: 1.05
+Count: 90
+Time(ms): 0.212
+ 
+Omega: 1.06
+Count: 88
+Time(ms): 0.192
+ 
+Omega: 1.07
+Count: 86
+Time(ms): 0.200
+ 
+Omega: 1.08
+Count: 84
+Time(ms): 0.195
+ 
+Omega: 1.09
+Count: 82
+Time(ms): 0.210
+ 
+Omega: 1.10
+Count: 81
+Time(ms): 0.191
+ 
+Omega: 1.11
+Count: 79
+Time(ms): 0.233
+ 
+Omega: 1.12
+Count: 77
+Time(ms): 0.200
+ 
+Omega: 1.13
+Count: 75
+Time(ms): 0.294
+ 
+Omega: 1.14
+Count: 74
+Time(ms): 0.197
+ 
+Omega: 1.15
+Count: 72
+Time(ms): 0.214
+ 
+Omega: 1.16
+Count: 70
+Time(ms): 0.181
+ 
+Omega: 1.17
+Count: 69
+Time(ms): 0.180
+ 
+Omega: 1.18
+Count: 67
+Time(ms): 0.183
+ 
+Omega: 1.19
+Count: 65
+Time(ms): 0.149
+ 
+Omega: 1.20
+Count: 64
+Time(ms): 0.145
+ 
+Omega: 1.21
+Count: 62
+Time(ms): 0.395
+ 
+Omega: 1.22
+Count: 61
+Time(ms): 0.366
+ 
+Omega: 1.23
+Count: 59
+Time(ms): 0.474
+ 
+Omega: 1.24
+Count: 58
+Time(ms): 0.372
+ 
+Omega: 1.25
+Count: 56
+Time(ms): 0.311
+ 
+Omega: 1.26
+Count: 55
+Time(ms): 0.334
+ 
+Omega: 1.27
+Count: 53
+Time(ms): 0.320
+ 
+Omega: 1.28
+Count: 52
+Time(ms): 0.313
+ 
+Omega: 1.29
+Count: 50
+Time(ms): 0.299
+ 
+Omega: 1.30
+Count: 49
+Time(ms): 0.298
+ 
+Omega: 1.31
+Count: 48
+Time(ms): 0.298
+ 
+Omega: 1.32
+Count: 46
+Time(ms): 0.331
+ 
+Omega: 1.33
+Count: 45
+Time(ms): 0.326
+ 
+Omega: 1.34
+Count: 43
+Time(ms): 0.312
+ 
+Omega: 1.35
+Count: 42
+Time(ms): 0.202
+ 
+Omega: 1.36
+Count: 40
+Time(ms): 0.086
+ 
+Omega: 1.37
+Count: 39
+Time(ms): 0.087
+ 
+Omega: 1.38
+Count: 37
+Time(ms): 0.083
+ 
+Omega: 1.39
+Count: 36
+Time(ms): 0.093
+ 
+Omega: 1.40
+Count: 34
+Time(ms): 0.090
+ 
+Omega: 1.41
+Count: 33
+Time(ms): 0.084
+ 
+Omega: 1.42
+Count: 31
+Time(ms): 0.068
+ 
+Omega: 1.43
+Count: 29
+Time(ms): 0.065
+ 
+Omega: 1.44
+Count: 27
+Time(ms): 0.060
+ 
+Omega: 1.45
+Count: 24
+Time(ms): 0.099
+ 
+Omega: 1.46
+Count: 24
+Time(ms): 0.294
+ 
+Omega: 1.47
+Count: 24
+Time(ms): 0.070
+ 
+Omega: 1.48
+Count: 24
+Time(ms): 0.071
+ 
+Omega: 1.49
+Count: 25
+Time(ms): 0.066
+ 
+Omega: 1.50
+Count: 25
+Time(ms): 0.090
+ 
+Omega: 1.51
+Count: 26
+Time(ms): 0.070
+ 
+Omega: 1.52
+Count: 27
+Time(ms): 0.060
+ 
+Omega: 1.53
+Count: 27
+Time(ms): 0.077
+ 
+Omega: 1.54
+Count: 28
+Time(ms): 0.074
+ 
+Omega: 1.55
+Count: 29
+Time(ms): 0.076
+ 
+Omega: 1.56
+Count: 31
+Time(ms): 0.150
+ 
+Omega: 1.57
+Count: 31
+Time(ms): 0.162
+ 
+Omega: 1.58
+Count: 32
+Time(ms): 0.169
+ 
+Omega: 1.59
+Count: 32
+Time(ms): 0.167
+ 
+Omega: 1.60
+Count: 32
+Time(ms): 0.168
+ 
+Omega: 1.61
+Count: 33
+Time(ms): 0.175
+ 
+Omega: 1.62
+Count: 35
+Time(ms): 0.183
+ 
+Omega: 1.63
+Count: 35
+Time(ms): 0.186
+ 
+Omega: 1.64
+Count: 37
+Time(ms): 0.194
+ 
+Omega: 1.65
+Count: 38
+Time(ms): 0.201
+ 
+Omega: 1.66
+Count: 38
+Time(ms): 0.199
+ 
+Omega: 1.67
+Count: 40
+Time(ms): 0.216
+ 
+Omega: 1.68
+Count: 40
+Time(ms): 0.211
+ 
+Omega: 1.69
+Count: 42
+Time(ms): 0.345
+ 
+Omega: 1.70
+Count: 45
+Time(ms): 0.100
+ 
+Omega: 1.71
+Count: 47
+Time(ms): 0.104
+ 
+Omega: 1.72
+Count: 49
+Time(ms): 0.207
+ 
+Omega: 1.73
+Count: 49
+Time(ms): 0.184
+ 
+Omega: 1.74
+Count: 52
+Time(ms): 0.209
+ 
+Omega: 1.75
+Count: 55
+Time(ms): 0.184
+ 
+Omega: 1.76
+Count: 57
+Time(ms): 0.209
+ 
+Omega: 1.77
+Count: 58
+Time(ms): 0.119
+ 
+Omega: 1.78
+Count: 63
+Time(ms): 0.158
+ 
+Omega: 1.79
+Count: 66
+Time(ms): 0.133
+ 
+Omega: 1.80
+Count: 69
+Time(ms): 0.139
+ 
+Omega: 1.81
+Count: 73
+Time(ms): 0.155
+ 
+Omega: 1.82
+Count: 78
+Time(ms): 0.156
+ 
+Omega: 1.83
+Count: 82
+Time(ms): 0.199
+ 
+Omega: 1.84
+Count: 88
+Time(ms): 0.201
+ 
+Omega: 1.85
+Count: 94
+Time(ms): 0.226
+ 
+Omega: 1.86
+Count: 99
+Time(ms): 0.499
+ 
+Omega: 1.87
+Count: 109
+Time(ms): 0.228
+ 
+Omega: 1.88
+Count: 118
+Time(ms): 0.236
+ 
+Omega: 1.89
+Count: 129
+Time(ms): 0.566
+ 
+Omega: 1.90
+Count: 142
+Time(ms): 0.797
+ 
+Omega: 1.91
+Count: 158
+Time(ms): 0.883
+ 
+Omega: 1.92
+Count: 183
+Time(ms): 1.019
+ 
+Omega: 1.93
+Count: 209
+Time(ms): 1.279
+ 
+Omega: 1.94
+Count: 241
+Time(ms): 0.920
+ 
+Omega: 1.95
+Count: 292
+Time(ms): 1.107
+ 
+Omega: 1.96
+Count: 366
+Time(ms): 1.645
+ 
+Omega: 1.97
+Count: 489
+Time(ms): 1.642
+ 
+Omega: 1.98
+Count: 738
+Time(ms): 1.986
+ 
+Omega: 1.99
+Count: 1477
+Time(ms): 6.110
+
+--------
+Size: 7
+Min-Step-Count: 24
+Best-Omega: 1.45
+--------
+
+Size: 9
+
+Omega: 0.01
+Count: 32307
+Time(ms): 287.499
+ 
+Omega: 0.02
+Count: 16073
+Time(ms): 159.227
+ 
+Omega: 0.03
+Count: 10661
+Time(ms): 94.854
+ 
+Omega: 0.04
+Count: 7955
+Time(ms): 77.247
+ 
+Omega: 0.05
+Count: 6332
+Time(ms): 62.464
+ 
+Omega: 0.06
+Count: 5250
+Time(ms): 56.648
+ 
+Omega: 0.07
+Count: 4476
+Time(ms): 49.379
+ 
+Omega: 0.08
+Count: 3897
+Time(ms): 35.154
+ 
+Omega: 0.09
+Count: 3446
+Time(ms): 27.505
+ 
+Omega: 0.10
+Count: 3085
+Time(ms): 20.583
+ 
+Omega: 0.11
+Count: 2790
+Time(ms): 18.608
+ 
+Omega: 0.12
+Count: 2544
+Time(ms): 17.153
+ 
+Omega: 0.13
+Count: 2336
+Time(ms): 15.709
+ 
+Omega: 0.14
+Count: 2157
+Time(ms): 14.574
+ 
+Omega: 0.15
+Count: 2002
+Time(ms): 21.911
+ 
+Omega: 0.16
+Count: 1867
+Time(ms): 18.366
+ 
+Omega: 0.17
+Count: 1748
+Time(ms): 13.853
+ 
+Omega: 0.18
+Count: 1642
+Time(ms): 13.066
+ 
+Omega: 0.19
+Count: 1547
+Time(ms): 11.773
+ 
+Omega: 0.20
+Count: 1461
+Time(ms): 11.126
+ 
+Omega: 0.21
+Count: 1384
+Time(ms): 9.461
+ 
+Omega: 0.22
+Count: 1314
+Time(ms): 8.838
+ 
+Omega: 0.23
+Count: 1249
+Time(ms): 8.984
+ 
+Omega: 0.24
+Count: 1191
+Time(ms): 13.862
+ 
+Omega: 0.25
+Count: 1136
+Time(ms): 12.002
+ 
+Omega: 0.26
+Count: 1086
+Time(ms): 9.518
+ 
+Omega: 0.27
+Count: 1040
+Time(ms): 7.065
+ 
+Omega: 0.28
+Count: 997
+Time(ms): 11.313
+ 
+Omega: 0.29
+Count: 957
+Time(ms): 10.129
+ 
+Omega: 0.30
+Count: 920
+Time(ms): 7.861
+ 
+Omega: 0.31
+Count: 885
+Time(ms): 15.059
+ 
+Omega: 0.32
+Count: 852
+Time(ms): 7.298
+ 
+Omega: 0.33
+Count: 821
+Time(ms): 6.289
+ 
+Omega: 0.34
+Count: 792
+Time(ms): 5.768
+ 
+Omega: 0.35
+Count: 765
+Time(ms): 5.860
+ 
+Omega: 0.36
+Count: 739
+Time(ms): 4.198
+ 
+Omega: 0.37
+Count: 715
+Time(ms): 4.098
+ 
+Omega: 0.38
+Count: 692
+Time(ms): 7.556
+ 
+Omega: 0.39
+Count: 670
+Time(ms): 9.436
+ 
+Omega: 0.40
+Count: 649
+Time(ms): 5.896
+ 
+Omega: 0.41
+Count: 629
+Time(ms): 5.922
+ 
+Omega: 0.42
+Count: 610
+Time(ms): 4.253
+ 
+Omega: 0.43
+Count: 592
+Time(ms): 3.932
+ 
+Omega: 0.44
+Count: 575
+Time(ms): 3.851
+ 
+Omega: 0.45
+Count: 559
+Time(ms): 3.749
+ 
+Omega: 0.46
+Count: 543
+Time(ms): 3.559
+ 
+Omega: 0.47
+Count: 528
+Time(ms): 3.530
+ 
+Omega: 0.48
+Count: 514
+Time(ms): 3.419
+ 
+Omega: 0.49
+Count: 500
+Time(ms): 3.319
+ 
+Omega: 0.50
+Count: 486
+Time(ms): 3.226
+ 
+Omega: 0.51
+Count: 474
+Time(ms): 3.449
+ 
+Omega: 0.52
+Count: 461
+Time(ms): 3.923
+ 
+Omega: 0.53
+Count: 450
+Time(ms): 2.994
+ 
+Omega: 0.54
+Count: 438
+Time(ms): 2.903
+ 
+Omega: 0.55
+Count: 427
+Time(ms): 2.903
+ 
+Omega: 0.56
+Count: 417
+Time(ms): 4.256
+ 
+Omega: 0.57
+Count: 406
+Time(ms): 5.236
+ 
+Omega: 0.58
+Count: 397
+Time(ms): 5.657
+ 
+Omega: 0.59
+Count: 387
+Time(ms): 2.614
+ 
+Omega: 0.60
+Count: 378
+Time(ms): 2.659
+ 
+Omega: 0.61
+Count: 369
+Time(ms): 2.846
+ 
+Omega: 0.62
+Count: 360
+Time(ms): 2.522
+ 
+Omega: 0.63
+Count: 352
+Time(ms): 2.702
+ 
+Omega: 0.64
+Count: 344
+Time(ms): 2.731
+ 
+Omega: 0.65
+Count: 336
+Time(ms): 2.498
+ 
+Omega: 0.66
+Count: 328
+Time(ms): 2.198
+ 
+Omega: 0.67
+Count: 321
+Time(ms): 2.227
+ 
+Omega: 0.68
+Count: 314
+Time(ms): 2.090
+ 
+Omega: 0.69
+Count: 307
+Time(ms): 2.100
+ 
+Omega: 0.70
+Count: 300
+Time(ms): 2.049
+ 
+Omega: 0.71
+Count: 294
+Time(ms): 2.014
+ 
+Omega: 0.72
+Count: 287
+Time(ms): 3.663
+ 
+Omega: 0.73
+Count: 281
+Time(ms): 4.052
+ 
+Omega: 0.74
+Count: 275
+Time(ms): 4.175
+ 
+Omega: 0.75
+Count: 269
+Time(ms): 2.403
+ 
+Omega: 0.76
+Count: 263
+Time(ms): 1.812
+ 
+Omega: 0.77
+Count: 258
+Time(ms): 1.472
+ 
+Omega: 0.78
+Count: 252
+Time(ms): 1.798
+ 
+Omega: 0.79
+Count: 247
+Time(ms): 1.491
+ 
+Omega: 0.80
+Count: 242
+Time(ms): 1.631
+ 
+Omega: 0.81
+Count: 237
+Time(ms): 1.325
+ 
+Omega: 0.82
+Count: 232
+Time(ms): 1.364
+ 
+Omega: 0.83
+Count: 227
+Time(ms): 1.257
+ 
+Omega: 0.84
+Count: 222
+Time(ms): 1.331
+ 
+Omega: 0.85
+Count: 218
+Time(ms): 1.540
+ 
+Omega: 0.86
+Count: 213
+Time(ms): 1.778
+ 
+Omega: 0.87
+Count: 209
+Time(ms): 1.994
+ 
+Omega: 0.88
+Count: 205
+Time(ms): 2.005
+ 
+Omega: 0.89
+Count: 200
+Time(ms): 2.183
+ 
+Omega: 0.90
+Count: 196
+Time(ms): 1.769
+ 
+Omega: 0.91
+Count: 192
+Time(ms): 1.377
+ 
+Omega: 0.92
+Count: 188
+Time(ms): 1.299
+ 
+Omega: 0.93
+Count: 184
+Time(ms): 1.257
+ 
+Omega: 0.94
+Count: 181
+Time(ms): 1.576
+ 
+Omega: 0.95
+Count: 177
+Time(ms): 1.254
+ 
+Omega: 0.96
+Count: 173
+Time(ms): 0.997
+ 
+Omega: 0.97
+Count: 170
+Time(ms): 0.949
+ 
+Omega: 0.98
+Count: 166
+Time(ms): 0.898
+ 
+Omega: 0.99
+Count: 163
+Time(ms): 0.879
+ 
+Omega: 1.00
+Count: 160
+Time(ms): 0.865
+ 
+Omega: 1.01
+Count: 156
+Time(ms): 1.021
+ 
+Omega: 1.02
+Count: 153
+Time(ms): 0.915
+ 
+Omega: 1.03
+Count: 150
+Time(ms): 1.004
+ 
+Omega: 1.04
+Count: 147
+Time(ms): 0.890
+ 
+Omega: 1.05
+Count: 144
+Time(ms): 0.840
+ 
+Omega: 1.06
+Count: 141
+Time(ms): 0.800
+ 
+Omega: 1.07
+Count: 138
+Time(ms): 0.787
+ 
+Omega: 1.08
+Count: 135
+Time(ms): 0.729
+ 
+Omega: 1.09
+Count: 132
+Time(ms): 0.982
+ 
+Omega: 1.10
+Count: 129
+Time(ms): 0.826
+ 
+Omega: 1.11
+Count: 126
+Time(ms): 0.808
+ 
+Omega: 1.12
+Count: 124
+Time(ms): 0.832
+ 
+Omega: 1.13
+Count: 121
+Time(ms): 1.493
+ 
+Omega: 1.14
+Count: 118
+Time(ms): 0.919
+ 
+Omega: 1.15
+Count: 116
+Time(ms): 1.399
+ 
+Omega: 1.16
+Count: 113
+Time(ms): 1.597
+ 
+Omega: 1.17
+Count: 111
+Time(ms): 1.589
+ 
+Omega: 1.18
+Count: 108
+Time(ms): 1.590
+ 
+Omega: 1.19
+Count: 106
+Time(ms): 1.512
+ 
+Omega: 1.20
+Count: 104
+Time(ms): 1.488
+ 
+Omega: 1.21
+Count: 101
+Time(ms): 0.877
+ 
+Omega: 1.22
+Count: 99
+Time(ms): 0.643
+ 
+Omega: 1.23
+Count: 97
+Time(ms): 0.579
+ 
+Omega: 1.24
+Count: 94
+Time(ms): 0.560
+ 
+Omega: 1.25
+Count: 92
+Time(ms): 0.731
+ 
+Omega: 1.26
+Count: 90
+Time(ms): 1.273
+ 
+Omega: 1.27
+Count: 88
+Time(ms): 1.284
+ 
+Omega: 1.28
+Count: 86
+Time(ms): 1.223
+ 
+Omega: 1.29
+Count: 83
+Time(ms): 1.163
+ 
+Omega: 1.30
+Count: 81
+Time(ms): 1.146
+ 
+Omega: 1.31
+Count: 79
+Time(ms): 1.183
+ 
+Omega: 1.32
+Count: 77
+Time(ms): 0.499
+ 
+Omega: 1.33
+Count: 75
+Time(ms): 0.917
+ 
+Omega: 1.34
+Count: 73
+Time(ms): 1.023
+ 
+Omega: 1.35
+Count: 71
+Time(ms): 0.999
+ 
+Omega: 1.36
+Count: 69
+Time(ms): 0.941
+ 
+Omega: 1.37
+Count: 67
+Time(ms): 0.551
+ 
+Omega: 1.38
+Count: 65
+Time(ms): 1.035
+ 
+Omega: 1.39
+Count: 63
+Time(ms): 1.345
+ 
+Omega: 1.40
+Count: 61
+Time(ms): 1.328
+ 
+Omega: 1.41
+Count: 59
+Time(ms): 1.333
+ 
+Omega: 1.42
+Count: 57
+Time(ms): 1.217
+ 
+Omega: 1.43
+Count: 55
+Time(ms): 1.197
+ 
+Omega: 1.44
+Count: 53
+Time(ms): 1.187
+ 
+Omega: 1.45
+Count: 51
+Time(ms): 1.093
+ 
+Omega: 1.46
+Count: 49
+Time(ms): 1.082
+ 
+Omega: 1.47
+Count: 47
+Time(ms): 1.036
+ 
+Omega: 1.48
+Count: 45
+Time(ms): 0.955
+ 
+Omega: 1.49
+Count: 43
+Time(ms): 0.592
+ 
+Omega: 1.50
+Count: 41
+Time(ms): 0.268
+ 
+Omega: 1.51
+Count: 38
+Time(ms): 0.261
+ 
+Omega: 1.52
+Count: 35
+Time(ms): 0.227
+ 
+Omega: 1.53
+Count: 31
+Time(ms): 0.202
+ 
+Omega: 1.54
+Count: 31
+Time(ms): 0.200
+ 
+Omega: 1.55
+Count: 30
+Time(ms): 0.195
+ 
+Omega: 1.56
+Count: 31
+Time(ms): 0.215
+ 
+Omega: 1.57
+Count: 32
+Time(ms): 0.284
+ 
+Omega: 1.58
+Count: 32
+Time(ms): 0.445
+ 
+Omega: 1.59
+Count: 33
+Time(ms): 0.210
+ 
+Omega: 1.60
+Count: 34
+Time(ms): 0.206
+ 
+Omega: 1.61
+Count: 36
+Time(ms): 0.220
+ 
+Omega: 1.62
+Count: 37
+Time(ms): 0.232
+ 
+Omega: 1.63
+Count: 39
+Time(ms): 0.262
+ 
+Omega: 1.64
+Count: 39
+Time(ms): 0.388
+ 
+Omega: 1.65
+Count: 40
+Time(ms): 0.584
+ 
+Omega: 1.66
+Count: 40
+Time(ms): 0.571
+ 
+Omega: 1.67
+Count: 42
+Time(ms): 0.633
+ 
+Omega: 1.68
+Count: 44
+Time(ms): 0.662
+ 
+Omega: 1.69
+Count: 45
+Time(ms): 0.689
+ 
+Omega: 1.70
+Count: 47
+Time(ms): 0.718
+ 
+Omega: 1.71
+Count: 48
+Time(ms): 0.766
+ 
+Omega: 1.72
+Count: 50
+Time(ms): 0.729
+ 
+Omega: 1.73
+Count: 50
+Time(ms): 0.502
+ 
+Omega: 1.74
+Count: 53
+Time(ms): 0.462
+ 
+Omega: 1.75
+Count: 56
+Time(ms): 0.848
+ 
+Omega: 1.76
+Count: 60
+Time(ms): 0.911
+ 
+Omega: 1.77
+Count: 61
+Time(ms): 0.921
+ 
+Omega: 1.78
+Count: 65
+Time(ms): 1.066
+ 
+Omega: 1.79
+Count: 68
+Time(ms): 0.485
+ 
+Omega: 1.80
+Count: 71
+Time(ms): 0.718
+ 
+Omega: 1.81
+Count: 74
+Time(ms): 1.144
+ 
+Omega: 1.82
+Count: 81
+Time(ms): 1.473
+ 
+Omega: 1.83
+Count: 83
+Time(ms): 1.801
+ 
+Omega: 1.84
+Count: 90
+Time(ms): 1.805
+ 
+Omega: 1.85
+Count: 95
+Time(ms): 1.525
+ 
+Omega: 1.86
+Count: 102
+Time(ms): 1.578
+ 
+Omega: 1.87
+Count: 110
+Time(ms): 1.685
+ 
+Omega: 1.88
+Count: 120
+Time(ms): 1.950
+ 
+Omega: 1.89
+Count: 133
+Time(ms): 1.200
+ 
+Omega: 1.90
+Count: 143
+Time(ms): 1.866
+ 
+Omega: 1.91
+Count: 161
+Time(ms): 2.219
+ 
+Omega: 1.92
+Count: 184
+Time(ms): 2.380
+ 
+Omega: 1.93
+Count: 211
+Time(ms): 2.147
+ 
+Omega: 1.94
+Count: 245
+Time(ms): 2.637
+ 
+Omega: 1.95
+Count: 295
+Time(ms): 2.993
+ 
+Omega: 1.96
+Count: 371
+Time(ms): 2.449
+ 
+Omega: 1.97
+Count: 491
+Time(ms): 3.380
+ 
+Omega: 1.98
+Count: 742
+Time(ms): 5.012
+ 
+Omega: 1.99
+Count: 1491
+Time(ms): 10.140
+
+--------
+Size: 9
+Min-Step-Count: 30
+Best-Omega: 1.55
+--------
+
+Size: 12
+
+Omega: 0.01
+Count: 55337
+Time(ms): 1565.927
+ 
+Omega: 0.02
+Count: 27530
+Time(ms): 824.849
+ 
+Omega: 0.03
+Count: 18261
+Time(ms): 483.365
+ 
+Omega: 0.04
+Count: 13626
+Time(ms): 363.629
+ 
+Omega: 0.05
+Count: 10845
+Time(ms): 295.851
+ 
+Omega: 0.06
+Count: 8991
+Time(ms): 251.353
+ 
+Omega: 0.07
+Count: 7667
+Time(ms): 221.632
+ 
+Omega: 0.08
+Count: 6674
+Time(ms): 181.220
+ 
+Omega: 0.09
+Count: 5902
+Time(ms): 168.152
+ 
+Omega: 0.10
+Count: 5284
+Time(ms): 134.672
+ 
+Omega: 0.11
+Count: 4778
+Time(ms): 115.649
+ 
+Omega: 0.12
+Count: 4357
+Time(ms): 115.272
+ 
+Omega: 0.13
+Count: 4000
+Time(ms): 101.215
+ 
+Omega: 0.14
+Count: 3695
+Time(ms): 85.765
+ 
+Omega: 0.15
+Count: 3430
+Time(ms): 93.739
+ 
+Omega: 0.16
+Count: 3198
+Time(ms): 103.796
+ 
+Omega: 0.17
+Count: 2994
+Time(ms): 77.977
+ 
+Omega: 0.18
+Count: 2812
+Time(ms): 65.015
+ 
+Omega: 0.19
+Count: 2649
+Time(ms): 66.509
+ 
+Omega: 0.20
+Count: 2503
+Time(ms): 61.649
+ 
+Omega: 0.21
+Count: 2370
+Time(ms): 68.398
+ 
+Omega: 0.22
+Count: 2250
+Time(ms): 57.327
+ 
+Omega: 0.23
+Count: 2140
+Time(ms): 44.842
+ 
+Omega: 0.24
+Count: 2039
+Time(ms): 54.754
+ 
+Omega: 0.25
+Count: 1947
+Time(ms): 54.097
+ 
+Omega: 0.26
+Count: 1861
+Time(ms): 44.209
+ 
+Omega: 0.27
+Count: 1782
+Time(ms): 39.799
+ 
+Omega: 0.28
+Count: 1708
+Time(ms): 59.518
+ 
+Omega: 0.29
+Count: 1640
+Time(ms): 50.644
+ 
+Omega: 0.30
+Count: 1576
+Time(ms): 46.213
+ 
+Omega: 0.31
+Count: 1516
+Time(ms): 52.829
+ 
+Omega: 0.32
+Count: 1460
+Time(ms): 32.173
+ 
+Omega: 0.33
+Count: 1407
+Time(ms): 29.327
+ 
+Omega: 0.34
+Count: 1357
+Time(ms): 51.179
+ 
+Omega: 0.35
+Count: 1311
+Time(ms): 46.191
+ 
+Omega: 0.36
+Count: 1267
+Time(ms): 26.934
+ 
+Omega: 0.37
+Count: 1225
+Time(ms): 36.572
+ 
+Omega: 0.38
+Count: 1185
+Time(ms): 37.215
+ 
+Omega: 0.39
+Count: 1148
+Time(ms): 27.789
+ 
+Omega: 0.40
+Count: 1112
+Time(ms): 32.620
+ 
+Omega: 0.41
+Count: 1078
+Time(ms): 25.205
+ 
+Omega: 0.42
+Count: 1046
+Time(ms): 29.032
+ 
+Omega: 0.43
+Count: 1015
+Time(ms): 27.127
+ 
+Omega: 0.44
+Count: 985
+Time(ms): 20.391
+ 
+Omega: 0.45
+Count: 957
+Time(ms): 26.931
+ 
+Omega: 0.46
+Count: 930
+Time(ms): 24.053
+ 
+Omega: 0.47
+Count: 905
+Time(ms): 22.367
+ 
+Omega: 0.48
+Count: 880
+Time(ms): 19.786
+ 
+Omega: 0.49
+Count: 856
+Time(ms): 25.944
+ 
+Omega: 0.50
+Count: 834
+Time(ms): 25.300
+ 
+Omega: 0.51
+Count: 812
+Time(ms): 21.141
+ 
+Omega: 0.52
+Count: 791
+Time(ms): 17.119
+ 
+Omega: 0.53
+Count: 771
+Time(ms): 16.415
+ 
+Omega: 0.54
+Count: 751
+Time(ms): 17.093
+ 
+Omega: 0.55
+Count: 732
+Time(ms): 19.957
+ 
+Omega: 0.56
+Count: 714
+Time(ms): 14.286
+ 
+Omega: 0.57
+Count: 697
+Time(ms): 24.542
+ 
+Omega: 0.58
+Count: 680
+Time(ms): 26.666
+ 
+Omega: 0.59
+Count: 664
+Time(ms): 15.438
+ 
+Omega: 0.60
+Count: 648
+Time(ms): 13.306
+ 
+Omega: 0.61
+Count: 633
+Time(ms): 14.231
+ 
+Omega: 0.62
+Count: 618
+Time(ms): 19.162
+ 
+Omega: 0.63
+Count: 604
+Time(ms): 23.761
+ 
+Omega: 0.64
+Count: 590
+Time(ms): 14.077
+ 
+Omega: 0.65
+Count: 576
+Time(ms): 11.748
+ 
+Omega: 0.66
+Count: 563
+Time(ms): 15.568
+ 
+Omega: 0.67
+Count: 551
+Time(ms): 13.247
+ 
+Omega: 0.68
+Count: 539
+Time(ms): 12.990
+ 
+Omega: 0.69
+Count: 527
+Time(ms): 11.999
+ 
+Omega: 0.70
+Count: 515
+Time(ms): 11.016
+ 
+Omega: 0.71
+Count: 504
+Time(ms): 10.716
+ 
+Omega: 0.72
+Count: 493
+Time(ms): 10.463
+ 
+Omega: 0.73
+Count: 482
+Time(ms): 9.864
+ 
+Omega: 0.74
+Count: 472
+Time(ms): 9.878
+ 
+Omega: 0.75
+Count: 462
+Time(ms): 15.008
+ 
+Omega: 0.76
+Count: 452
+Time(ms): 10.250
+ 
+Omega: 0.77
+Count: 443
+Time(ms): 9.254
+ 
+Omega: 0.78
+Count: 433
+Time(ms): 9.036
+ 
+Omega: 0.79
+Count: 424
+Time(ms): 16.153
+ 
+Omega: 0.80
+Count: 415
+Time(ms): 11.489
+ 
+Omega: 0.81
+Count: 407
+Time(ms): 11.533
+ 
+Omega: 0.82
+Count: 398
+Time(ms): 8.600
+ 
+Omega: 0.83
+Count: 390
+Time(ms): 8.271
+ 
+Omega: 0.84
+Count: 382
+Time(ms): 7.614
+ 
+Omega: 0.85
+Count: 374
+Time(ms): 8.685
+ 
+Omega: 0.86
+Count: 367
+Time(ms): 7.613
+ 
+Omega: 0.87
+Count: 359
+Time(ms): 7.498
+ 
+Omega: 0.88
+Count: 352
+Time(ms): 9.369
+ 
+Omega: 0.89
+Count: 345
+Time(ms): 10.400
+ 
+Omega: 0.90
+Count: 338
+Time(ms): 13.310
+ 
+Omega: 0.91
+Count: 331
+Time(ms): 14.644
+ 
+Omega: 0.92
+Count: 324
+Time(ms): 15.205
+ 
+Omega: 0.93
+Count: 318
+Time(ms): 12.398
+ 
+Omega: 0.94
+Count: 311
+Time(ms): 10.455
+ 
+Omega: 0.95
+Count: 305
+Time(ms): 8.313
+ 
+Omega: 0.96
+Count: 299
+Time(ms): 6.129
+ 
+Omega: 0.97
+Count: 293
+Time(ms): 5.989
+ 
+Omega: 0.98
+Count: 287
+Time(ms): 5.806
+ 
+Omega: 0.99
+Count: 281
+Time(ms): 5.846
+ 
+Omega: 1.00
+Count: 275
+Time(ms): 6.227
+ 
+Omega: 1.01
+Count: 270
+Time(ms): 6.493
+ 
+Omega: 1.02
+Count: 264
+Time(ms): 6.894
+ 
+Omega: 1.03
+Count: 259
+Time(ms): 5.107
+ 
+Omega: 1.04
+Count: 254
+Time(ms): 5.320
+ 
+Omega: 1.05
+Count: 248
+Time(ms): 5.331
+ 
+Omega: 1.06
+Count: 243
+Time(ms): 4.739
+ 
+Omega: 1.07
+Count: 238
+Time(ms): 4.856
+ 
+Omega: 1.08
+Count: 233
+Time(ms): 4.277
+ 
+Omega: 1.09
+Count: 229
+Time(ms): 7.978
+ 
+Omega: 1.10
+Count: 224
+Time(ms): 8.640
+ 
+Omega: 1.11
+Count: 219
+Time(ms): 6.300
+ 
+Omega: 1.12
+Count: 215
+Time(ms): 5.276
+ 
+Omega: 1.13
+Count: 210
+Time(ms): 4.681
+ 
+Omega: 1.14
+Count: 206
+Time(ms): 4.330
+ 
+Omega: 1.15
+Count: 201
+Time(ms): 4.296
+ 
+Omega: 1.16
+Count: 197
+Time(ms): 4.315
+ 
+Omega: 1.17
+Count: 193
+Time(ms): 3.667
+ 
+Omega: 1.18
+Count: 189
+Time(ms): 3.979
+ 
+Omega: 1.19
+Count: 185
+Time(ms): 3.903
+ 
+Omega: 1.20
+Count: 181
+Time(ms): 4.001
+ 
+Omega: 1.21
+Count: 177
+Time(ms): 3.454
+ 
+Omega: 1.22
+Count: 173
+Time(ms): 3.587
+ 
+Omega: 1.23
+Count: 169
+Time(ms): 3.561
+ 
+Omega: 1.24
+Count: 165
+Time(ms): 3.515
+ 
+Omega: 1.25
+Count: 162
+Time(ms): 3.455
+ 
+Omega: 1.26
+Count: 158
+Time(ms): 3.244
+ 
+Omega: 1.27
+Count: 154
+Time(ms): 3.240
+ 
+Omega: 1.28
+Count: 151
+Time(ms): 3.192
+ 
+Omega: 1.29
+Count: 147
+Time(ms): 3.105
+ 
+Omega: 1.30
+Count: 144
+Time(ms): 2.855
+ 
+Omega: 1.31
+Count: 140
+Time(ms): 2.956
+ 
+Omega: 1.32
+Count: 137
+Time(ms): 2.904
+ 
+Omega: 1.33
+Count: 134
+Time(ms): 2.791
+ 
+Omega: 1.34
+Count: 130
+Time(ms): 2.876
+ 
+Omega: 1.35
+Count: 127
+Time(ms): 2.301
+ 
+Omega: 1.36
+Count: 124
+Time(ms): 2.662
+ 
+Omega: 1.37
+Count: 121
+Time(ms): 2.789
+ 
+Omega: 1.38
+Count: 117
+Time(ms): 2.332
+ 
+Omega: 1.39
+Count: 114
+Time(ms): 2.407
+ 
+Omega: 1.40
+Count: 111
+Time(ms): 2.414
+ 
+Omega: 1.41
+Count: 108
+Time(ms): 2.862
+ 
+Omega: 1.42
+Count: 105
+Time(ms): 4.153
+ 
+Omega: 1.43
+Count: 102
+Time(ms): 3.967
+ 
+Omega: 1.44
+Count: 99
+Time(ms): 3.180
+ 
+Omega: 1.45
+Count: 96
+Time(ms): 2.757
+ 
+Omega: 1.46
+Count: 93
+Time(ms): 2.552
+ 
+Omega: 1.47
+Count: 90
+Time(ms): 2.704
+ 
+Omega: 1.48
+Count: 87
+Time(ms): 2.499
+ 
+Omega: 1.49
+Count: 84
+Time(ms): 1.822
+ 
+Omega: 1.50
+Count: 81
+Time(ms): 1.729
+ 
+Omega: 1.51
+Count: 79
+Time(ms): 1.761
+ 
+Omega: 1.52
+Count: 76
+Time(ms): 1.359
+ 
+Omega: 1.53
+Count: 73
+Time(ms): 1.475
+ 
+Omega: 1.54
+Count: 70
+Time(ms): 1.445
+ 
+Omega: 1.55
+Count: 67
+Time(ms): 1.397
+ 
+Omega: 1.56
+Count: 64
+Time(ms): 1.319
+ 
+Omega: 1.57
+Count: 61
+Time(ms): 1.286
+ 
+Omega: 1.58
+Count: 57
+Time(ms): 1.237
+ 
+Omega: 1.59
+Count: 54
+Time(ms): 1.160
+ 
+Omega: 1.60
+Count: 50
+Time(ms): 1.054
+ 
+Omega: 1.61
+Count: 45
+Time(ms): 0.950
+ 
+Omega: 1.62
+Count: 39
+Time(ms): 0.823
+ 
+Omega: 1.63
+Count: 40
+Time(ms): 1.084
+ 
+Omega: 1.64
+Count: 41
+Time(ms): 0.804
+ 
+Omega: 1.65
+Count: 42
+Time(ms): 0.823
+ 
+Omega: 1.66
+Count: 43
+Time(ms): 0.810
+ 
+Omega: 1.67
+Count: 45
+Time(ms): 0.898
+ 
+Omega: 1.68
+Count: 46
+Time(ms): 0.947
+ 
+Omega: 1.69
+Count: 49
+Time(ms): 1.038
+ 
+Omega: 1.70
+Count: 51
+Time(ms): 1.067
+ 
+Omega: 1.71
+Count: 52
+Time(ms): 1.098
+ 
+Omega: 1.72
+Count: 52
+Time(ms): 1.105
+ 
+Omega: 1.73
+Count: 54
+Time(ms): 1.141
+ 
+Omega: 1.74
+Count: 57
+Time(ms): 1.208
+ 
+Omega: 1.75
+Count: 58
+Time(ms): 1.292
+ 
+Omega: 1.76
+Count: 62
+Time(ms): 1.317
+ 
+Omega: 1.77
+Count: 62
+Time(ms): 1.352
+ 
+Omega: 1.78
+Count: 65
+Time(ms): 1.235
+ 
+Omega: 1.79
+Count: 69
+Time(ms): 1.404
+ 
+Omega: 1.80
+Count: 74
+Time(ms): 1.555
+ 
+Omega: 1.81
+Count: 79
+Time(ms): 1.656
+ 
+Omega: 1.82
+Count: 81
+Time(ms): 1.710
+ 
+Omega: 1.83
+Count: 86
+Time(ms): 1.791
+ 
+Omega: 1.84
+Count: 92
+Time(ms): 1.932
+ 
+Omega: 1.85
+Count: 97
+Time(ms): 2.094
+ 
+Omega: 1.86
+Count: 106
+Time(ms): 2.640
+ 
+Omega: 1.87
+Count: 114
+Time(ms): 2.724
+ 
+Omega: 1.88
+Count: 122
+Time(ms): 3.146
+ 
+Omega: 1.89
+Count: 133
+Time(ms): 2.327
+ 
+Omega: 1.90
+Count: 147
+Time(ms): 3.389
+ 
+Omega: 1.91
+Count: 163
+Time(ms): 3.730
+ 
+Omega: 1.92
+Count: 185
+Time(ms): 9.540
+ 
+Omega: 1.93
+Count: 211
+Time(ms): 7.185
+ 
+Omega: 1.94
+Count: 250
+Time(ms): 11.559
+ 
+Omega: 1.95
+Count: 300
+Time(ms): 6.760
+ 
+Omega: 1.96
+Count: 373
+Time(ms): 8.037
+ 
+Omega: 1.97
+Count: 500
+Time(ms): 16.629
+ 
+Omega: 1.98
+Count: 752
+Time(ms): 15.764
+ 
+Omega: 1.99
+Count: 1512
+Time(ms): 40.158
+
+--------
+Size: 12
+Min-Step-Count: 39
+Best-Omega: 1.62
+--------
+
+Size: 15
+
+Omega: 0.01
+Count: 84778
+Time(ms): 5589.462
+ 
+Omega: 0.02
+Count: 42176
+Time(ms): 2642.232
+ 
+Omega: 0.03
+Count: 27976
+Time(ms): 1782.757
+ 
+Omega: 0.04
+Count: 20875
+Time(ms): 1257.938
+ 
+Omega: 0.05
+Count: 16615
+Time(ms): 1110.118
+ 
+Omega: 0.06
+Count: 13775
+Time(ms): 893.950
+ 
+Omega: 0.07
+Count: 11746
+Time(ms): 757.312
+ 
+Omega: 0.08
+Count: 10225
+Time(ms): 658.889
+ 
+Omega: 0.09
+Count: 9041
+Time(ms): 693.943
+ 
+Omega: 0.10
+Count: 8095
+Time(ms): 632.318
+ 
+Omega: 0.11
+Count: 7320
+Time(ms): 587.594
+ 
+Omega: 0.12
+Count: 6675
+Time(ms): 537.005
+ 
+Omega: 0.13
+Count: 6128
+Time(ms): 458.316
+ 
+Omega: 0.14
+Count: 5660
+Time(ms): 431.688
+ 
+Omega: 0.15
+Count: 5254
+Time(ms): 344.884
+ 
+Omega: 0.16
+Count: 4899
+Time(ms): 343.526
+ 
+Omega: 0.17
+Count: 4586
+Time(ms): 300.561
+ 
+Omega: 0.18
+Count: 4308
+Time(ms): 319.044
+ 
+Omega: 0.19
+Count: 4059
+Time(ms): 309.306
+ 
+Omega: 0.20
+Count: 3834
+Time(ms): 237.876
+ 
+Omega: 0.21
+Count: 3631
+Time(ms): 297.463
+ 
+Omega: 0.22
+Count: 3447
+Time(ms): 258.683
+ 
+Omega: 0.23
+Count: 3279
+Time(ms): 242.525
+ 
+Omega: 0.24
+Count: 3124
+Time(ms): 192.091
+ 
+Omega: 0.25
+Count: 2982
+Time(ms): 214.389
+ 
+Omega: 0.26
+Count: 2851
+Time(ms): 176.012
+ 
+Omega: 0.27
+Count: 2730
+Time(ms): 188.814
+ 
+Omega: 0.28
+Count: 2617
+Time(ms): 199.078
+ 
+Omega: 0.29
+Count: 2512
+Time(ms): 206.796
+ 
+Omega: 0.30
+Count: 2414
+Time(ms): 174.057
+ 
+Omega: 0.31
+Count: 2322
+Time(ms): 170.739
+ 
+Omega: 0.32
+Count: 2236
+Time(ms): 129.251
+ 
+Omega: 0.33
+Count: 2156
+Time(ms): 175.098
+ 
+Omega: 0.34
+Count: 2080
+Time(ms): 127.587
+ 
+Omega: 0.35
+Count: 2008
+Time(ms): 162.393
+ 
+Omega: 0.36
+Count: 1941
+Time(ms): 122.512
+ 
+Omega: 0.37
+Count: 1877
+Time(ms): 156.120
+ 
+Omega: 0.38
+Count: 1816
+Time(ms): 140.284
+ 
+Omega: 0.39
+Count: 1758
+Time(ms): 131.422
+ 
+Omega: 0.40
+Count: 1704
+Time(ms): 137.827
+ 
+Omega: 0.41
+Count: 1652
+Time(ms): 125.284
+ 
+Omega: 0.42
+Count: 1602
+Time(ms): 123.478
+ 
+Omega: 0.43
+Count: 1555
+Time(ms): 91.970
+ 
+Omega: 0.44
+Count: 1510
+Time(ms): 110.983
+ 
+Omega: 0.45
+Count: 1467
+Time(ms): 121.868
+ 
+Omega: 0.46
+Count: 1426
+Time(ms): 100.187
+ 
+Omega: 0.47
+Count: 1386
+Time(ms): 106.407
+ 
+Omega: 0.48
+Count: 1348
+Time(ms): 78.920
+ 
+Omega: 0.49
+Count: 1312
+Time(ms): 83.184
+ 
+Omega: 0.50
+Count: 1277
+Time(ms): 86.465
+ 
+Omega: 0.51
+Count: 1244
+Time(ms): 115.451
+ 
+Omega: 0.52
+Count: 1212
+Time(ms): 76.693
+ 
+Omega: 0.53
+Count: 1181
+Time(ms): 80.936
+ 
+Omega: 0.54
+Count: 1151
+Time(ms): 91.167
+ 
+Omega: 0.55
+Count: 1122
+Time(ms): 87.919
+ 
+Omega: 0.56
+Count: 1095
+Time(ms): 73.232
+ 
+Omega: 0.57
+Count: 1068
+Time(ms): 82.839
+ 
+Omega: 0.58
+Count: 1042
+Time(ms): 102.631
+ 
+Omega: 0.59
+Count: 1017
+Time(ms): 87.138
+ 
+Omega: 0.60
+Count: 993
+Time(ms): 82.730
+ 
+Omega: 0.61
+Count: 970
+Time(ms): 86.783
+ 
+Omega: 0.62
+Count: 947
+Time(ms): 59.445
+ 
+Omega: 0.63
+Count: 925
+Time(ms): 57.603
+ 
+Omega: 0.64
+Count: 904
+Time(ms): 55.100
+ 
+Omega: 0.65
+Count: 884
+Time(ms): 53.376
+ 
+Omega: 0.66
+Count: 864
+Time(ms): 65.521
+ 
+Omega: 0.67
+Count: 844
+Time(ms): 50.219
+ 
+Omega: 0.68
+Count: 826
+Time(ms): 49.061
+ 
+Omega: 0.69
+Count: 808
+Time(ms): 46.677
+ 
+Omega: 0.70
+Count: 790
+Time(ms): 67.167
+ 
+Omega: 0.71
+Count: 773
+Time(ms): 55.636
+ 
+Omega: 0.72
+Count: 756
+Time(ms): 50.513
+ 
+Omega: 0.73
+Count: 740
+Time(ms): 51.462
+ 
+Omega: 0.74
+Count: 724
+Time(ms): 60.779
+ 
+Omega: 0.75
+Count: 709
+Time(ms): 41.230
+ 
+Omega: 0.76
+Count: 694
+Time(ms): 60.713
+ 
+Omega: 0.77
+Count: 679
+Time(ms): 77.992
+ 
+Omega: 0.78
+Count: 665
+Time(ms): 56.198
+ 
+Omega: 0.79
+Count: 651
+Time(ms): 61.577
+ 
+Omega: 0.80
+Count: 637
+Time(ms): 61.929
+ 
+Omega: 0.81
+Count: 624
+Time(ms): 62.137
+ 
+Omega: 0.82
+Count: 611
+Time(ms): 63.886
+ 
+Omega: 0.83
+Count: 599
+Time(ms): 36.129
+ 
+Omega: 0.84
+Count: 586
+Time(ms): 43.142
+ 
+Omega: 0.85
+Count: 574
+Time(ms): 35.168
+ 
+Omega: 0.86
+Count: 563
+Time(ms): 43.169
+ 
+Omega: 0.87
+Count: 551
+Time(ms): 32.315
+ 
+Omega: 0.88
+Count: 540
+Time(ms): 40.868
+ 
+Omega: 0.89
+Count: 529
+Time(ms): 31.822
+ 
+Omega: 0.90
+Count: 518
+Time(ms): 29.825
+ 
+Omega: 0.91
+Count: 508
+Time(ms): 30.479
+ 
+Omega: 0.92
+Count: 498
+Time(ms): 53.891
+ 
+Omega: 0.93
+Count: 488
+Time(ms): 62.701
+ 
+Omega: 0.94
+Count: 478
+Time(ms): 49.768
+ 
+Omega: 0.95
+Count: 468
+Time(ms): 39.227
+ 
+Omega: 0.96
+Count: 459
+Time(ms): 41.950
+ 
+Omega: 0.97
+Count: 450
+Time(ms): 51.679
+ 
+Omega: 0.98
+Count: 441
+Time(ms): 50.869
+ 
+Omega: 0.99
+Count: 432
+Time(ms): 47.689
+ 
+Omega: 1.00
+Count: 423
+Time(ms): 28.299
+ 
+Omega: 1.01
+Count: 415
+Time(ms): 26.743
+ 
+Omega: 1.02
+Count: 406
+Time(ms): 30.662
+ 
+Omega: 1.03
+Count: 398
+Time(ms): 40.351
+ 
+Omega: 1.04
+Count: 390
+Time(ms): 33.292
+ 
+Omega: 1.05
+Count: 382
+Time(ms): 22.280
+ 
+Omega: 1.06
+Count: 374
+Time(ms): 21.671
+ 
+Omega: 1.07
+Count: 367
+Time(ms): 21.690
+ 
+Omega: 1.08
+Count: 359
+Time(ms): 20.971
+ 
+Omega: 1.09
+Count: 352
+Time(ms): 20.529
+ 
+Omega: 1.10
+Count: 345
+Time(ms): 20.653
+ 
+Omega: 1.11
+Count: 338
+Time(ms): 28.935
+ 
+Omega: 1.12
+Count: 331
+Time(ms): 27.846
+ 
+Omega: 1.13
+Count: 324
+Time(ms): 25.299
+ 
+Omega: 1.14
+Count: 317
+Time(ms): 27.847
+ 
+Omega: 1.15
+Count: 311
+Time(ms): 38.038
+ 
+Omega: 1.16
+Count: 304
+Time(ms): 25.726
+ 
+Omega: 1.17
+Count: 298
+Time(ms): 18.305
+ 
+Omega: 1.18
+Count: 292
+Time(ms): 16.767
+ 
+Omega: 1.19
+Count: 285
+Time(ms): 24.527
+ 
+Omega: 1.20
+Count: 279
+Time(ms): 18.297
+ 
+Omega: 1.21
+Count: 273
+Time(ms): 15.933
+ 
+Omega: 1.22
+Count: 267
+Time(ms): 28.981
+ 
+Omega: 1.23
+Count: 262
+Time(ms): 18.457
+ 
+Omega: 1.24
+Count: 256
+Time(ms): 15.054
+ 
+Omega: 1.25
+Count: 250
+Time(ms): 14.320
+ 
+Omega: 1.26
+Count: 245
+Time(ms): 27.900
+ 
+Omega: 1.27
+Count: 239
+Time(ms): 17.338
+ 
+Omega: 1.28
+Count: 234
+Time(ms): 13.238
+ 
+Omega: 1.29
+Count: 229
+Time(ms): 13.106
+ 
+Omega: 1.30
+Count: 223
+Time(ms): 13.951
+ 
+Omega: 1.31
+Count: 218
+Time(ms): 12.941
+ 
+Omega: 1.32
+Count: 213
+Time(ms): 12.299
+ 
+Omega: 1.33
+Count: 208
+Time(ms): 11.870
+ 
+Omega: 1.34
+Count: 203
+Time(ms): 11.501
+ 
+Omega: 1.35
+Count: 198
+Time(ms): 18.130
+ 
+Omega: 1.36
+Count: 193
+Time(ms): 18.990
+ 
+Omega: 1.37
+Count: 189
+Time(ms): 24.353
+ 
+Omega: 1.38
+Count: 184
+Time(ms): 17.348
+ 
+Omega: 1.39
+Count: 179
+Time(ms): 11.752
+ 
+Omega: 1.40
+Count: 175
+Time(ms): 10.701
+ 
+Omega: 1.41
+Count: 170
+Time(ms): 10.342
+ 
+Omega: 1.42
+Count: 166
+Time(ms): 9.269
+ 
+Omega: 1.43
+Count: 161
+Time(ms): 15.847
+ 
+Omega: 1.44
+Count: 157
+Time(ms): 15.407
+ 
+Omega: 1.45
+Count: 153
+Time(ms): 17.778
+ 
+Omega: 1.46
+Count: 148
+Time(ms): 10.427
+ 
+Omega: 1.47
+Count: 144
+Time(ms): 9.992
+ 
+Omega: 1.48
+Count: 140
+Time(ms): 19.453
+ 
+Omega: 1.49
+Count: 136
+Time(ms): 12.145
+ 
+Omega: 1.50
+Count: 131
+Time(ms): 7.180
+ 
+Omega: 1.51
+Count: 127
+Time(ms): 10.703
+ 
+Omega: 1.52
+Count: 123
+Time(ms): 13.254
+ 
+Omega: 1.53
+Count: 119
+Time(ms): 11.024
+ 
+Omega: 1.54
+Count: 115
+Time(ms): 7.926
+ 
+Omega: 1.55
+Count: 111
+Time(ms): 9.666
+ 
+Omega: 1.56
+Count: 107
+Time(ms): 15.632
+ 
+Omega: 1.57
+Count: 103
+Time(ms): 11.664
+ 
+Omega: 1.58
+Count: 99
+Time(ms): 7.111
+ 
+Omega: 1.59
+Count: 95
+Time(ms): 5.785
+ 
+Omega: 1.60
+Count: 91
+Time(ms): 9.632
+ 
+Omega: 1.61
+Count: 86
+Time(ms): 8.468
+ 
+Omega: 1.62
+Count: 82
+Time(ms): 7.925
+ 
+Omega: 1.63
+Count: 78
+Time(ms): 8.974
+ 
+Omega: 1.64
+Count: 73
+Time(ms): 9.517
+ 
+Omega: 1.65
+Count: 68
+Time(ms): 8.020
+ 
+Omega: 1.66
+Count: 63
+Time(ms): 4.339
+ 
+Omega: 1.67
+Count: 57
+Time(ms): 4.061
+ 
+Omega: 1.68
+Count: 50
+Time(ms): 2.697
+ 
+Omega: 1.69
+Count: 49
+Time(ms): 2.799
+ 
+Omega: 1.70
+Count: 53
+Time(ms): 3.142
+ 
+Omega: 1.71
+Count: 52
+Time(ms): 2.997
+ 
+Omega: 1.72
+Count: 56
+Time(ms): 3.429
+ 
+Omega: 1.73
+Count: 58
+Time(ms): 3.208
+ 
+Omega: 1.74
+Count: 62
+Time(ms): 3.545
+ 
+Omega: 1.75
+Count: 63
+Time(ms): 3.545
+ 
+Omega: 1.76
+Count: 64
+Time(ms): 4.052
+ 
+Omega: 1.77
+Count: 67
+Time(ms): 3.576
+ 
+Omega: 1.78
+Count: 71
+Time(ms): 4.973
+ 
+Omega: 1.79
+Count: 72
+Time(ms): 3.877
+ 
+Omega: 1.80
+Count: 76
+Time(ms): 4.661
+ 
+Omega: 1.81
+Count: 79
+Time(ms): 5.833
+ 
+Omega: 1.82
+Count: 82
+Time(ms): 5.168
+ 
+Omega: 1.83
+Count: 89
+Time(ms): 9.176
+ 
+Omega: 1.84
+Count: 97
+Time(ms): 8.978
+ 
+Omega: 1.85
+Count: 100
+Time(ms): 9.223
+ 
+Omega: 1.86
+Count: 110
+Time(ms): 7.319
+ 
+Omega: 1.87
+Count: 114
+Time(ms): 6.490
+ 
+Omega: 1.88
+Count: 129
+Time(ms): 7.606
+ 
+Omega: 1.89
+Count: 136
+Time(ms): 9.042
+ 
+Omega: 1.90
+Count: 150
+Time(ms): 11.079
+ 
+Omega: 1.91
+Count: 166
+Time(ms): 13.249
+ 
+Omega: 1.92
+Count: 189
+Time(ms): 14.606
+ 
+Omega: 1.93
+Count: 217
+Time(ms): 31.346
+ 
+Omega: 1.94
+Count: 251
+Time(ms): 29.478
+ 
+Omega: 1.95
+Count: 306
+Time(ms): 24.537
+ 
+Omega: 1.96
+Count: 379
+Time(ms): 23.828
+ 
+Omega: 1.97
+Count: 504
+Time(ms): 53.937
+ 
+Omega: 1.98
+Count: 760
+Time(ms): 91.576
+ 
+Omega: 1.99
+Count: 1521
+Time(ms): 154.124
+
+--------
+Size: 15
+Min-Step-Count: 49
+Best-Omega: 1.69
+--------
+
+Size: 19
+
+Omega: 0.01
+Count: 134134
+Time(ms): 25882.816
+ 
+Omega: 0.02
+Count: 66730
+Time(ms): 12496.875
+ 
+Omega: 0.03
+Count: 44262
+Time(ms): 7321.928
+ 
+Omega: 0.04
+Count: 33028
+Time(ms): 6060.429
+ 
+Omega: 0.05
+Count: 26288
+Time(ms): 4896.541
+ 
+Omega: 0.06
+Count: 21794
+Time(ms): 4177.761
+ 
+Omega: 0.07
+Count: 18585
+Time(ms): 3650.529
+ 
+Omega: 0.08
+Count: 16177
+Time(ms): 3100.552
+ 
+Omega: 0.09
+Count: 14305
+Time(ms): 3033.075
+ 
+Omega: 0.10
+Count: 12807
+Time(ms): 2396.611
+ 
+Omega: 0.11
+Count: 11582
+Time(ms): 2361.895
+ 
+Omega: 0.12
+Count: 10560
+Time(ms): 2018.359
+ 
+Omega: 0.13
+Count: 9696
+Time(ms): 1923.150
+ 
+Omega: 0.14
+Count: 8955
+Time(ms): 1650.136
+ 
+Omega: 0.15
+Count: 8313
+Time(ms): 1414.647
+ 
+Omega: 0.16
+Count: 7752
+Time(ms): 1440.696
+ 
+Omega: 0.17
+Count: 7256
+Time(ms): 1332.011
+ 
+Omega: 0.18
+Count: 6815
+Time(ms): 1297.049
+ 
+Omega: 0.19
+Count: 6421
+Time(ms): 1186.516
+ 
+Omega: 0.20
+Count: 6066
+Time(ms): 1080.961
+ 
+Omega: 0.21
+Count: 5745
+Time(ms): 983.133
+ 
+Omega: 0.22
+Count: 5454
+Time(ms): 954.713
+ 
+Omega: 0.23
+Count: 5187
+Time(ms): 925.584
+ 
+Omega: 0.24
+Count: 4943
+Time(ms): 961.659
+ 
+Omega: 0.25
+Count: 4718
+Time(ms): 897.018
+ 
+Omega: 0.26
+Count: 4511
+Time(ms): 862.869
+ 
+Omega: 0.27
+Count: 4319
+Time(ms): 866.981
+ 
+Omega: 0.28
+Count: 4140
+Time(ms): 848.689
+ 
+Omega: 0.29
+Count: 3974
+Time(ms): 736.110
+ 
+Omega: 0.30
+Count: 3819
+Time(ms): 744.315
+ 
+Omega: 0.31
+Count: 3674
+Time(ms): 761.478
+ 
+Omega: 0.32
+Count: 3539
+Time(ms): 638.182
+ 
+Omega: 0.33
+Count: 3411
+Time(ms): 685.337
+ 
+Omega: 0.34
+Count: 3291
+Time(ms): 674.831
+ 
+Omega: 0.35
+Count: 3177
+Time(ms): 589.996
+ 
+Omega: 0.36
+Count: 3070
+Time(ms): 585.327
+ 
+Omega: 0.37
+Count: 2969
+Time(ms): 497.955
+ 
+Omega: 0.38
+Count: 2873
+Time(ms): 570.462
+ 
+Omega: 0.39
+Count: 2782
+Time(ms): 535.525
+ 
+Omega: 0.40
+Count: 2696
+Time(ms): 487.358
+ 
+Omega: 0.41
+Count: 2614
+Time(ms): 445.172
+ 
+Omega: 0.42
+Count: 2535
+Time(ms): 448.579
+ 
+Omega: 0.43
+Count: 2461
+Time(ms): 426.581
+ 
+Omega: 0.44
+Count: 2389
+Time(ms): 397.631
+ 
+Omega: 0.45
+Count: 2321
+Time(ms): 425.543
+ 
+Omega: 0.46
+Count: 2256
+Time(ms): 402.156
+ 
+Omega: 0.47
+Count: 2194
+Time(ms): 411.804
+ 
+Omega: 0.48
+Count: 2134
+Time(ms): 380.168
+ 
+Omega: 0.49
+Count: 2077
+Time(ms): 398.323
+ 
+Omega: 0.50
+Count: 2021
+Time(ms): 393.427
+ 
+Omega: 0.51
+Count: 1969
+Time(ms): 437.063
+ 
+Omega: 0.52
+Count: 1918
+Time(ms): 326.481
+ 
+Omega: 0.53
+Count: 1869
+Time(ms): 349.701
+ 
+Omega: 0.54
+Count: 1822
+Time(ms): 422.406
+ 
+Omega: 0.55
+Count: 1776
+Time(ms): 401.915
+ 
+Omega: 0.56
+Count: 1732
+Time(ms): 370.734
+ 
+Omega: 0.57
+Count: 1690
+Time(ms): 394.022
+ 
+Omega: 0.58
+Count: 1649
+Time(ms): 335.103
+ 
+Omega: 0.59
+Count: 1610
+Time(ms): 330.779
+ 
+Omega: 0.60
+Count: 1572
+Time(ms): 323.767
+ 
+Omega: 0.61
+Count: 1535
+Time(ms): 265.151
+ 
+Omega: 0.62
+Count: 1499
+Time(ms): 318.925
+ 
+Omega: 0.63
+Count: 1465
+Time(ms): 307.238
+ 
+Omega: 0.64
+Count: 1431
+Time(ms): 300.801
+ 
+Omega: 0.65
+Count: 1399
+Time(ms): 261.709
+ 
+Omega: 0.66
+Count: 1367
+Time(ms): 316.612
+ 
+Omega: 0.67
+Count: 1337
+Time(ms): 241.699
+ 
+Omega: 0.68
+Count: 1307
+Time(ms): 232.903
+ 
+Omega: 0.69
+Count: 1278
+Time(ms): 238.353
+ 
+Omega: 0.70
+Count: 1250
+Time(ms): 213.063
+ 
+Omega: 0.71
+Count: 1223
+Time(ms): 265.299
+ 
+Omega: 0.72
+Count: 1197
+Time(ms): 237.279
+ 
+Omega: 0.73
+Count: 1171
+Time(ms): 235.679
+ 
+Omega: 0.74
+Count: 1146
+Time(ms): 216.278
+ 
+Omega: 0.75
+Count: 1122
+Time(ms): 198.299
+ 
+Omega: 0.76
+Count: 1098
+Time(ms): 175.783
+ 
+Omega: 0.77
+Count: 1075
+Time(ms): 230.030
+ 
+Omega: 0.78
+Count: 1053
+Time(ms): 297.115
+ 
+Omega: 0.79
+Count: 1031
+Time(ms): 201.020
+ 
+Omega: 0.80
+Count: 1009
+Time(ms): 262.000
+ 
+Omega: 0.81
+Count: 988
+Time(ms): 203.784
+ 
+Omega: 0.82
+Count: 968
+Time(ms): 214.449
+ 
+Omega: 0.83
+Count: 948
+Time(ms): 190.793
+ 
+Omega: 0.84
+Count: 929
+Time(ms): 190.563
+ 
+Omega: 0.85
+Count: 910
+Time(ms): 167.912
+ 
+Omega: 0.86
+Count: 891
+Time(ms): 186.672
+ 
+Omega: 0.87
+Count: 873
+Time(ms): 218.742
+ 
+Omega: 0.88
+Count: 856
+Time(ms): 199.897
+ 
+Omega: 0.89
+Count: 838
+Time(ms): 189.136
+ 
+Omega: 0.90
+Count: 822
+Time(ms): 158.467
+ 
+Omega: 0.91
+Count: 805
+Time(ms): 128.696
+ 
+Omega: 0.92
+Count: 789
+Time(ms): 157.088
+ 
+Omega: 0.93
+Count: 773
+Time(ms): 155.132
+ 
+Omega: 0.94
+Count: 758
+Time(ms): 117.196
+ 
+Omega: 0.95
+Count: 742
+Time(ms): 150.757
+ 
+Omega: 0.96
+Count: 728
+Time(ms): 165.983
+ 
+Omega: 0.97
+Count: 713
+Time(ms): 105.666
+ 
+Omega: 0.98
+Count: 699
+Time(ms): 109.380
+ 
+Omega: 0.99
+Count: 685
+Time(ms): 170.457
+ 
+Omega: 1.00
+Count: 671
+Time(ms): 142.034
+ 
+Omega: 1.01
+Count: 658
+Time(ms): 143.088
+ 
+Omega: 1.02
+Count: 645
+Time(ms): 138.566
+ 
+Omega: 1.03
+Count: 632
+Time(ms): 149.271
+ 
+Omega: 1.04
+Count: 619
+Time(ms): 134.688
+ 
+Omega: 1.05
+Count: 607
+Time(ms): 152.570
+ 
+Omega: 1.06
+Count: 594
+Time(ms): 137.432
+ 
+Omega: 1.07
+Count: 582
+Time(ms): 139.477
+ 
+Omega: 1.08
+Count: 571
+Time(ms): 143.611
+ 
+Omega: 1.09
+Count: 559
+Time(ms): 133.857
+ 
+Omega: 1.10
+Count: 548
+Time(ms): 94.086
+ 
+Omega: 1.11
+Count: 537
+Time(ms): 142.059
+ 
+Omega: 1.12
+Count: 526
+Time(ms): 146.482
+ 
+Omega: 1.13
+Count: 515
+Time(ms): 102.725
+ 
+Omega: 1.14
+Count: 504
+Time(ms): 82.877
+ 
+Omega: 1.15
+Count: 494
+Time(ms): 127.939
+ 
+Omega: 1.16
+Count: 484
+Time(ms): 97.046
+ 
+Omega: 1.17
+Count: 474
+Time(ms): 68.507
+ 
+Omega: 1.18
+Count: 464
+Time(ms): 85.536
+ 
+Omega: 1.19
+Count: 454
+Time(ms): 64.771
+ 
+Omega: 1.20
+Count: 445
+Time(ms): 95.030
+ 
+Omega: 1.21
+Count: 435
+Time(ms): 79.774
+ 
+Omega: 1.22
+Count: 426
+Time(ms): 109.361
+ 
+Omega: 1.23
+Count: 417
+Time(ms): 100.826
+ 
+Omega: 1.24
+Count: 408
+Time(ms): 116.831
+ 
+Omega: 1.25
+Count: 399
+Time(ms): 107.309
+ 
+Omega: 1.26
+Count: 390
+Time(ms): 61.956
+ 
+Omega: 1.27
+Count: 382
+Time(ms): 71.692
+ 
+Omega: 1.28
+Count: 373
+Time(ms): 78.655
+ 
+Omega: 1.29
+Count: 365
+Time(ms): 67.871
+ 
+Omega: 1.30
+Count: 357
+Time(ms): 83.198
+ 
+Omega: 1.31
+Count: 349
+Time(ms): 66.935
+ 
+Omega: 1.32
+Count: 341
+Time(ms): 64.903
+ 
+Omega: 1.33
+Count: 333
+Time(ms): 48.773
+ 
+Omega: 1.34
+Count: 325
+Time(ms): 53.660
+ 
+Omega: 1.35
+Count: 318
+Time(ms): 71.405
+ 
+Omega: 1.36
+Count: 310
+Time(ms): 82.696
+ 
+Omega: 1.37
+Count: 303
+Time(ms): 53.257
+ 
+Omega: 1.38
+Count: 295
+Time(ms): 71.220
+ 
+Omega: 1.39
+Count: 288
+Time(ms): 52.893
+ 
+Omega: 1.40
+Count: 281
+Time(ms): 60.357
+ 
+Omega: 1.41
+Count: 274
+Time(ms): 76.962
+ 
+Omega: 1.42
+Count: 267
+Time(ms): 41.709
+ 
+Omega: 1.43
+Count: 260
+Time(ms): 59.112
+ 
+Omega: 1.44
+Count: 253
+Time(ms): 43.948
+ 
+Omega: 1.45
+Count: 247
+Time(ms): 52.266
+ 
+Omega: 1.46
+Count: 240
+Time(ms): 36.600
+ 
+Omega: 1.47
+Count: 234
+Time(ms): 64.948
+ 
+Omega: 1.48
+Count: 227
+Time(ms): 66.377
+ 
+Omega: 1.49
+Count: 221
+Time(ms): 48.041
+ 
+Omega: 1.50
+Count: 214
+Time(ms): 40.415
+ 
+Omega: 1.51
+Count: 208
+Time(ms): 40.924
+ 
+Omega: 1.52
+Count: 202
+Time(ms): 30.276
+ 
+Omega: 1.53
+Count: 196
+Time(ms): 28.722
+ 
+Omega: 1.54
+Count: 189
+Time(ms): 47.761
+ 
+Omega: 1.55
+Count: 183
+Time(ms): 30.426
+ 
+Omega: 1.56
+Count: 177
+Time(ms): 32.378
+ 
+Omega: 1.57
+Count: 171
+Time(ms): 30.832
+ 
+Omega: 1.58
+Count: 165
+Time(ms): 31.961
+ 
+Omega: 1.59
+Count: 160
+Time(ms): 35.040
+ 
+Omega: 1.60
+Count: 154
+Time(ms): 22.734
+ 
+Omega: 1.61
+Count: 148
+Time(ms): 25.282
+ 
+Omega: 1.62
+Count: 142
+Time(ms): 28.224
+ 
+Omega: 1.63
+Count: 136
+Time(ms): 20.177
+ 
+Omega: 1.64
+Count: 130
+Time(ms): 21.295
+ 
+Omega: 1.65
+Count: 124
+Time(ms): 24.491
+ 
+Omega: 1.66
+Count: 118
+Time(ms): 32.027
+ 
+Omega: 1.67
+Count: 112
+Time(ms): 17.356
+ 
+Omega: 1.68
+Count: 106
+Time(ms): 31.368
+ 
+Omega: 1.69
+Count: 100
+Time(ms): 28.190
+ 
+Omega: 1.70
+Count: 93
+Time(ms): 18.192
+ 
+Omega: 1.71
+Count: 86
+Time(ms): 22.797
+ 
+Omega: 1.72
+Count: 78
+Time(ms): 12.374
+ 
+Omega: 1.73
+Count: 67
+Time(ms): 14.444
+ 
+Omega: 1.74
+Count: 65
+Time(ms): 14.407
+ 
+Omega: 1.75
+Count: 67
+Time(ms): 11.770
+ 
+Omega: 1.76
+Count: 67
+Time(ms): 12.239
+ 
+Omega: 1.77
+Count: 72
+Time(ms): 12.750
+ 
+Omega: 1.78
+Count: 75
+Time(ms): 11.537
+ 
+Omega: 1.79
+Count: 79
+Time(ms): 13.311
+ 
+Omega: 1.80
+Count: 80
+Time(ms): 14.486
+ 
+Omega: 1.81
+Count: 84
+Time(ms): 16.011
+ 
+Omega: 1.82
+Count: 89
+Time(ms): 15.831
+ 
+Omega: 1.83
+Count: 94
+Time(ms): 20.089
+ 
+Omega: 1.84
+Count: 97
+Time(ms): 12.851
+ 
+Omega: 1.85
+Count: 102
+Time(ms): 26.926
+ 
+Omega: 1.86
+Count: 112
+Time(ms): 17.410
+ 
+Omega: 1.87
+Count: 121
+Time(ms): 31.636
+ 
+Omega: 1.88
+Count: 130
+Time(ms): 34.666
+ 
+Omega: 1.89
+Count: 141
+Time(ms): 26.513
+ 
+Omega: 1.90
+Count: 157
+Time(ms): 45.952
+ 
+Omega: 1.91
+Count: 170
+Time(ms): 47.910
+ 
+Omega: 1.92
+Count: 195
+Time(ms): 29.897
+ 
+Omega: 1.93
+Count: 220
+Time(ms): 30.705
+ 
+Omega: 1.94
+Count: 255
+Time(ms): 44.117
+ 
+Omega: 1.95
+Count: 305
+Time(ms): 45.968
+ 
+Omega: 1.96
+Count: 383
+Time(ms): 93.741
+ 
+Omega: 1.97
+Count: 512
+Time(ms): 132.307
+ 
+Omega: 1.98
+Count: 768
+Time(ms): 147.459
+ 
+Omega: 1.99
+Count: 1541
+Time(ms): 332.846
+
+--------
+Size: 19
+Min-Step-Count: 65
+Best-Omega: 1.74
+--------
+
+Size: 20
+
+Omega: 0.01
+Count: 148293
+Time(ms): 32807.492
+ 
+Omega: 0.02
+Count: 73774
+Time(ms): 15550.714
+ 
+Omega: 0.03
+Count: 48934
+Time(ms): 10411.771
+ 
+Omega: 0.04
+Count: 36515
+Time(ms): 8087.789
+ 
+Omega: 0.05
+Count: 29063
+Time(ms): 6130.729
+ 
+Omega: 0.06
+Count: 24095
+Time(ms): 5229.032
+ 
+Omega: 0.07
+Count: 20546
+Time(ms): 4583.495
+ 
+Omega: 0.08
+Count: 17885
+Time(ms): 4156.670
+ 
+Omega: 0.09
+Count: 15815
+Time(ms): 3475.287
+ 
+Omega: 0.10
+Count: 14159
+Time(ms): 3033.102
+ 
+Omega: 0.11
+Count: 12804
+Time(ms): 2785.453
+ 
+Omega: 0.12
+Count: 11675
+Time(ms): 2766.499
+ 
+Omega: 0.13
+Count: 10720
+Time(ms): 2518.391
+ 
+Omega: 0.14
+Count: 9901
+Time(ms): 2077.527
+ 
+Omega: 0.15
+Count: 9191
+Time(ms): 1927.174
+ 
+Omega: 0.16
+Count: 8570
+Time(ms): 2020.178
+ 
+Omega: 0.17
+Count: 8022
+Time(ms): 1754.443
+ 
+Omega: 0.18
+Count: 7535
+Time(ms): 1602.896
+ 
+Omega: 0.19
+Count: 7099
+Time(ms): 1518.923
+ 
+Omega: 0.20
+Count: 6707
+Time(ms): 1356.452
+ 
+Omega: 0.21
+Count: 6352
+Time(ms): 1303.466
+ 
+Omega: 0.22
+Count: 6029
+Time(ms): 1305.038
+ 
+Omega: 0.23
+Count: 5735
+Time(ms): 1264.736
+ 
+Omega: 0.24
+Count: 5465
+Time(ms): 1173.749
+ 
+Omega: 0.25
+Count: 5216
+Time(ms): 1122.823
+ 
+Omega: 0.26
+Count: 4987
+Time(ms): 1121.110
+ 
+Omega: 0.27
+Count: 4775
+Time(ms): 1229.306
+ 
+Omega: 0.28
+Count: 4578
+Time(ms): 1164.855
+ 
+Omega: 0.29
+Count: 4394
+Time(ms): 1020.836
+ 
+Omega: 0.30
+Count: 4223
+Time(ms): 1010.738
+ 
+Omega: 0.31
+Count: 4062
+Time(ms): 998.463
+ 
+Omega: 0.32
+Count: 3912
+Time(ms): 813.836
+ 
+Omega: 0.33
+Count: 3771
+Time(ms): 1000.551
+ 
+Omega: 0.34
+Count: 3638
+Time(ms): 758.041
+ 
+Omega: 0.35
+Count: 3513
+Time(ms): 781.447
+ 
+Omega: 0.36
+Count: 3394
+Time(ms): 598.704
+ 
+Omega: 0.37
+Count: 3283
+Time(ms): 729.435
+ 
+Omega: 0.38
+Count: 3177
+Time(ms): 618.478
+ 
+Omega: 0.39
+Count: 3076
+Time(ms): 659.527
+ 
+Omega: 0.40
+Count: 2980
+Time(ms): 611.198
+ 
+Omega: 0.41
+Count: 2889
+Time(ms): 606.997
+ 
+Omega: 0.42
+Count: 2803
+Time(ms): 604.852
+ 
+Omega: 0.43
+Count: 2720
+Time(ms): 511.530
+ 
+Omega: 0.44
+Count: 2642
+Time(ms): 577.484
+ 
+Omega: 0.45
+Count: 2566
+Time(ms): 574.214
+ 
+Omega: 0.46
+Count: 2494
+Time(ms): 585.619
+ 
+Omega: 0.47
+Count: 2425
+Time(ms): 655.062
+ 
+Omega: 0.48
+Count: 2359
+Time(ms): 486.303
+ 
+Omega: 0.49
+Count: 2296
+Time(ms): 425.943
+ 
+Omega: 0.50
+Count: 2235
+Time(ms): 451.345
+ 
+Omega: 0.51
+Count: 2176
+Time(ms): 406.638
+ 
+Omega: 0.52
+Count: 2120
+Time(ms): 435.609
+ 
+Omega: 0.53
+Count: 2066
+Time(ms): 417.141
+ 
+Omega: 0.54
+Count: 2014
+Time(ms): 369.154
+ 
+Omega: 0.55
+Count: 1964
+Time(ms): 391.011
+ 
+Omega: 0.56
+Count: 1915
+Time(ms): 373.775
+ 
+Omega: 0.57
+Count: 1869
+Time(ms): 338.330
+ 
+Omega: 0.58
+Count: 1824
+Time(ms): 403.441
+ 
+Omega: 0.59
+Count: 1780
+Time(ms): 347.762
+ 
+Omega: 0.60
+Count: 1738
+Time(ms): 423.868
+ 
+Omega: 0.61
+Count: 1697
+Time(ms): 378.168
+ 
+Omega: 0.62
+Count: 1658
+Time(ms): 324.917
+ 
+Omega: 0.63
+Count: 1619
+Time(ms): 387.827
+ 
+Omega: 0.64
+Count: 1582
+Time(ms): 391.729
+ 
+Omega: 0.65
+Count: 1547
+Time(ms): 314.567
+ 
+Omega: 0.66
+Count: 1512
+Time(ms): 309.225
+ 
+Omega: 0.67
+Count: 1478
+Time(ms): 262.346
+ 
+Omega: 0.68
+Count: 1445
+Time(ms): 354.849
+ 
+Omega: 0.69
+Count: 1413
+Time(ms): 259.356
+ 
+Omega: 0.70
+Count: 1383
+Time(ms): 339.420
+ 
+Omega: 0.71
+Count: 1353
+Time(ms): 246.312
+ 
+Omega: 0.72
+Count: 1323
+Time(ms): 290.616
+ 
+Omega: 0.73
+Count: 1295
+Time(ms): 334.426
+ 
+Omega: 0.74
+Count: 1267
+Time(ms): 276.063
+ 
+Omega: 0.75
+Count: 1240
+Time(ms): 285.200
+ 
+Omega: 0.76
+Count: 1214
+Time(ms): 238.415
+ 
+Omega: 0.77
+Count: 1189
+Time(ms): 221.836
+ 
+Omega: 0.78
+Count: 1164
+Time(ms): 317.959
+ 
+Omega: 0.79
+Count: 1140
+Time(ms): 282.810
+ 
+Omega: 0.80
+Count: 1116
+Time(ms): 195.490
+ 
+Omega: 0.81
+Count: 1093
+Time(ms): 281.280
+ 
+Omega: 0.82
+Count: 1070
+Time(ms): 237.113
+ 
+Omega: 0.83
+Count: 1049
+Time(ms): 241.947
+ 
+Omega: 0.84
+Count: 1027
+Time(ms): 230.503
+ 
+Omega: 0.85
+Count: 1006
+Time(ms): 246.539
+ 
+Omega: 0.86
+Count: 986
+Time(ms): 216.671
+ 
+Omega: 0.87
+Count: 966
+Time(ms): 225.039
+ 
+Omega: 0.88
+Count: 946
+Time(ms): 202.988
+ 
+Omega: 0.89
+Count: 927
+Time(ms): 189.321
+ 
+Omega: 0.90
+Count: 908
+Time(ms): 205.366
+ 
+Omega: 0.91
+Count: 890
+Time(ms): 195.998
+ 
+Omega: 0.92
+Count: 872
+Time(ms): 181.874
+ 
+Omega: 0.93
+Count: 855
+Time(ms): 166.826
+ 
+Omega: 0.94
+Count: 838
+Time(ms): 188.263
+ 
+Omega: 0.95
+Count: 821
+Time(ms): 224.423
+ 
+Omega: 0.96
+Count: 805
+Time(ms): 192.009
+ 
+Omega: 0.97
+Count: 789
+Time(ms): 199.609
+ 
+Omega: 0.98
+Count: 773
+Time(ms): 164.492
+ 
+Omega: 0.99
+Count: 757
+Time(ms): 138.262
+ 
+Omega: 1.00
+Count: 742
+Time(ms): 134.730
+ 
+Omega: 1.01
+Count: 727
+Time(ms): 154.015
+ 
+Omega: 1.02
+Count: 713
+Time(ms): 143.062
+ 
+Omega: 1.03
+Count: 699
+Time(ms): 140.368
+ 
+Omega: 1.04
+Count: 685
+Time(ms): 156.394
+ 
+Omega: 1.05
+Count: 671
+Time(ms): 136.169
+ 
+Omega: 1.06
+Count: 657
+Time(ms): 163.483
+ 
+Omega: 1.07
+Count: 644
+Time(ms): 162.236
+ 
+Omega: 1.08
+Count: 631
+Time(ms): 118.431
+ 
+Omega: 1.09
+Count: 618
+Time(ms): 191.811
+ 
+Omega: 1.10
+Count: 606
+Time(ms): 168.547
+ 
+Omega: 1.11
+Count: 594
+Time(ms): 131.805
+ 
+Omega: 1.12
+Count: 582
+Time(ms): 110.531
+ 
+Omega: 1.13
+Count: 570
+Time(ms): 130.016
+ 
+Omega: 1.14
+Count: 558
+Time(ms): 115.325
+ 
+Omega: 1.15
+Count: 547
+Time(ms): 99.773
+ 
+Omega: 1.16
+Count: 535
+Time(ms): 102.086
+ 
+Omega: 1.17
+Count: 524
+Time(ms): 107.229
+ 
+Omega: 1.18
+Count: 513
+Time(ms): 97.881
+ 
+Omega: 1.19
+Count: 503
+Time(ms): 117.860
+ 
+Omega: 1.20
+Count: 492
+Time(ms): 132.496
+ 
+Omega: 1.21
+Count: 482
+Time(ms): 102.076
+ 
+Omega: 1.22
+Count: 471
+Time(ms): 87.612
+ 
+Omega: 1.23
+Count: 461
+Time(ms): 76.272
+ 
+Omega: 1.24
+Count: 452
+Time(ms): 90.965
+ 
+Omega: 1.25
+Count: 442
+Time(ms): 96.982
+ 
+Omega: 1.26
+Count: 432
+Time(ms): 133.537
+ 
+Omega: 1.27
+Count: 423
+Time(ms): 103.072
+ 
+Omega: 1.28
+Count: 413
+Time(ms): 108.613
+ 
+Omega: 1.29
+Count: 404
+Time(ms): 100.887
+ 
+Omega: 1.30
+Count: 395
+Time(ms): 117.420
+ 
+Omega: 1.31
+Count: 386
+Time(ms): 78.276
+ 
+Omega: 1.32
+Count: 378
+Time(ms): 78.413
+ 
+Omega: 1.33
+Count: 369
+Time(ms): 62.851
+ 
+Omega: 1.34
+Count: 360
+Time(ms): 59.597
+ 
+Omega: 1.35
+Count: 352
+Time(ms): 68.910
+ 
+Omega: 1.36
+Count: 344
+Time(ms): 57.193
+ 
+Omega: 1.37
+Count: 336
+Time(ms): 75.546
+ 
+Omega: 1.38
+Count: 327
+Time(ms): 65.394
+ 
+Omega: 1.39
+Count: 319
+Time(ms): 55.932
+ 
+Omega: 1.40
+Count: 312
+Time(ms): 48.921
+ 
+Omega: 1.41
+Count: 304
+Time(ms): 66.921
+ 
+Omega: 1.42
+Count: 296
+Time(ms): 47.230
+ 
+Omega: 1.43
+Count: 289
+Time(ms): 54.491
+ 
+Omega: 1.44
+Count: 281
+Time(ms): 71.158
+ 
+Omega: 1.45
+Count: 274
+Time(ms): 44.512
+ 
+Omega: 1.46
+Count: 266
+Time(ms): 66.111
+ 
+Omega: 1.47
+Count: 259
+Time(ms): 55.837
+ 
+Omega: 1.48
+Count: 252
+Time(ms): 69.497
+ 
+Omega: 1.49
+Count: 245
+Time(ms): 77.273
+ 
+Omega: 1.50
+Count: 238
+Time(ms): 55.232
+ 
+Omega: 1.51
+Count: 231
+Time(ms): 76.951
+ 
+Omega: 1.52
+Count: 224
+Time(ms): 58.505
+ 
+Omega: 1.53
+Count: 218
+Time(ms): 57.395
+ 
+Omega: 1.54
+Count: 211
+Time(ms): 48.979
+ 
+Omega: 1.55
+Count: 204
+Time(ms): 34.027
+ 
+Omega: 1.56
+Count: 198
+Time(ms): 47.230
+ 
+Omega: 1.57
+Count: 191
+Time(ms): 37.828
+ 
+Omega: 1.58
+Count: 184
+Time(ms): 51.935
+ 
+Omega: 1.59
+Count: 178
+Time(ms): 58.127
+ 
+Omega: 1.60
+Count: 172
+Time(ms): 57.114
+ 
+Omega: 1.61
+Count: 165
+Time(ms): 30.168
+ 
+Omega: 1.62
+Count: 159
+Time(ms): 28.663
+ 
+Omega: 1.63
+Count: 152
+Time(ms): 44.564
+ 
+Omega: 1.64
+Count: 146
+Time(ms): 23.455
+ 
+Omega: 1.65
+Count: 140
+Time(ms): 27.109
+ 
+Omega: 1.66
+Count: 133
+Time(ms): 28.520
+ 
+Omega: 1.67
+Count: 127
+Time(ms): 35.994
+ 
+Omega: 1.68
+Count: 120
+Time(ms): 39.894
+ 
+Omega: 1.69
+Count: 114
+Time(ms): 30.705
+ 
+Omega: 1.70
+Count: 107
+Time(ms): 26.830
+ 
+Omega: 1.71
+Count: 100
+Time(ms): 17.309
+ 
+Omega: 1.72
+Count: 92
+Time(ms): 14.812
+ 
+Omega: 1.73
+Count: 84
+Time(ms): 13.322
+ 
+Omega: 1.74
+Count: 72
+Time(ms): 12.302
+ 
+Omega: 1.75
+Count: 68
+Time(ms): 16.772
+ 
+Omega: 1.76
+Count: 70
+Time(ms): 23.294
+ 
+Omega: 1.77
+Count: 71
+Time(ms): 16.947
+ 
+Omega: 1.78
+Count: 76
+Time(ms): 13.936
+ 
+Omega: 1.79
+Count: 79
+Time(ms): 23.310
+ 
+Omega: 1.80
+Count: 83
+Time(ms): 13.774
+ 
+Omega: 1.81
+Count: 85
+Time(ms): 13.302
+ 
+Omega: 1.82
+Count: 88
+Time(ms): 12.965
+ 
+Omega: 1.83
+Count: 94
+Time(ms): 14.481
+ 
+Omega: 1.84
+Count: 100
+Time(ms): 24.080
+ 
+Omega: 1.85
+Count: 105
+Time(ms): 27.277
+ 
+Omega: 1.86
+Count: 111
+Time(ms): 34.479
+ 
+Omega: 1.87
+Count: 123
+Time(ms): 40.403
+ 
+Omega: 1.88
+Count: 130
+Time(ms): 20.339
+ 
+Omega: 1.89
+Count: 144
+Time(ms): 30.568
+ 
+Omega: 1.90
+Count: 153
+Time(ms): 24.380
+ 
+Omega: 1.91
+Count: 173
+Time(ms): 37.819
+ 
+Omega: 1.92
+Count: 192
+Time(ms): 31.101
+ 
+Omega: 1.93
+Count: 218
+Time(ms): 50.191
+ 
+Omega: 1.94
+Count: 255
+Time(ms): 38.149
+ 
+Omega: 1.95
+Count: 308
+Time(ms): 53.790
+ 
+Omega: 1.96
+Count: 382
+Time(ms): 91.564
+ 
+Omega: 1.97
+Count: 509
+Time(ms): 111.612
+ 
+Omega: 1.98
+Count: 766
+Time(ms): 181.839
+ 
+Omega: 1.99
+Count: 1540
+Time(ms): 262.863
+
+--------
+Size: 20
+Min-Step-Count: 68
+Best-Omega: 1.75
+--------
+
+Size: 24
+
+Omega: 0.01
+Count: 212264
+Time(ms): 102808.969
+ 
+Omega: 0.02
+Count: 105599
+Time(ms): 51765.012
+ 
+Omega: 0.03
+Count: 70044
+Time(ms): 41414.070
+ 
+Omega: 0.04
+Count: 52266
+Time(ms): 24258.260
+ 
+Omega: 0.05
+Count: 41600
+Time(ms): 18691.354
+ 
+Omega: 0.06
+Count: 34489
+Time(ms): 15804.100
+ 
+Omega: 0.07
+Count: 29409
+Time(ms): 13437.611
+ 
+Omega: 0.08
+Count: 25600
+Time(ms): 12076.659
+ 
+Omega: 0.09
+Count: 22637
+Time(ms): 11144.308
+ 
+Omega: 0.10
+Count: 20267
+Time(ms): 10303.003
+ 
+Omega: 0.11
+Count: 18327
+Time(ms): 9240.123
+ 
+Omega: 0.12
+Count: 16711
+Time(ms): 8755.860
+ 
+Omega: 0.13
+Count: 15344
+Time(ms): 7993.536
+ 
+Omega: 0.14
+Count: 14171
+Time(ms): 7126.129
+ 
+Omega: 0.15
+Count: 13156
+Time(ms): 7008.899
+ 
+Omega: 0.16
+Count: 12267
+Time(ms): 6553.003
+ 
+Omega: 0.17
+Count: 11482
+Time(ms): 5960.230
+ 
+Omega: 0.18
+Count: 10785
+Time(ms): 5957.010
+ 
+Omega: 0.19
+Count: 10161
+Time(ms): 5281.747
+ 
+Omega: 0.20
+Count: 9600
+Time(ms): 5060.395
+ 
+Omega: 0.21
+Count: 9092
+Time(ms): 4572.661
+ 
+Omega: 0.22
+Count: 8630
+Time(ms): 4132.709
+ 
+Omega: 0.23
+Count: 8209
+Time(ms): 4116.478
+ 
+Omega: 0.24
+Count: 7822
+Time(ms): 3982.938
+ 
+Omega: 0.25
+Count: 7467
+Time(ms): 3611.220
+ 
+Omega: 0.26
+Count: 7138
+Time(ms): 3983.989
+ 
+Omega: 0.27
+Count: 6834
+Time(ms): 3525.578
+ 
+Omega: 0.28
+Count: 6552
+Time(ms): 3084.309
+ 
+Omega: 0.29
+Count: 6289
+Time(ms): 3115.514
+ 
+Omega: 0.30
+Count: 6044
+Time(ms): 3140.507
+ 
+Omega: 0.31
+Count: 5815
+Time(ms): 2951.491
+ 
+Omega: 0.32
+Count: 5600
+Time(ms): 2613.299
+ 
+Omega: 0.33
+Count: 5398
+Time(ms): 2572.414
+ 
+Omega: 0.34
+Count: 5208
+Time(ms): 2429.186
+ 
+Omega: 0.35
+Count: 5028
+Time(ms): 2406.483
+ 
+Omega: 0.36
+Count: 4859
+Time(ms): 2243.347
+ 
+Omega: 0.37
+Count: 4699
+Time(ms): 2405.160
+ 
+Omega: 0.38
+Count: 4547
+Time(ms): 2118.667
+ 
+Omega: 0.39
+Count: 4403
+Time(ms): 2254.078
+ 
+Omega: 0.40
+Count: 4266
+Time(ms): 1975.382
+ 
+Omega: 0.41
+Count: 4136
+Time(ms): 1927.592
+ 
+Omega: 0.42
+Count: 4012
+Time(ms): 2015.127
+ 
+Omega: 0.43
+Count: 3894
+Time(ms): 1942.132
+ 
+Omega: 0.44
+Count: 3781
+Time(ms): 1855.977
+ 
+Omega: 0.45
+Count: 3674
+Time(ms): 1906.753
+ 
+Omega: 0.46
+Count: 3570
+Time(ms): 1721.707
+ 
+Omega: 0.47
+Count: 3472
+Time(ms): 1756.487
+ 
+Omega: 0.48
+Count: 3377
+Time(ms): 1622.130
+ 
+Omega: 0.49
+Count: 3286
+Time(ms): 1572.570
+ 
+Omega: 0.50
+Count: 3199
+Time(ms): 1521.830
+ 
+Omega: 0.51
+Count: 3116
+Time(ms): 1560.140
+ 
+Omega: 0.52
+Count: 3035
+Time(ms): 1559.980
+ 
+Omega: 0.53
+Count: 2958
+Time(ms): 1542.836
+ 
+Omega: 0.54
+Count: 2883
+Time(ms): 1515.291
+ 
+Omega: 0.55
+Count: 2811
+Time(ms): 1326.933
+ 
+Omega: 0.56
+Count: 2742
+Time(ms): 1361.201
+ 
+Omega: 0.57
+Count: 2675
+Time(ms): 1387.544
+ 
+Omega: 0.58
+Count: 2611
+Time(ms): 1381.894
+ 
+Omega: 0.59
+Count: 2548
+Time(ms): 1201.611
+ 
+Omega: 0.60
+Count: 2488
+Time(ms): 1261.424
+ 
+Omega: 0.61
+Count: 2430
+Time(ms): 1263.303
+ 
+Omega: 0.62
+Count: 2373
+Time(ms): 1238.119
+ 
+Omega: 0.63
+Count: 2318
+Time(ms): 1149.083
+ 
+Omega: 0.64
+Count: 2266
+Time(ms): 981.263
+ 
+Omega: 0.65
+Count: 2214
+Time(ms): 1080.248
+ 
+Omega: 0.66
+Count: 2164
+Time(ms): 1076.017
+ 
+Omega: 0.67
+Count: 2116
+Time(ms): 999.114
+ 
+Omega: 0.68
+Count: 2069
+Time(ms): 1095.043
+ 
+Omega: 0.69
+Count: 2024
+Time(ms): 1087.022
+ 
+Omega: 0.70
+Count: 1980
+Time(ms): 1175.020
+ 
+Omega: 0.71
+Count: 1937
+Time(ms): 1091.659
+ 
+Omega: 0.72
+Count: 1895
+Time(ms): 1018.653
+ 
+Omega: 0.73
+Count: 1854
+Time(ms): 856.709
+ 
+Omega: 0.74
+Count: 1815
+Time(ms): 1023.647
+ 
+Omega: 0.75
+Count: 1776
+Time(ms): 842.233
+ 
+Omega: 0.76
+Count: 1739
+Time(ms): 821.342
+ 
+Omega: 0.77
+Count: 1702
+Time(ms): 831.588
+ 
+Omega: 0.78
+Count: 1667
+Time(ms): 819.213
+ 
+Omega: 0.79
+Count: 1632
+Time(ms): 871.116
+ 
+Omega: 0.80
+Count: 1598
+Time(ms): 836.919
+ 
+Omega: 0.81
+Count: 1565
+Time(ms): 764.787
+ 
+Omega: 0.82
+Count: 1533
+Time(ms): 793.367
+ 
+Omega: 0.83
+Count: 1502
+Time(ms): 767.210
+ 
+Omega: 0.84
+Count: 1471
+Time(ms): 658.287
+ 
+Omega: 0.85
+Count: 1441
+Time(ms): 679.920
+ 
+Omega: 0.86
+Count: 1412
+Time(ms): 767.616
+ 
+Omega: 0.87
+Count: 1383
+Time(ms): 688.719
+ 
+Omega: 0.88
+Count: 1355
+Time(ms): 709.444
+ 
+Omega: 0.89
+Count: 1328
+Time(ms): 600.683
+ 
+Omega: 0.90
+Count: 1301
+Time(ms): 738.865
+ 
+Omega: 0.91
+Count: 1275
+Time(ms): 654.746
+ 
+Omega: 0.92
+Count: 1250
+Time(ms): 610.032
+ 
+Omega: 0.93
+Count: 1225
+Time(ms): 679.689
+ 
+Omega: 0.94
+Count: 1200
+Time(ms): 542.920
+ 
+Omega: 0.95
+Count: 1176
+Time(ms): 606.805
+ 
+Omega: 0.96
+Count: 1153
+Time(ms): 593.575
+ 
+Omega: 0.97
+Count: 1130
+Time(ms): 527.620
+ 
+Omega: 0.98
+Count: 1107
+Time(ms): 491.191
+ 
+Omega: 0.99
+Count: 1085
+Time(ms): 561.583
+ 
+Omega: 1.00
+Count: 1064
+Time(ms): 460.018
+ 
+Omega: 1.01
+Count: 1042
+Time(ms): 501.641
+ 
+Omega: 1.02
+Count: 1022
+Time(ms): 456.874
+ 
+Omega: 1.03
+Count: 1001
+Time(ms): 458.416
+ 
+Omega: 1.04
+Count: 981
+Time(ms): 507.002
+ 
+Omega: 1.05
+Count: 962
+Time(ms): 539.651
+ 
+Omega: 1.06
+Count: 942
+Time(ms): 437.943
+ 
+Omega: 1.07
+Count: 924
+Time(ms): 448.868
+ 
+Omega: 1.08
+Count: 905
+Time(ms): 382.165
+ 
+Omega: 1.09
+Count: 887
+Time(ms): 467.628
+ 
+Omega: 1.10
+Count: 869
+Time(ms): 496.924
+ 
+Omega: 1.11
+Count: 851
+Time(ms): 490.198
+ 
+Omega: 1.12
+Count: 834
+Time(ms): 431.740
+ 
+Omega: 1.13
+Count: 817
+Time(ms): 394.129
+ 
+Omega: 1.14
+Count: 801
+Time(ms): 427.528
+ 
+Omega: 1.15
+Count: 784
+Time(ms): 394.488
+ 
+Omega: 1.16
+Count: 768
+Time(ms): 362.419
+ 
+Omega: 1.17
+Count: 752
+Time(ms): 409.393
+ 
+Omega: 1.18
+Count: 737
+Time(ms): 316.859
+ 
+Omega: 1.19
+Count: 721
+Time(ms): 342.294
+ 
+Omega: 1.20
+Count: 706
+Time(ms): 328.160
+ 
+Omega: 1.21
+Count: 692
+Time(ms): 355.966
+ 
+Omega: 1.22
+Count: 677
+Time(ms): 328.459
+ 
+Omega: 1.23
+Count: 663
+Time(ms): 287.764
+ 
+Omega: 1.24
+Count: 649
+Time(ms): 381.417
+ 
+Omega: 1.25
+Count: 635
+Time(ms): 296.817
+ 
+Omega: 1.26
+Count: 621
+Time(ms): 296.211
+ 
+Omega: 1.27
+Count: 608
+Time(ms): 317.475
+ 
+Omega: 1.28
+Count: 594
+Time(ms): 322.391
+ 
+Omega: 1.29
+Count: 581
+Time(ms): 309.178
+ 
+Omega: 1.30
+Count: 568
+Time(ms): 299.782
+ 
+Omega: 1.31
+Count: 556
+Time(ms): 292.223
+ 
+Omega: 1.32
+Count: 543
+Time(ms): 379.855
+ 
+Omega: 1.33
+Count: 531
+Time(ms): 232.990
+ 
+Omega: 1.34
+Count: 519
+Time(ms): 222.658
+ 
+Omega: 1.35
+Count: 507
+Time(ms): 241.683
+ 
+Omega: 1.36
+Count: 495
+Time(ms): 259.261
+ 
+Omega: 1.37
+Count: 483
+Time(ms): 251.301
+ 
+Omega: 1.38
+Count: 472
+Time(ms): 261.284
+ 
+Omega: 1.39
+Count: 461
+Time(ms): 247.107
+ 
+Omega: 1.40
+Count: 449
+Time(ms): 219.749
+ 
+Omega: 1.41
+Count: 438
+Time(ms): 248.524
+ 
+Omega: 1.42
+Count: 427
+Time(ms): 236.076
+ 
+Omega: 1.43
+Count: 417
+Time(ms): 233.930
+ 
+Omega: 1.44
+Count: 406
+Time(ms): 193.250
+ 
+Omega: 1.45
+Count: 396
+Time(ms): 194.011
+ 
+Omega: 1.46
+Count: 385
+Time(ms): 175.854
+ 
+Omega: 1.47
+Count: 375
+Time(ms): 181.488
+ 
+Omega: 1.48
+Count: 365
+Time(ms): 221.231
+ 
+Omega: 1.49
+Count: 355
+Time(ms): 175.410
+ 
+Omega: 1.50
+Count: 345
+Time(ms): 160.491
+ 
+Omega: 1.51
+Count: 336
+Time(ms): 154.854
+ 
+Omega: 1.52
+Count: 326
+Time(ms): 117.413
+ 
+Omega: 1.53
+Count: 316
+Time(ms): 129.447
+ 
+Omega: 1.54
+Count: 307
+Time(ms): 181.401
+ 
+Omega: 1.55
+Count: 298
+Time(ms): 156.047
+ 
+Omega: 1.56
+Count: 288
+Time(ms): 146.609
+ 
+Omega: 1.57
+Count: 279
+Time(ms): 129.271
+ 
+Omega: 1.58
+Count: 270
+Time(ms): 174.194
+ 
+Omega: 1.59
+Count: 261
+Time(ms): 193.296
+ 
+Omega: 1.60
+Count: 252
+Time(ms): 117.287
+ 
+Omega: 1.61
+Count: 243
+Time(ms): 94.702
+ 
+Omega: 1.62
+Count: 235
+Time(ms): 132.000
+ 
+Omega: 1.63
+Count: 226
+Time(ms): 94.494
+ 
+Omega: 1.64
+Count: 217
+Time(ms): 108.826
+ 
+Omega: 1.65
+Count: 209
+Time(ms): 112.078
+ 
+Omega: 1.66
+Count: 200
+Time(ms): 79.946
+ 
+Omega: 1.67
+Count: 192
+Time(ms): 71.464
+ 
+Omega: 1.68
+Count: 183
+Time(ms): 93.453
+ 
+Omega: 1.69
+Count: 174
+Time(ms): 114.446
+ 
+Omega: 1.70
+Count: 166
+Time(ms): 99.501
+ 
+Omega: 1.71
+Count: 157
+Time(ms): 98.858
+ 
+Omega: 1.72
+Count: 148
+Time(ms): 79.808
+ 
+Omega: 1.73
+Count: 139
+Time(ms): 64.335
+ 
+Omega: 1.74
+Count: 130
+Time(ms): 47.152
+ 
+Omega: 1.75
+Count: 120
+Time(ms): 46.417
+ 
+Omega: 1.76
+Count: 110
+Time(ms): 41.528
+ 
+Omega: 1.77
+Count: 98
+Time(ms): 57.070
+ 
+Omega: 1.78
+Count: 77
+Time(ms): 58.034
+ 
+Omega: 1.79
+Count: 80
+Time(ms): 29.800
+ 
+Omega: 1.80
+Count: 85
+Time(ms): 31.210
+ 
+Omega: 1.81
+Count: 91
+Time(ms): 45.485
+ 
+Omega: 1.82
+Count: 95
+Time(ms): 121.357
+ 
+Omega: 1.83
+Count: 100
+Time(ms): 72.450
+ 
+Omega: 1.84
+Count: 104
+Time(ms): 65.320
+ 
+Omega: 1.85
+Count: 111
+Time(ms): 53.701
+ 
+Omega: 1.86
+Count: 115
+Time(ms): 66.730
+ 
+Omega: 1.87
+Count: 124
+Time(ms): 81.893
+ 
+Omega: 1.88
+Count: 132
+Time(ms): 81.137
+ 
+Omega: 1.89
+Count: 151
+Time(ms): 75.865
+ 
+Omega: 1.90
+Count: 160
+Time(ms): 57.071
+ 
+Omega: 1.91
+Count: 176
+Time(ms): 62.834
+ 
+Omega: 1.92
+Count: 201
+Time(ms): 118.970
+ 
+Omega: 1.93
+Count: 226
+Time(ms): 136.224
+ 
+Omega: 1.94
+Count: 257
+Time(ms): 146.577
+ 
+Omega: 1.95
+Count: 308
+Time(ms): 184.250
+ 
+Omega: 1.96
+Count: 388
+Time(ms): 209.044
+ 
+Omega: 1.97
+Count: 516
+Time(ms): 271.493
+ 
+Omega: 1.98
+Count: 780
+Time(ms): 463.234
+ 
+Omega: 1.99
+Count: 1557
+Time(ms): 872.590
+
+--------
+Size: 24
+Min-Step-Count: 77
+Best-Omega: 1.78
+--------
+
+Size: 27
+
+Omega: 0.01
+Count: 267995
+Time(ms): 216254.062
+
+Omega: 0.02
+Count: 133324
+Time(ms): 108885.570
+
+Omega: 0.03
+Count: 88434
+Time(ms): 72141.266
+
+Omega: 0.04
+Count: 65989
+Time(ms): 53324.852
+
+Omega: 0.05
+Count: 52522
+Time(ms): 44474.055
+
+Omega: 0.06
+Count: 43544
+Time(ms): 36821.617
+
+Omega: 0.07
+Count: 37131
+Time(ms): 30867.877
+
+Omega: 0.08
+Count: 32321
+Time(ms): 27421.037
+
+Omega: 0.09
+Count: 28580
+Time(ms): 24397.137
+
+Omega: 0.10
+Count: 25588
+Time(ms): 21101.193
+
+Omega: 0.11
+Count: 23139
+Time(ms): 19825.801
+
+Omega: 0.12
+Count: 21099
+Time(ms): 17907.256
+
+Omega: 0.13
+Count: 19372
+Time(ms): 16716.643
+
+Omega: 0.14
+Count: 17892
+Time(ms): 14417.433
+
+Omega: 0.15
+Count: 16610
+Time(ms): 13376.490
+
+Omega: 0.16
+Count: 15487
+Time(ms): 12885.931
+
+Omega: 0.17
+Count: 14497
+Time(ms): 12451.726
+
+Omega: 0.18
+Count: 13617
+Time(ms): 11861.068
+
+Omega: 0.19
+Count: 12829
+Time(ms): 11142.950
+
+Omega: 0.20
+Count: 12120
+Time(ms): 9924.806
+
+Omega: 0.21
+Count: 11479
+Time(ms): 9160.312
+
+Omega: 0.22
+Count: 10896
+Time(ms): 8603.635
+
+Omega: 0.23
+Count: 10364
+Time(ms): 8072.634
+
+Omega: 0.24
+Count: 9876
+Time(ms): 7622.170
+
+Omega: 0.25
+Count: 9427
+Time(ms): 8178.645
+
+Omega: 0.26
+Count: 9013
+Time(ms): 7401.727
+
+Omega: 0.27
+Count: 8629
+Time(ms): 7167.578
+
+Omega: 0.28
+Count: 8273
+Time(ms): 6543.160
+
+Omega: 0.29
+Count: 7941
+Time(ms): 5853.857
+
+Omega: 0.30
+Count: 7631
+Time(ms): 5966.749
+
+Omega: 0.31
+Count: 7342
+Time(ms): 5823.686
+
+Omega: 0.32
+Count: 7070
+Time(ms): 5780.780
+
+Omega: 0.33
+Count: 6815
+Time(ms): 5559.741
+
+Omega: 0.34
+Count: 6575
+Time(ms): 4861.720
+
+Omega: 0.35
+Count: 6349
+Time(ms): 5181.875
+
+Omega: 0.36
+Count: 6135
+Time(ms): 5058.444
+
+Omega: 0.37
+Count: 5932
+Time(ms): 4512.098
+
+Omega: 0.38
+Count: 5741
+Time(ms): 4479.178
+
+Omega: 0.39
+Count: 5559
+Time(ms): 4630.411
+
+Omega: 0.40
+Count: 5386
+Time(ms): 4011.280
+
+Omega: 0.41
+Count: 5222
+Time(ms): 4100.537
+
+Omega: 0.42
+Count: 5066
+Time(ms): 3939.827
+
+Omega: 0.43
+Count: 4917
+Time(ms): 3810.236
+
+Omega: 0.44
+Count: 4774
+Time(ms): 3729.412
+
+Omega: 0.45
+Count: 4638
+Time(ms): 3493.280
+
+Omega: 0.46
+Count: 4508
+Time(ms): 3794.904
+
+Omega: 0.47
+Count: 4383
+Time(ms): 3556.305
+
+Omega: 0.48
+Count: 4264
+Time(ms): 3159.786
+
+Omega: 0.49
+Count: 4149
+Time(ms): 3120.163
+
+Omega: 0.50
+Count: 4039
+Time(ms): 3028.261
+
+Omega: 0.51
+Count: 3934
+Time(ms): 2881.977
+
+Omega: 0.52
+Count: 3832
+Time(ms): 3181.386
+
+Omega: 0.53
+Count: 3734
+Time(ms): 3172.004
+
+Omega: 0.54
+Count: 3640
+Time(ms): 2660.298
+
+Omega: 0.55
+Count: 3550
+Time(ms): 2998.660
+
+Omega: 0.56
+Count: 3462
+Time(ms): 2578.298
+
+Omega: 0.57
+Count: 3378
+Time(ms): 2647.692
+
+Omega: 0.58
+Count: 3296
+Time(ms): 2485.516
+
+Omega: 0.59
+Count: 3217
+Time(ms): 2711.045
+
+Omega: 0.60
+Count: 3141
+Time(ms): 2395.892
+
+Omega: 0.61
+Count: 3068
+Time(ms): 2445.530
+
+Omega: 0.62
+Count: 2996
+Time(ms): 2712.385
+
+Omega: 0.63
+Count: 2927
+Time(ms): 2561.269
+
+Omega: 0.64
+Count: 2861
+Time(ms): 2509.558
+
+Omega: 0.65
+Count: 2796
+Time(ms): 2411.108
+
+Omega: 0.66
+Count: 2733
+Time(ms): 2511.647
+
+Omega: 0.67
+Count: 2672
+Time(ms): 2829.304
+
+Omega: 0.68
+Count: 2613
+Time(ms): 2375.843
+
+Omega: 0.69
+Count: 2555
+Time(ms): 1927.607
+
+Omega: 0.70
+Count: 2500
+Time(ms): 1901.662
+
+Omega: 0.71
+Count: 2445
+Time(ms): 2064.775
+
+Omega: 0.72
+Count: 2393
+Time(ms): 1872.468
+
+Omega: 0.73
+Count: 2341
+Time(ms): 1908.526
+
+Omega: 0.74
+Count: 2291
+Time(ms): 1962.405
+
+Omega: 0.75
+Count: 2243
+Time(ms): 2062.862
+
+Omega: 0.76
+Count: 2196
+Time(ms): 1828.412
+
+Omega: 0.77
+Count: 2150
+Time(ms): 2094.645
+
+Omega: 0.78
+Count: 2105
+Time(ms): 1765.450
+
+Omega: 0.79
+Count: 2061
+Time(ms): 1701.567
+
+Omega: 0.80
+Count: 2018
+Time(ms): 1722.078
+
+Omega: 0.81
+Count: 1977
+Time(ms): 1723.640
+
+Omega: 0.82
+Count: 1936
+Time(ms): 1454.344
+
+Omega: 0.83
+Count: 1896
+Time(ms): 1627.286
+
+Omega: 0.84
+Count: 1858
+Time(ms): 1582.884
+
+Omega: 0.85
+Count: 1820
+Time(ms): 1458.339
+
+Omega: 0.86
+Count: 1783
+Time(ms): 1462.052
+
+Omega: 0.87
+Count: 1747
+Time(ms): 1552.215
+
+Omega: 0.88
+Count: 1712
+Time(ms): 1404.308
+
+Omega: 0.89
+Count: 1677
+Time(ms): 1301.591
+
+Omega: 0.90
+Count: 1644
+Time(ms): 1412.141
+
+Omega: 0.91
+Count: 1611
+Time(ms): 1359.213
+
+Omega: 0.92
+Count: 1578
+Time(ms): 1310.967
+
+Omega: 0.93
+Count: 1547
+Time(ms): 1287.844
+
+Omega: 0.94
+Count: 1516
+Time(ms): 1323.914
+
+Omega: 0.95
+Count: 1486
+Time(ms): 1326.189
+
+Omega: 0.96
+Count: 1456
+Time(ms): 1171.894
+
+Omega: 0.97
+Count: 1427
+Time(ms): 1208.442
+
+Omega: 0.98
+Count: 1399
+Time(ms): 1093.698
+
+Omega: 0.99
+Count: 1371
+Time(ms): 1226.129
+
+Omega: 1.00
+Count: 1344
+Time(ms): 1074.011
+
+Omega: 1.01
+Count: 1317
+Time(ms): 1225.745
+
+Omega: 1.02
+Count: 1291
+Time(ms): 1099.327
+
+Omega: 1.03
+Count: 1265
+Time(ms): 1181.943
+
+Omega: 1.04
+Count: 1240
+Time(ms): 1125.663
+
+Omega: 1.05
+Count: 1215
+Time(ms): 968.972
+
+Omega: 1.06
+Count: 1191
+Time(ms): 1088.820
+
+Omega: 1.07
+Count: 1167
+Time(ms): 932.729
+
+Omega: 1.08
+Count: 1144
+Time(ms): 950.206
+
+Omega: 1.09
+Count: 1121
+Time(ms): 921.525
+
+Omega: 1.10
+Count: 1098
+Time(ms): 797.918
+
+Omega: 1.11
+Count: 1076
+Time(ms): 928.735
+
+Omega: 1.12
+Count: 1054
+Time(ms): 899.486
+
+Omega: 1.13
+Count: 1033
+Time(ms): 829.073
+
+Omega: 1.14
+Count: 1012
+Time(ms): 888.542
+
+Omega: 1.15
+Count: 991
+Time(ms): 927.089
+
+Omega: 1.16
+Count: 971
+Time(ms): 740.895
+
+Omega: 1.17
+Count: 951
+Time(ms): 867.506
+
+Omega: 1.18
+Count: 931
+Time(ms): 758.387
+
+Omega: 1.19
+Count: 912
+Time(ms): 739.097
+
+Omega: 1.20
+Count: 893
+Time(ms): 805.871
+
+Omega: 1.21
+Count: 874
+Time(ms): 720.718
+
+Omega: 1.22
+Count: 856
+Time(ms): 775.828
+
+Omega: 1.23
+Count: 838
+Time(ms): 704.626
+
+Omega: 1.24
+Count: 820
+Time(ms): 702.761
+
+Omega: 1.25
+Count: 803
+Time(ms): 726.770
+
+Omega: 1.26
+Count: 785
+Time(ms): 651.312
+
+Omega: 1.27
+Count: 768
+Time(ms): 660.863
+
+Omega: 1.28
+Count: 752
+Time(ms): 585.280
+
+Omega: 1.29
+Count: 735
+Time(ms): 517.681
+
+Omega: 1.30
+Count: 719
+Time(ms): 584.885
+
+Omega: 1.31
+Count: 703
+Time(ms): 555.628
+
+Omega: 1.32
+Count: 687
+Time(ms): 630.708
+
+Omega: 1.33
+Count: 672
+Time(ms): 570.106
+
+Omega: 1.34
+Count: 657
+Time(ms): 616.755
+
+Omega: 1.35
+Count: 642
+Time(ms): 504.838
+
+Omega: 1.36
+Count: 627
+Time(ms): 618.094
+
+Omega: 1.37
+Count: 612
+Time(ms): 553.586
+
+Omega: 1.38
+Count: 598
+Time(ms): 552.904
+
+Omega: 1.39
+Count: 583
+Time(ms): 523.797
+
+Omega: 1.40
+Count: 569
+Time(ms): 488.388
+
+Omega: 1.41
+Count: 556
+Time(ms): 399.440
+
+Omega: 1.42
+Count: 542
+Time(ms): 366.107
+
+Omega: 1.43
+Count: 528
+Time(ms): 396.663
+
+Omega: 1.44
+Count: 515
+Time(ms): 460.242
+
+Omega: 1.45
+Count: 502
+Time(ms): 436.940
+
+Omega: 1.46
+Count: 489
+Time(ms): 477.645
+
+Omega: 1.47
+Count: 476
+Time(ms): 345.741
+
+Omega: 1.48
+Count: 463
+Time(ms): 404.599
+
+Omega: 1.49
+Count: 451
+Time(ms): 477.476
+
+Omega: 1.50
+Count: 439
+Time(ms): 370.159
+
+Omega: 1.51
+Count: 426
+Time(ms): 300.725
+
+Omega: 1.52
+Count: 414
+Time(ms): 313.934
+
+Omega: 1.53
+Count: 402
+Time(ms): 274.033
+
+Omega: 1.54
+Count: 391
+Time(ms): 301.720
+
+Omega: 1.55
+Count: 379
+Time(ms): 341.098
+
+Omega: 1.56
+Count: 367
+Time(ms): 286.372
+
+Omega: 1.57
+Count: 356
+Time(ms): 291.055
+
+Omega: 1.58
+Count: 345
+Time(ms): 350.278
+
+Omega: 1.59
+Count: 334
+Time(ms): 302.487
+
+Omega: 1.60
+Count: 322
+Time(ms): 320.704
+
+Omega: 1.61
+Count: 311
+Time(ms): 261.730
+
+Omega: 1.62
+Count: 301
+Time(ms): 229.472
+
+Omega: 1.63
+Count: 290
+Time(ms): 239.584
+
+Omega: 1.64
+Count: 279
+Time(ms): 223.769
+
+Omega: 1.65
+Count: 268
+Time(ms): 219.777
+
+Omega: 1.66
+Count: 258
+Time(ms): 175.529
+
+Omega: 1.67
+Count: 247
+Time(ms): 215.193
+
+Omega: 1.68
+Count: 237
+Time(ms): 202.290
+
+Omega: 1.69
+Count: 226
+Time(ms): 232.294
+
+Omega: 1.70
+Count: 216
+Time(ms): 167.477
+
+Omega: 1.71
+Count: 205
+Time(ms): 164.752
+
+Omega: 1.72
+Count: 195
+Time(ms): 158.648
+
+Omega: 1.73
+Count: 184
+Time(ms): 145.022
+
+Omega: 1.74
+Count: 174
+Time(ms): 174.865
+
+Omega: 1.75
+Count: 163
+Time(ms): 131.089
+
+Omega: 1.76
+Count: 152
+Time(ms): 151.741
+
+Omega: 1.77
+Count: 140
+Time(ms): 114.370
+
+Omega: 1.78
+Count: 128
+Time(ms): 104.549
+
+Omega: 1.79
+Count: 113
+Time(ms): 95.637
+
+Omega: 1.80
+Count: 91
+Time(ms): 74.304
+
+Omega: 1.81
+Count: 90
+Time(ms): 68.587
+
+Omega: 1.82
+Count: 96
+Time(ms): 92.033
+
+Omega: 1.83
+Count: 103
+Time(ms): 90.294
+
+Omega: 1.84
+Count: 110
+Time(ms): 93.801
+
+Omega: 1.85
+Count: 113
+Time(ms): 87.036
+
+Omega: 1.86
+Count: 118
+Time(ms): 98.843
+
+Omega: 1.87
+Count: 127
+Time(ms): 123.077
+
+Omega: 1.88
+Count: 135
+Time(ms): 110.544
+
+Omega: 1.89
+Count: 147
+Time(ms): 143.472
+
+Omega: 1.90
+Count: 168
+Time(ms): 121.550
+
+Omega: 1.91
+Count: 180
+Time(ms): 156.258
+
+Omega: 1.92
+Count: 198
+Time(ms): 183.009
+
+Omega: 1.93
+Count: 225
+Time(ms): 193.913
+
+Omega: 1.94
+Count: 265
+Time(ms): 213.586
+
+Omega: 1.95
+Count: 315
+Time(ms): 270.155
+
+Omega: 1.96
+Count: 394
+Time(ms): 366.577
+
+Omega: 1.97
+Count: 522
+Time(ms): 493.418
+
+Omega: 1.98
+Count: 787
+Time(ms): 681.072
+
+Omega: 1.99
+Count: 1554
+Time(ms): 1318.928
+
+--------
+Size: 27
+Min-Step-Count: 90
+Best-Omega: 1.81
+--------
+
+Size: 28
+
+Omega<=0.10: Time too long!
+
+Omega: 0.11
+Count: 24871
+Time(ms): 22350.260
+
+Omega: 0.12
+Count: 22678
+Time(ms): 20065.641
+
+Omega: 0.13
+Count: 20822
+Time(ms): 19062.854
+
+Omega: 0.14
+Count: 19232
+Time(ms): 18031.764
+
+Omega: 0.15
+Count: 17853
+Time(ms): 16441.820
+
+Omega: 0.16
+Count: 16647
+Time(ms): 15307.960
+
+Omega: 0.17
+Count: 15582
+Time(ms): 15023.940
+
+Omega: 0.18
+Count: 14636
+Time(ms): 13709.047
+
+Omega: 0.19
+Count: 13790
+Time(ms): 12559.315
+
+Omega: 0.20
+Count: 13028
+Time(ms): 11478.753
+
+Omega: 0.21
+Count: 12338
+Time(ms): 10947.032
+
+Omega: 0.22
+Count: 11712
+Time(ms): 10528.900
+
+Omega: 0.23
+Count: 11140
+Time(ms): 10090.160
+
+Omega: 0.24
+Count: 10615
+Time(ms): 9531.825
+
+Omega: 0.25
+Count: 10133
+Time(ms): 9472.923
+
+Omega: 0.26
+Count: 9687
+Time(ms): 8994.069
+
+Omega: 0.27
+Count: 9275
+Time(ms): 8499.256
+
+Omega: 0.28
+Count: 8892
+Time(ms): 8147.295
+
+Omega: 0.29
+Count: 8535
+Time(ms): 8131.850
+
+Omega: 0.30
+Count: 8202
+Time(ms): 7658.789
+
+Omega: 0.31
+Count: 7891
+Time(ms): 6910.155
+
+Omega: 0.32
+Count: 7599
+Time(ms): 7007.262
+
+Omega: 0.33
+Count: 7325
+Time(ms): 6527.081
+
+Omega: 0.34
+Count: 7067
+Time(ms): 6368.254
+
+Omega: 0.35
+Count: 6824
+Time(ms): 6351.563
+
+Omega: 0.36
+Count: 6594
+Time(ms): 5908.192
+
+Omega: 0.37
+Count: 6377
+Time(ms): 6054.698
+
+Omega: 0.38
+Count: 6171
+Time(ms): 6146.133
+
+Omega: 0.39
+Count: 5975
+Time(ms): 5461.437
+
+Omega: 0.40
+Count: 5790
+Time(ms): 5101.966
+
+Omega: 0.41
+Count: 5613
+Time(ms): 5083.935
+
+Omega: 0.42
+Count: 5445
+Time(ms): 5352.899
+
+Omega: 0.43
+Count: 5285
+Time(ms): 5198.992
+
+Omega: 0.44
+Count: 5132
+Time(ms): 4847.050
+
+Omega: 0.45
+Count: 4985
+Time(ms): 4675.068
+
+Omega: 0.46
+Count: 4845
+Time(ms): 4455.147
+
+Omega: 0.47
+Count: 4712
+Time(ms): 4541.888
+
+Omega: 0.48
+Count: 4583
+Time(ms): 4182.510
+
+Omega: 0.49
+Count: 4460
+Time(ms): 4075.928
+
+Omega: 0.50
+Count: 4342
+Time(ms): 3860.471
+
+Omega: 0.51
+Count: 4228
+Time(ms): 4033.490
+
+Omega: 0.52
+Count: 4119
+Time(ms): 3942.021
+
+Omega: 0.53
+Count: 4014
+Time(ms): 4032.495
+
+Omega: 0.54
+Count: 3913
+Time(ms): 4699.302
+
+Omega: 0.55
+Count: 3815
+Time(ms): 4616.553
+
+Omega: 0.56
+Count: 3721
+Time(ms): 4452.093
+
+Omega: 0.57
+Count: 3631
+Time(ms): 4444.084
+
+Omega: 0.58
+Count: 3543
+Time(ms): 3574.541
+
+Omega: 0.59
+Count: 3458
+Time(ms): 3503.459
+
+Omega: 0.60
+Count: 3377
+Time(ms): 3562.382
+
+Omega: 0.61
+Count: 3297
+Time(ms): 3248.759
+
+Omega: 0.62
+Count: 3221
+Time(ms): 3159.687
+
+Omega: 0.63
+Count: 3147
+Time(ms): 2964.271
+
+Omega: 0.64
+Count: 3075
+Time(ms): 3245.048
+
+Omega: 0.65
+Count: 3005
+Time(ms): 3226.821
+
+Omega: 0.66
+Count: 2938
+Time(ms): 2957.652
+
+Omega: 0.67
+Count: 2872
+Time(ms): 2762.559
+
+Omega: 0.68
+Count: 2809
+Time(ms): 2951.946
+
+Omega: 0.69
+Count: 2747
+Time(ms): 2924.377
+
+Omega: 0.70
+Count: 2687
+Time(ms): 2797.026
+
+Omega: 0.71
+Count: 2629
+Time(ms): 2712.804
+
+Omega: 0.72
+Count: 2572
+Time(ms): 2590.069
+
+Omega: 0.73
+Count: 2517
+Time(ms): 2315.917
+
+Omega: 0.74
+Count: 2463
+Time(ms): 2618.823
+
+Omega: 0.75
+Count: 2411
+Time(ms): 2854.120
+
+Omega: 0.76
+Count: 2360
+Time(ms): 2720.154
+
+Omega: 0.77
+Count: 2311
+Time(ms): 2232.141
+
+Omega: 0.78
+Count: 2262
+Time(ms): 2292.595
+
+Omega: 0.79
+Count: 2215
+Time(ms): 2144.722
+
+Omega: 0.80
+Count: 2169
+Time(ms): 2203.990
+
+Omega: 0.81
+Count: 2125
+Time(ms): 2224.159
+
+Omega: 0.82
+Count: 2081
+Time(ms): 2204.467
+
+Omega: 0.83
+Count: 2038
+Time(ms): 1979.159
+
+Omega: 0.84
+Count: 1997
+Time(ms): 2114.731
+
+Omega: 0.85
+Count: 1956
+Time(ms): 2022.790
+
+Omega: 0.86
+Count: 1917
+Time(ms): 1916.291
+
+Omega: 0.87
+Count: 1878
+Time(ms): 1945.330
+
+Omega: 0.88
+Count: 1840
+Time(ms): 1894.521
+
+Omega: 0.89
+Count: 1803
+Time(ms): 1947.641
+
+Omega: 0.90
+Count: 1767
+Time(ms): 1929.812
+
+Omega: 0.91
+Count: 1731
+Time(ms): 1695.578
+
+Omega: 0.92
+Count: 1697
+Time(ms): 1756.635
+
+Omega: 0.93
+Count: 1663
+Time(ms): 1740.360
+
+Omega: 0.94
+Count: 1630
+Time(ms): 1711.236
+
+Omega: 0.95
+Count: 1597
+Time(ms): 1570.644
+
+Omega: 0.96
+Count: 1565
+Time(ms): 1585.589
+
+Omega: 0.97
+Count: 1534
+Time(ms): 1560.243
+
+Omega: 0.98
+Count: 1504
+Time(ms): 1598.428
+
+Omega: 0.99
+Count: 1474
+Time(ms): 1518.756
+
+Omega: 1.00
+Count: 1445
+Time(ms): 1500.507
+
+Omega: 1.01
+Count: 1416
+Time(ms): 1346.764
+
+Omega: 1.02
+Count: 1388
+Time(ms): 1403.128
+
+Omega: 1.03
+Count: 1360
+Time(ms): 1232.868
+
+Omega: 1.04
+Count: 1333
+Time(ms): 1308.367
+
+Omega: 1.05
+Count: 1306
+Time(ms): 1617.978
+
+Omega: 1.06
+Count: 1280
+Time(ms): 1524.848
+
+Omega: 1.07
+Count: 1255
+Time(ms): 1588.438
+
+Omega: 1.08
+Count: 1229
+Time(ms): 1257.896
+
+Omega: 1.09
+Count: 1205
+Time(ms): 1523.078
+
+Omega: 1.10
+Count: 1181
+Time(ms): 1185.149
+
+Omega: 1.11
+Count: 1157
+Time(ms): 1087.029
+
+Omega: 1.12
+Count: 1133
+Time(ms): 1201.254
+
+Omega: 1.13
+Count: 1110
+Time(ms): 1382.439
+
+Omega: 1.14
+Count: 1088
+Time(ms): 1333.011
+
+Omega: 1.15
+Count: 1066
+Time(ms): 1048.180
+
+Omega: 1.16
+Count: 1044
+Time(ms): 1074.753
+
+Omega: 1.17
+Count: 1022
+Time(ms): 1132.478
+
+Omega: 1.18
+Count: 1001
+Time(ms): 1272.215
+
+Omega: 1.19
+Count: 981
+Time(ms): 901.708
+
+Omega: 1.20
+Count: 960
+Time(ms): 842.371
+
+Omega: 1.21
+Count: 940
+Time(ms): 817.178
+
+Omega: 1.22
+Count: 920
+Time(ms): 807.932
+
+Omega: 1.23
+Count: 901
+Time(ms): 897.667
+
+Omega: 1.24
+Count: 882
+Time(ms): 910.993
+
+Omega: 1.25
+Count: 863
+Time(ms): 823.203
+
+Omega: 1.26
+Count: 845
+Time(ms): 846.819
+
+Omega: 1.27
+Count: 826
+Time(ms): 812.437
+
+Omega: 1.28
+Count: 808
+Time(ms): 605.727
+
+Omega: 1.29
+Count: 791
+Time(ms): 715.301
+
+Omega: 1.30
+Count: 773
+Time(ms): 732.187
+
+Omega: 1.31
+Count: 756
+Time(ms): 645.277
+
+Omega: 1.32
+Count: 739
+Time(ms): 695.545
+
+Omega: 1.33
+Count: 723
+Time(ms): 713.084
+
+Omega: 1.34
+Count: 706
+Time(ms): 627.963
+
+Omega: 1.35
+Count: 690
+Time(ms): 572.415
+
+Omega: 1.36
+Count: 674
+Time(ms): 630.867
+
+Omega: 1.37
+Count: 658
+Time(ms): 647.602
+
+Omega: 1.38
+Count: 643
+Time(ms): 576.416
+
+Omega: 1.39
+Count: 628
+Time(ms): 530.954
+
+Omega: 1.40
+Count: 613
+Time(ms): 608.797
+
+Omega: 1.41
+Count: 598
+Time(ms): 566.625
+
+Omega: 1.42
+Count: 583
+Time(ms): 536.135
+
+Omega: 1.43
+Count: 569
+Time(ms): 484.296
+
+Omega: 1.44
+Count: 554
+Time(ms): 614.441
+
+Omega: 1.45
+Count: 540
+Time(ms): 469.003
+
+Omega: 1.46
+Count: 526
+Time(ms): 401.476
+
+Omega: 1.47
+Count: 512
+Time(ms): 401.886
+
+Omega: 1.48
+Count: 499
+Time(ms): 482.161
+
+Omega: 1.49
+Count: 485
+Time(ms): 499.962
+
+Omega: 1.50
+Count: 472
+Time(ms): 461.555
+
+Omega: 1.51
+Count: 459
+Time(ms): 401.079
+
+Omega: 1.52
+Count: 446
+Time(ms): 407.516
+
+Omega: 1.53
+Count: 433
+Time(ms): 367.648
+
+Omega: 1.54
+Count: 421
+Time(ms): 377.465
+
+Omega: 1.55
+Count: 408
+Time(ms): 339.740
+
+Omega: 1.56
+Count: 396
+Time(ms): 317.378
+
+Omega: 1.57
+Count: 384
+Time(ms): 293.553
+
+Omega: 1.58
+Count: 372
+Time(ms): 344.380
+
+Omega: 1.59
+Count: 360
+Time(ms): 338.631
+
+Omega: 1.60
+Count: 348
+Time(ms): 296.989
+
+Omega: 1.61
+Count: 336
+Time(ms): 242.917
+
+Omega: 1.62
+Count: 324
+Time(ms): 274.258
+
+Omega: 1.63
+Count: 313
+Time(ms): 301.989
+
+Omega: 1.64
+Count: 301
+Time(ms): 307.112
+
+Omega: 1.65
+Count: 290
+Time(ms): 260.711
+
+Omega: 1.66
+Count: 279
+Time(ms): 237.376
+
+Omega: 1.67
+Count: 267
+Time(ms): 218.886
+
+Omega: 1.68
+Count: 256
+Time(ms): 253.449
+
+Omega: 1.69
+Count: 245
+Time(ms): 297.670
+
+Omega: 1.70
+Count: 234
+Time(ms): 206.793
+
+Omega: 1.71
+Count: 223
+Time(ms): 211.932
+
+Omega: 1.72
+Count: 212
+Time(ms): 173.554
+
+Omega: 1.73
+Count: 200
+Time(ms): 186.882
+
+Omega: 1.74
+Count: 189
+Time(ms): 190.124
+
+Omega: 1.75
+Count: 178
+Time(ms): 168.139
+
+Omega: 1.76
+Count: 166
+Time(ms): 147.365
+
+Omega: 1.77
+Count: 154
+Time(ms): 135.093
+
+Omega: 1.78
+Count: 142
+Time(ms): 103.089
+
+Omega: 1.79
+Count: 128
+Time(ms): 95.245
+
+Omega: 1.80
+Count: 111
+Time(ms): 107.768
+
+Omega: 1.81
+Count: 96
+Time(ms): 81.962
+
+Omega: 1.82
+Count: 99
+Time(ms): 124.761
+
+Omega: 1.83
+Count: 103
+Time(ms): 84.289
+
+Omega: 1.84
+Count: 109
+Time(ms): 79.900
+
+Omega: 1.85
+Count: 116
+Time(ms): 87.537
+
+Omega: 1.86
+Count: 121
+Time(ms): 119.971
+
+Omega: 1.87
+Count: 130
+Time(ms): 114.297
+
+Omega: 1.88
+Count: 139
+Time(ms): 149.134
+
+Omega: 1.89
+Count: 145
+Time(ms): 139.446
+
+Omega: 1.90
+Count: 164
+Time(ms): 168.512
+
+Omega: 1.91
+Count: 180
+Time(ms): 180.009
+
+Omega: 1.92
+Count: 201
+Time(ms): 179.985
+
+Omega: 1.93
+Count: 233
+Time(ms): 236.741
+
+Omega: 1.94
+Count: 262
+Time(ms): 220.984
+
+Omega: 1.95
+Count: 315
+Time(ms): 321.146
+
+Omega: 1.96
+Count: 396
+Time(ms): 403.174
+
+Omega: 1.97
+Count: 524
+Time(ms): 507.998
+
+Omega: 1.98
+Count: 786
+Time(ms): 693.363
+
+Omega: 1.99
+Count: 1559
+Time(ms): 1429.087
+
+--------
+Size: 28
+Min-Step-Count: 96
+Best-Omega: 1.81
+--------
+
+Size: 30
+
+Omega<=0.10: Time too long!
+
+Omega: 0.11
+Count: 28529
+Time(ms): 36438.977
+
+Omega: 0.12
+Count: 26013
+Time(ms): 33458.359
+
+Omega: 0.13
+Count: 23884
+Time(ms): 31151.537
+
+Omega: 0.14
+Count: 22060
+Time(ms): 31760.924
+
+Omega: 0.15
+Count: 20478
+Time(ms): 28692.738
+
+Omega: 0.16
+Count: 19095
+Time(ms): 26575.527
+
+Omega: 0.17
+Count: 17874
+Time(ms): 23970.748
+
+Omega: 0.18
+Count: 16788
+Time(ms): 22991.510
+
+Omega: 0.19
+Count: 15817
+Time(ms): 21754.248
+
+Omega: 0.20
+Count: 14944
+Time(ms): 19921.652
+
+Omega: 0.21
+Count: 14153
+Time(ms): 19619.932
+
+Omega: 0.22
+Count: 13434
+Time(ms): 18408.732
+
+Omega: 0.23
+Count: 12778
+Time(ms): 17157.652
+
+Omega: 0.24
+Count: 12176
+Time(ms): 18445.291
+
+Omega: 0.25
+Count: 11623
+Time(ms): 14839.408
+
+Omega: 0.26
+Count: 11112
+Time(ms): 14092.651
+
+Omega: 0.27
+Count: 10639
+Time(ms): 12911.200
+
+Omega: 0.28
+Count: 10199
+Time(ms): 12703.817
+
+Omega: 0.29
+Count: 9790
+Time(ms): 11619.722
+
+Omega: 0.30
+Count: 9409
+Time(ms): 11175.272
+
+Omega: 0.31
+Count: 9052
+Time(ms): 11390.460
+
+Omega: 0.32
+Count: 8717
+Time(ms): 10845.910
+
+Omega: 0.33
+Count: 8402
+Time(ms): 10157.978
+
+Omega: 0.34
+Count: 8106
+Time(ms): 10390.309
+
+Omega: 0.35
+Count: 7827
+Time(ms): 10765.589
+
+Omega: 0.36
+Count: 7564
+Time(ms): 9814.604
+
+Omega: 0.37
+Count: 7314
+Time(ms): 9168.134
+
+Omega: 0.38
+Count: 7078
+Time(ms): 9616.485
+
+Omega: 0.39
+Count: 6854
+Time(ms): 8878.443
+
+Omega: 0.40
+Count: 6641
+Time(ms): 9418.771
+
+Omega: 0.41
+Count: 6439
+Time(ms): 7996.685
+
+Omega: 0.42
+Count: 6246
+Time(ms): 7901.582
+
+Omega: 0.43
+Count: 6062
+Time(ms): 7780.374
+
+Omega: 0.44
+Count: 5886
+Time(ms): 7630.430
+
+Omega: 0.45
+Count: 5719
+Time(ms): 7284.240
+
+Omega: 0.46
+Count: 5558
+Time(ms): 6862.059
+
+Omega: 0.47
+Count: 5404
+Time(ms): 6797.745
+
+Omega: 0.48
+Count: 5257
+Time(ms): 6716.079
+
+Omega: 0.49
+Count: 5116
+Time(ms): 6671.689
+
+Omega: 0.50
+Count: 4980
+Time(ms): 6508.802
+
+Omega: 0.51
+Count: 4850
+Time(ms): 6408.547
+
+Omega: 0.52
+Count: 4725
+Time(ms): 6032.743
+
+Omega: 0.53
+Count: 4604
+Time(ms): 5992.444
+
+Omega: 0.54
+Count: 4488
+Time(ms): 5668.587
+
+Omega: 0.55
+Count: 4377
+Time(ms): 5656.830
+
+Omega: 0.56
+Count: 4269
+Time(ms): 5361.308
+
+Omega: 0.57
+Count: 4165
+Time(ms): 5632.280
+
+Omega: 0.58
+Count: 4064
+Time(ms): 5491.818
+
+Omega: 0.59
+Count: 3967
+Time(ms): 4957.701
+
+Omega: 0.60
+Count: 3873
+Time(ms): 5050.644
+
+Omega: 0.61
+Count: 3782
+Time(ms): 4807.776
+
+Omega: 0.62
+Count: 3695
+Time(ms): 4659.306
+
+Omega: 0.63
+Count: 3610
+Time(ms): 4536.971
+
+Omega: 0.64
+Count: 3527
+Time(ms): 4173.565
+
+Omega: 0.65
+Count: 3447
+Time(ms): 4228.004
+
+Omega: 0.66
+Count: 3370
+Time(ms): 4207.577
+
+Omega: 0.67
+Count: 3295
+Time(ms): 4428.732
+
+Omega: 0.68
+Count: 3222
+Time(ms): 4028.833
+
+Omega: 0.69
+Count: 3151
+Time(ms): 3952.008
+
+Omega: 0.70
+Count: 3082
+Time(ms): 4048.395
+
+Omega: 0.71
+Count: 3015
+Time(ms): 4174.044
+
+Omega: 0.72
+Count: 2950
+Time(ms): 3677.086
+
+Omega: 0.73
+Count: 2887
+Time(ms): 3385.973
+
+Omega: 0.74
+Count: 2826
+Time(ms): 3655.021
+
+Omega: 0.75
+Count: 2766
+Time(ms): 3521.695
+
+Omega: 0.76
+Count: 2707
+Time(ms): 3464.217
+
+Omega: 0.77
+Count: 2651
+Time(ms): 3173.686
+
+Omega: 0.78
+Count: 2595
+Time(ms): 3264.037
+
+Omega: 0.79
+Count: 2541
+Time(ms): 3123.232
+
+Omega: 0.80
+Count: 2489
+Time(ms): 2926.129
+
+Omega: 0.81
+Count: 2437
+Time(ms): 2905.641
+
+Omega: 0.82
+Count: 2387
+Time(ms): 3087.810
+
+Omega: 0.83
+Count: 2339
+Time(ms): 3041.501
+
+Omega: 0.84
+Count: 2291
+Time(ms): 2839.385
+
+Omega: 0.85
+Count: 2244
+Time(ms): 2861.995
+
+Omega: 0.86
+Count: 2199
+Time(ms): 3055.872
+
+Omega: 0.87
+Count: 2154
+Time(ms): 2831.039
+
+Omega: 0.88
+Count: 2111
+Time(ms): 2809.869
+
+Omega: 0.89
+Count: 2068
+Time(ms): 2570.160
+
+Omega: 0.90
+Count: 2027
+Time(ms): 2551.507
+
+Omega: 0.91
+Count: 1986
+Time(ms): 2577.265
+
+Omega: 0.92
+Count: 1947
+Time(ms): 2399.790
+
+Omega: 0.93
+Count: 1908
+Time(ms): 2476.038
+
+Omega: 0.94
+Count: 1870
+Time(ms): 2387.743
+
+Omega: 0.95
+Count: 1832
+Time(ms): 2336.541
+
+Omega: 0.96
+Count: 1796
+Time(ms): 2162.950
+
+Omega: 0.97
+Count: 1760
+Time(ms): 2377.648
+
+Omega: 0.98
+Count: 1725
+Time(ms): 2091.739
+
+Omega: 0.99
+Count: 1691
+Time(ms): 2294.345
+
+Omega: 1.00
+Count: 1657
+Time(ms): 2200.598
+
+Omega: 1.01
+Count: 1624
+Time(ms): 1858.265
+
+Omega: 1.02
+Count: 1592
+Time(ms): 1944.824
+
+Omega: 1.03
+Count: 1560
+Time(ms): 1779.040
+
+Omega: 1.04
+Count: 1529
+Time(ms): 1928.223
+
+Omega: 1.05
+Count: 1499
+Time(ms): 1946.790
+
+Omega: 1.06
+Count: 1469
+Time(ms): 1963.959
+
+Omega: 1.07
+Count: 1440
+Time(ms): 1852.934
+
+Omega: 1.08
+Count: 1411
+Time(ms): 1791.325
+
+Omega: 1.09
+Count: 1382
+Time(ms): 1726.909
+
+Omega: 1.10
+Count: 1355
+Time(ms): 1754.282
+
+Omega: 1.11
+Count: 1327
+Time(ms): 1576.700
+
+Omega: 1.12
+Count: 1301
+Time(ms): 1658.289
+
+Omega: 1.13
+Count: 1274
+Time(ms): 1458.585
+
+Omega: 1.14
+Count: 1248
+Time(ms): 1625.090
+
+Omega: 1.15
+Count: 1223
+Time(ms): 1485.337
+
+Omega: 1.16
+Count: 1198
+Time(ms): 1453.363
+
+Omega: 1.17
+Count: 1173
+Time(ms): 1652.354
+
+Omega: 1.18
+Count: 1149
+Time(ms): 1423.326
+
+Omega: 1.19
+Count: 1125
+Time(ms): 1368.499
+
+Omega: 1.20
+Count: 1102
+Time(ms): 1371.197
+
+Omega: 1.21
+Count: 1079
+Time(ms): 1250.651
+
+Omega: 1.22
+Count: 1057
+Time(ms): 1376.535
+
+Omega: 1.23
+Count: 1034
+Time(ms): 1336.758
+
+Omega: 1.24
+Count: 1012
+Time(ms): 1357.884
+
+Omega: 1.25
+Count: 991
+Time(ms): 1062.707
+
+Omega: 1.26
+Count: 970
+Time(ms): 1282.439
+
+Omega: 1.27
+Count: 949
+Time(ms): 1115.007
+
+Omega: 1.28
+Count: 928
+Time(ms): 1028.131
+
+Omega: 1.29
+Count: 908
+Time(ms): 1061.516
+
+Omega: 1.30
+Count: 888
+Time(ms): 1069.146
+
+Omega: 1.31
+Count: 868
+Time(ms): 939.956
+
+Omega: 1.32
+Count: 849
+Time(ms): 1099.298
+
+Omega: 1.33
+Count: 830
+Time(ms): 1360.292
+
+Omega: 1.34
+Count: 811
+Time(ms): 958.740
+
+Omega: 1.35
+Count: 793
+Time(ms): 1147.032
+
+Omega: 1.36
+Count: 774
+Time(ms): 1000.074
+
+Omega: 1.37
+Count: 756
+Time(ms): 1076.919
+
+Omega: 1.38
+Count: 739
+Time(ms): 1041.268
+
+Omega: 1.39
+Count: 721
+Time(ms): 899.918
+
+Omega: 1.40
+Count: 704
+Time(ms): 978.258
+
+Omega: 1.41
+Count: 687
+Time(ms): 939.746
+
+Omega: 1.42
+Count: 670
+Time(ms): 934.798
+
+Omega: 1.43
+Count: 653
+Time(ms): 861.598
+
+Omega: 1.44
+Count: 637
+Time(ms): 751.827
+
+Omega: 1.45
+Count: 621
+Time(ms): 893.143
+
+Omega: 1.46
+Count: 605
+Time(ms): 812.710
+
+Omega: 1.47
+Count: 589
+Time(ms): 704.682
+
+Omega: 1.48
+Count: 574
+Time(ms): 692.178
+
+Omega: 1.49
+Count: 558
+Time(ms): 763.761
+
+Omega: 1.50
+Count: 543
+Time(ms): 619.593
+
+Omega: 1.51
+Count: 528
+Time(ms): 578.665
+
+Omega: 1.52
+Count: 513
+Time(ms): 662.453
+
+Omega: 1.53
+Count: 499
+Time(ms): 539.824
+
+Omega: 1.54
+Count: 484
+Time(ms): 618.620
+
+Omega: 1.55
+Count: 470
+Time(ms): 540.599
+
+Omega: 1.56
+Count: 456
+Time(ms): 609.196
+
+Omega: 1.57
+Count: 442
+Time(ms): 526.653
+
+Omega: 1.58
+Count: 428
+Time(ms): 608.585
+
+Omega: 1.59
+Count: 414
+Time(ms): 445.715
+
+Omega: 1.60
+Count: 401
+Time(ms): 533.247
+
+Omega: 1.61
+Count: 388
+Time(ms): 430.835
+
+Omega: 1.62
+Count: 374
+Time(ms): 403.527
+
+Omega: 1.63
+Count: 361
+Time(ms): 394.639
+
+Omega: 1.64
+Count: 348
+Time(ms): 343.735
+
+Omega: 1.65
+Count: 335
+Time(ms): 350.880
+
+Omega: 1.66
+Count: 322
+Time(ms): 429.063
+
+Omega: 1.67
+Count: 309
+Time(ms): 354.672
+
+Omega: 1.68
+Count: 297
+Time(ms): 418.081
+
+Omega: 1.69
+Count: 284
+Time(ms): 321.451
+
+Omega: 1.70
+Count: 272
+Time(ms): 351.991
+
+Omega: 1.71
+Count: 259
+Time(ms): 372.043
+
+Omega: 1.72
+Count: 247
+Time(ms): 266.806
+
+Omega: 1.73
+Count: 234
+Time(ms): 308.769
+
+Omega: 1.74
+Count: 222
+Time(ms): 244.366
+
+Omega: 1.75
+Count: 209
+Time(ms): 220.506
+
+Omega: 1.76
+Count: 196
+Time(ms): 180.126
+
+Omega: 1.77
+Count: 183
+Time(ms): 249.030
+
+Omega: 1.78
+Count: 170
+Time(ms): 192.893
+
+Omega: 1.79
+Count: 156
+Time(ms): 197.451
+
+Omega: 1.80
+Count: 141
+Time(ms): 164.018
+
+Omega: 1.81
+Count: 123
+Time(ms): 195.719
+
+Omega: 1.82
+Count: 102
+Time(ms): 133.132
+
+Omega: 1.83
+Count: 106
+Time(ms): 143.161
+
+Omega: 1.84
+Count: 110
+Time(ms): 160.722
+
+Omega: 1.85
+Count: 117
+Time(ms): 145.615
+
+Omega: 1.86
+Count: 124
+Time(ms): 209.833
+
+Omega: 1.87
+Count: 131
+Time(ms): 179.257
+
+Omega: 1.88
+Count: 140
+Time(ms): 186.148
+
+Omega: 1.89
+Count: 150
+Time(ms): 170.907
+
+Omega: 1.90
+Count: 163
+Time(ms): 185.043
+
+Omega: 1.91
+Count: 187
+Time(ms): 203.677
+
+Omega: 1.92
+Count: 204
+Time(ms): 277.865
+
+Omega: 1.93
+Count: 228
+Time(ms): 269.252
+
+Omega: 1.94
+Count: 267
+Time(ms): 329.539
+
+Omega: 1.95
+Count: 317
+Time(ms): 390.911
+
+Omega: 1.96
+Count: 396
+Time(ms): 562.605
+
+Omega: 1.97
+Count: 527
+Time(ms): 577.030
+
+Omega: 1.98
+Count: 779
+Time(ms): 860.955
+
+Omega: 1.99
+Count: 1562
+Time(ms): 1974.906
+
+--------
+Size: 30
+Min-Step-Count: 102
+Best-Omega: 1.82
+--------

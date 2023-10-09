@@ -1,0 +1,43 @@
+Size: 5
+Min-Step-Count: 17
+Best-Omega: 1.34
+
+Size: 7
+Min-Step-Count: 24
+Best-Omega: 1.45
+
+Size: 9
+Min-Step-Count: 30
+Best-Omega: 1.55
+
+Size: 12
+Min-Step-Count: 39
+Best-Omega: 1.62
+
+Size: 15
+Min-Step-Count: 49
+Best-Omega: 1.69
+
+Size: 19
+Min-Step-Count: 65
+Best-Omega: 1.74
+
+Size: 20
+Min-Step-Count: 68
+Best-Omega: 1.75
+
+Size: 24
+Min-Step-Count: 77
+Best-Omega: 1.78
+
+Size: 27
+Min-Step-Count: 90
+Best-Omega: 1.81
+
+Size: 28
+Min-Step-Count: 96
+Best-Omega: 1.81
+
+Size: 30
+Min-Step-Count: 102
+Best-Omega: 1.82
