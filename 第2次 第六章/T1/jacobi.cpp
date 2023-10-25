@@ -47,6 +47,7 @@ bool hault(int type,int n,float *x,float *y,float *m,float *c){
         }
     }else if(type==2){
         cblas_saxpy(n,-1,x,1,y,1);
+        //printf("%.6f ",cblas_snrm2(n,y,1));
         return (cblas_snrm2(n,y,1)<epsilon);
     }else{
         cblas_saxpy(n,-1,x,1,y,1);
@@ -54,6 +55,7 @@ bool hault(int type,int n,float *x,float *y,float *m,float *c){
         if(last_delta<0.0000001){
             last_delta=delta; return false;
         }
+        //printf("%.6f ",abs(delta*delta/(last_delta-delta)));
         if(abs(delta*delta/(last_delta-delta))<epsilon){
             last_delta=delta; return true;
         }else{
@@ -61,7 +63,7 @@ bool hault(int type,int n,float *x,float *y,float *m,float *c){
         }
     }
 }
-int jordan(float *m,float *x,float *c,int n,int type){
+int jacobi(float *m,float *x,float *c,int n,int type){
     //type=1: 残量准则 2：相邻误差准则 3：后验误差准则
     float *y=(float *)malloc(n*sizeof(float)),*tmp;
     int cnt=0;
@@ -78,8 +80,9 @@ int jordan(float *m,float *x,float *c,int n,int type){
     free(y);
     return cnt;
 }
-int _main(int n,int type) {
-	int n2=n*n,n4=n2*n2,cnt; //n should be at least 3!
+int main() {
+	int n,n2,n4,cnt,type;
+	scanf("%d %d",&n,&type); n2=n*n; n4=n2*n2; //n should be at least 3!
 	float *m=(float *)malloc(n4*sizeof(float));
 	matrix_make(m,n);
 	float *c=(float *)malloc(n2*sizeof(float));
@@ -90,22 +93,16 @@ int _main(int n,int type) {
 	time_point<steady_clock> s,e;
 	s=steady_clock::now();
 	last_delta=0;
-	cnt=jordan(m,x,c,n2,type);
+	cnt=jacobi(m,x,c,n2,type);
+    //for(int i=0;i<n2;i++) printf("%f ",*(x+i)); printf("\n");
 	e=steady_clock::now();
 
+	//for(int i=0;i<n2;i++) *(x+i)-=1;
+	//float error=cblas_snrm2(n2,x,1);
 	printf("Size: %d\n",n);
-	printf("Type: %d\n",type);
 	printf("Count: %d\n",cnt);
-	printf("Time(ms): %.3f\n",(e-s).count()/1000000.0);
-	for(int i=0;i<n2;i++) *(x+i)-=1;
-	float error=cblas_snrm2(n2,x,1);
-	printf("A.Error: %.8f\nR.Error: %.8f\n\n",error,error/n);
+	//printf("A.Error: %.6f\nR.Error: %.6f\n",error,error/n);
+	printf("Time(ms): %.3f\n\n",(e-s).count()/1000000.0);
 	free(m); free(c); free(x);
 	return 0;
-}
-int main(){
-    for(int n=5;n<=30;n+=5){
-        _main(n,1); _main(n,2); _main(n,3);
-    }
-    return 0;
 }

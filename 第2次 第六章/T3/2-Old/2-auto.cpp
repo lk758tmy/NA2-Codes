@@ -1,10 +1,14 @@
 #include <cstdio>
 #include <cstdlib>
 #include <cmath>
+#include <chrono>
 #include <cblas.h>
 using namespace std;
+using namespace std::chrono;
 const double epsilon=0.000001;
 double AError;
+const int size_seq[11]={5,7,9,12,15,19,20,24,27,28,30};
+const double omega_seq[11]={1.34,1.45,1.55,1.62,1.69,1.74,1.75,1.78,1.81,1.81,1.82};
 void matrix_make(double *h,int n){
 	int n2=n*n; double *p=h;
 	for(int i=0;i<n2*n2;i++){*p=0; p++;}
@@ -55,7 +59,7 @@ int SOR(double *m,double *x,double *c,int n,double omega){
     free(y);
     return cnt;
 }
-int jacobi(double *m,double *x,double *c,int n){
+int jordan(double *m,double *x,double *c,int n){
     double *y=(double *)malloc(n*sizeof(double)),*tmp;
     int cnt=0;
     do{
@@ -85,31 +89,49 @@ int GS(double *m,double *x,double *c,int n){
     free(y);
     return cnt;
 }
-int _main(int n) {
-	int n2=n*n,n4=n2*n2;
+int _main(int n,double omega) {
+	int n2=n*n,n4=n2*n2,cnt;
 	double *m=(double *)malloc(n4*sizeof(double));
 	matrix_make(m,n);
 	double *c=(double *)malloc(n2*sizeof(double));
 	double *x=(double *)malloc(n2*sizeof(double));
 	vector_make(c,n);
+	time_point<steady_clock> s,e;
 
-    printf("%d\t",n);
+    printf("--------\nSize: %d\n\n",n);
 
+	printf("Type: Jordan\n");
 	for(int i=0;i<n2;i++) *(x+i)=0;
-	printf("%d\t",jacobi(m,x,c,n2));
-	
-	for(int i=0;i<n2;i++) *(x+i)=0;
-	printf("%d\t",GS(m,x,c,n2));
+	s=steady_clock::now();
+	cnt=jordan(m,x,c,n2);
+	e=steady_clock::now();
+	printf("Count: %d\n",cnt);
+	printf("Time(ms): %.3f\n",(e-s).count()/1000000.0);
+	printf("A.Error: %.8f\nR.Error: %.8f\n\n",AError,AError/n);
 
-	float omega=2.0/(1+sin(M_PI/(n+1)));
+	printf("Type: GS\n");
 	for(int i=0;i<n2;i++) *(x+i)=0;
-	printf("%d\n",SOR(m,x,c,n2,omega));
+	s=steady_clock::now();
+	cnt=GS(m,x,c,n2);
+	e=steady_clock::now();
+	printf("Count: %d\n",cnt);
+	printf("Time(ms): %.3f\n\n",(e-s).count()/1000000.0);
+	printf("A.Error: %.8f\nR.Error: %.8f\n\n",AError,AError/n);
+
+	printf("Type: SOR\n");
+	for(int i=0;i<n2;i++) *(x+i)=0;
+	s=steady_clock::now();
+	cnt=SOR(m,x,c,n2,omega);
+	e=steady_clock::now();
+	printf("Omega: %.2f\n",omega);
+	printf("Count: %d\n",cnt);
+	printf("Time(ms): %.3f\n\n",(e-s).count()/1000000.0);
+	printf("A.Error: %.8f\nR.Error: %.8f\n",AError,AError/n);
 
 	free(m); free(c); free(x);
 	return 0;
 }
 int main(){
-	printf("Size\tJacobi\tGS\tSOR\n");
-    for(int i=3;i<=60;i+=3) _main(i);
+    for(int i=0;i<11;i++) _main(size_seq[i],omega_seq[i]);
     return 0;
 }
