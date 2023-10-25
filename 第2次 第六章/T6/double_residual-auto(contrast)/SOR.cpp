@@ -32,11 +32,11 @@ void vector_make(double *h,int n){
 	h++; *h=2;
 	return ;
 }
-bool hault(int n,double *x){
-    double *e=(double *)malloc(n*sizeof(double));
-    for(int i=0;i<n;i++) *(e+i)=*(x+i)-1;
-    AError=cblas_dnrm2(n,e,1);
-    return (AError<epsilon);
+bool hault(double *m,double *c,int n,double *x){
+	double *r=(double *)malloc(n*sizeof(double));
+	for(int i=0;i<n;i++)
+		*(r+i)=cblas_ddot(n,m+i*n,1,x,1)-*(c+i);
+	return (cblas_dnrm2(n,r,1)<epsilon);
 }
 int SOR(double *m,double *x,double *c,int n,double omega){
     double *y=(double *)malloc(n*sizeof(double));
@@ -49,39 +49,8 @@ int SOR(double *m,double *x,double *c,int n,double omega){
             *(y+i)*=(omega/(*(m+i*n+i)));
             *(y+i)+=(1-omega)*(*(x+i));
         }
-
         cblas_dswap(n,x,1,y,1);
-    }while(!hault(n,x));
-    free(y);
-    return cnt;
-}
-int jacobi(double *m,double *x,double *c,int n){
-    double *y=(double *)malloc(n*sizeof(double)),*tmp;
-    int cnt=0;
-    do{
-        cnt++;
-        for(int i=0;i<n;i++){
-            *(y+i)=*(c+i)-cblas_ddot(n,x,1,m+i*n,1);
-            *(y+i)+=*(x+i)*(*(m+i*n+i));
-            *(y+i)/=*(m+i*n+i);
-        }
-        cblas_dswap(n,x,1,y,1);
-    }while(!hault(n,x));
-    free(y);
-    return cnt;
-}
-int GS(double *m,double *x,double *c,int n){
-    double *y=(double *)malloc(n*sizeof(double)),*tmp;
-    int cnt=0;
-    do{
-        cnt++;
-        for(int i=0;i<n;i++){;
-            *(y+i)=*(c+i)-cblas_ddot(i,m+i*n,1,y,1);
-            *(y+i)-=cblas_ddot(n-i-1,m+i*n+i+1,1,x+i+1,1);
-            *(y+i)/=*(m+i*n+i);
-        }
-        cblas_dswap(n,x,1,y,1);
-    }while(!hault(n,x));
+    }while(!hault(m,c,n,x));
     free(y);
     return cnt;
 }
@@ -95,13 +64,7 @@ int _main(int n) {
 
     printf("%d\t",n);
 
-	for(int i=0;i<n2;i++) *(x+i)=0;
-	printf("%d\t",jacobi(m,x,c,n2));
-	
-	for(int i=0;i<n2;i++) *(x+i)=0;
-	printf("%d\t",GS(m,x,c,n2));
-
-	float omega=2.0/(1+sin(M_PI/(n+1)))+0.000001;
+	double omega=2.0/(1+sin(M_PI/(n+1)))+0.000001;
 	for(int i=0;i<n2;i++) *(x+i)=0;
 	printf("%d\n",SOR(m,x,c,n2,omega));
 
@@ -109,7 +72,7 @@ int _main(int n) {
 	return 0;
 }
 int main(){
-	printf("Size\tJacobi\tGS\tSOR\n");
+	printf("Size\tStep\n");
     for(int i=3;i<=60;i+=3) _main(i);
     return 0;
 }

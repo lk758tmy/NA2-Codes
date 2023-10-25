@@ -31,13 +31,13 @@ void vector_make(float *h,int n){
 	return ;
 }
 void precond_make(float *h,int n,float omega){
-	int n2=n*n; float *p=h,*q,tmp1,tmp2,tmp3,omega2=omega*omega;
+	int n2=n*n; float *p=h,*q,tmp1,tmp2,omega2=omega*omega;
 	for(int i=0;i<n2*n2;i++){*p=0; p++;}
 	p=h;
-	tmp1=16*(1-2*omega+omega2); tmp2=tmp1+omega2; tmp3=4*(omega-omega2);
+	tmp1=16*(1-2*omega+omega2); tmp2=4*(omega-omega2);
 	for(int i=0;i<n2;i++){
-		if(i%n==0) *p=tmp1;
-		else{ *p=tmp2; *(p-1)=*(p-n2)=tmp3;}
+		*p=tmp1;
+		if(i%n!=0){*p+=omega2; *(p-1)=*(p-n2)=tmp2;}
 		p+=(n2+1);
 	}
 	p=h+n*n2+n; 
@@ -46,9 +46,8 @@ void precond_make(float *h,int n,float omega){
 	}
 	p=h+n*n2; q=h+n;
 	for(int i=n,j=0;i<n2;i++,j++){
-		*p=*q=-tmp3;
-		if(i%n==0) continue;
-		*(p-1)=*(q-n2)=-omega2;
+		*p=*q=-tmp2;
+		if(i%n!=0) *(p-1)=*(q-n2)=-omega2;	
 		p+=(n2+1); q+=(n2+1);
 	}
 	return ;
