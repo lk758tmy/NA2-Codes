@@ -1,5 +1,6 @@
 #define _USE_MATH_DEFINES
 #include <cstdio>
+#include <utility>
 #include <cmath>
 #include <cblas.h>
 using namespace std;
@@ -31,57 +32,67 @@ void vector_make(float *h,int n){
 	return ;
 }
 void precond_make(float *h,int n,float omega){
-	int n2=n*n; float *p=h,*q,tmp1,tmp2,omega2=omega*omega;
+	int n2=n*n; float *p=h; omega/=2;
 	for(int i=0;i<n2*n2;i++){*p=0; p++;}
 	p=h;
-	tmp1=16*(1-2*omega+omega2); tmp2=4*(omega-omega2);
 	for(int i=0;i<n2;i++){
-		*p=tmp1;
-		if(i%n!=0){*p+=omega2; *(p-1)=*(p-n2)=tmp2;}
+		*p=2;
+		if(i%n!=0) *(p-1)=-omega;
 		p+=(n2+1);
 	}
-	p=h+n*n2+n; 
+	p=h+n*n2;
 	for(int i=n;i<n2;i++){
-		*p+=omega2; p+=(n2+1);
-	}
-	p=h+n*n2; q=h+n;
-	for(int i=n,j=0;i<n2;i++,j++){
-		*p=*q=-tmp2;
-		if(i%n!=0) *(p-1)=*(q-n2)=-omega2;	
-		p+=(n2+1); q+=(n2+1);
+		*p=-omega; p+=(n2+1);
 	}
 	return ;
 }
-int CG(float *m,float *x,float *c,int n,float *r,float epsilon){
+void Cholskey(float *m,float *x,float *c,int n){
+	float *y=(float *)malloc(n*sizeof(float));
+	for(int i=0;i<n;i++){
+		*(y+i)=*(c+i)-cblas_sdot(i,y,1,m+i*n,1);
+		*(y+i)/=*(m+i*n+i);
+	}
+	for(int i=n-1;i>-1;i--){
+		*(x+i)=*(y+i)-cblas_sdot(n-1-i,x+i+1,1,m+(i+1)*n+i,n);
+		*(x+i)/=*(m+i*n+i);
+	}
+	free(y); return ;
+}
+int PCG(float *m,float *x,float *c,int n,float *r,float epsilon,float *q){
 	float alpha,beta,*p=(float *)malloc(n*sizeof(float));
-	float tmp_nrm2r2,*tmp_Amp=(float *)malloc(n*sizeof(float));
+	float tmp_rdotz,*tmp_Amp=(float *)malloc(n*sizeof(float));
+	float *z=(float *)malloc(n*sizeof(float));
 	int cnt;
 	
 	for(int i=0;i<n;i++) *(r+i)=*(c+i);
 	cblas_sgemv(CblasRowMajor,CblasNoTrans,n,n,1,m,n,x,1,-1,r,1);
-	for(int i=0;i<n;i++) *(p+i)=-*(r+i);
+	Cholskey(q,z,r,n);
+	for(int i=0;i<n;i++) *(p+i)=-*(z+i);
 	cblas_sgemv(CblasRowMajor,CblasNoTrans,n,n,1,m,n,p,1,0,tmp_Amp,1);
-	tmp_nrm2r2=cblas_sdot(n,r,1,r,1);
-	alpha=tmp_nrm2r2/cblas_sdot(n,p,1,tmp_Amp,1);
+	tmp_rdotz=cblas_sdot(n,r,1,z,1);
+	alpha=tmp_rdotz/cblas_sdot(n,p,1,tmp_Amp,1);
 	
 	for(cnt=1;cnt<=n;cnt++){
 		cblas_saxpy(n,alpha,p,1,x,1);
 		cblas_saxpy(n,alpha,tmp_Amp,1,r,1);
-		beta=cblas_sdot(n,r,1,r,1)/tmp_nrm2r2;
-		tmp_nrm2r2*=beta;
-		if(tmp_nrm2r2<epsilon) goto CG_END;
-		cblas_saxpy(n,-1/beta,r,1,p,1);
+		Cholskey(q,z,r,n);
+		/*for(int j=0;j<n;j++) printf("%.2f ",*(x+j)); printf("\n");
+		for(int j=0;j<n;j++) printf("%.2f ",*(z+j)); printf("\n");
+		  for(int j=0;j<n;j++) printf("%.2f ",*(r+j)); printf("\n\n");*/
+		beta=cblas_sdot(n,r,1,z,1)/tmp_rdotz;
+		tmp_rdotz*=beta;
+		if(cblas_snrm2(n,r,1)<epsilon) goto CG_END;
+		cblas_saxpy(n,-1.0/beta,z,1,p,1);
 		for(int j=0;j<n;j++) *(p+j)*=beta;
 		cblas_sgemv(CblasRowMajor,CblasNoTrans,n,n,1,m,n,p,1,0,tmp_Amp,1);
-		alpha=tmp_nrm2r2/cblas_sdot(n,p,1,tmp_Amp,1);
+		alpha=tmp_rdotz/cblas_sdot(n,p,1,tmp_Amp,1);
 	}
 	
-	CG_END: free(p); free(tmp_Amp); return cnt;
+	CG_END: free(p); free(tmp_Amp); free(z);
+	return cnt;
 }
-int main(){
-    int n,n2,n4; float omega=1;
-	scanf("%d",&n);//n should be at least 3!
-	n2=n*n; n4=n2*n2;
+int _main(int n,float omega){
+	int n2=n*n,n4=n2*n2;
 	float *m=(float *)malloc(n4*sizeof(float));
 	float *q=(float *)malloc(n4*sizeof(float));
 	matrix_make(m,n);
@@ -93,8 +104,13 @@ int main(){
 	for(int i=0;i<n;i++) *(x+i)=0;
 	vector_make(c,n);
 	
-	printf("%d\t%d\n",n,CG(m,x,c,n2,r,1e-12));
-
+	printf("%d\t%.2f\t%d\n",n,omega,PCG(m,x,c,n2,r,1e-6,q));
 	free(m); free(c); free(x); free(r); free(q);
     return 0;
+}
+int main(){
+	int size;
+	scanf("%d",&size);
+	for(float omega=1;omega<2;omega+=0.01) _main(size,omega);
+	return 0;
 }
