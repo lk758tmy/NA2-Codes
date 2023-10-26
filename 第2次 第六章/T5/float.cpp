@@ -46,17 +46,15 @@ void Jacobi_Chebyshev(float *m,float *x,float *c,int n,int step){
 	
 	printf("Step\tResidual\tError\n");
 	for(int j=2;j<=step;j++){
-		rou=1.0/(1-rou*tmp); printf("%.4f\n",rou);
+		rou=1.0/(1-rou*tmp);
 		for(int i=0;i<n;i++){
 			*(x+i)=*(c+i)-cblas_sdot(n,y2,1,m+i*n,1);
         	*(x+i)+=*(y2+i)*(*(m+i*n+i));
 			*(x+i)*=(rou*niu/(*(m+i*n+i)));
 		}
-		//for(int i=0;i<n;i++) printf("%.4f ",*(x+i)/rou/niu); printf("\n");
 		cblas_saxpy(n,rou*(1-niu),y2,1,x,1);
 		cblas_saxpy(n,1-rou,y1,1,x,1);
 		cblas_scopy(n,y2,1,y1,1); cblas_scopy(n,x,1,y2,1);
-		//for(int i=0;i<n;i++) printf("%.4f ",*(x+i)); printf("\n\n");
 		
 		cblas_scopy(n,c,1,r,1);
 		cblas_sgemv(CblasRowMajor,CblasNoTrans,n,n,1,m,n,x,1,-1,r,1);
@@ -64,24 +62,15 @@ void Jacobi_Chebyshev(float *m,float *x,float *c,int n,int step){
 		for(int i=0;i<n;i++) *(e+i)=*(x+i)-1;
 		printf("\t%.6f\n",cblas_snrm2(n,e,1));
 	}
-
 	free(y1); free(y2); free(r); free(e);	
 	return ;
 }
 int main(){
     int n,n2,n4,step;
 	scanf("%d %d",&n,&step);//n should be at least 3!
-	n2=n*n; n4=n2*n2; niu=1.0/3;
-	kse=0.75/sin((n-1.0)*M_PI/2/(n+1));
+	n2=n*n; n4=n2*n2; niu=1; kse=-1/sin((n-1.0)*M_PI/(2*n+2));
 	float *m=(float *)malloc(n4*sizeof(float));
 	matrix_make(m,n);
-	
-	for(int i=0;i<n2;i++){
-		for(int j=0;j<n2;j++)
-			printf("%.0f ",*(m+i*n2+j));
-		printf("\n");
-	}
-	
 	float *c=(float *)malloc(n2*sizeof(float));
 	float *x=(float *)malloc(n2*sizeof(float));
 	for(int i=0;i<n;i++) *(x+i)=0;

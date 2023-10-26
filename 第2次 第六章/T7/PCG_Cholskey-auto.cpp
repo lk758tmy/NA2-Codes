@@ -110,7 +110,9 @@ int _main(int n,float omega){
 }
 int main(){
 	int size;
-	scanf("%d",&size);
-	for(float omega=1;omega<2;omega+=0.01) _main(size,omega);
+	//scanf("%d",&size);
+	for(size=3;size<=60;size+=3)
+		for(float omega=1.01;omega<1.995;omega+=0.01) //0<omega<1不用尝试了
+			_main(size,omega);
 	return 0;
 }
