@@ -33,6 +33,7 @@ void vector_make(float *h,int n){
 void CG(float *m,float *x,float *c,int n,float *r,float epsilon){
 	float alpha,beta,*p=(float *)malloc(n*sizeof(float));
 	float tmp_nrm2r2,*tmp_Amp=(float *)malloc(n*sizeof(float));
+	float *e=(float *)malloc(n*sizeof(float));
 	
 	for(int i=0;i<n;i++) *(r+i)=*(c+i);
 	cblas_sgemv(CblasRowMajor,CblasNoTrans,n,n,1,m,n,x,1,-1,r,1);
@@ -41,13 +42,14 @@ void CG(float *m,float *x,float *c,int n,float *r,float epsilon){
 	tmp_nrm2r2=cblas_sdot(n,r,1,r,1);
 	alpha=tmp_nrm2r2/cblas_sdot(n,p,1,tmp_Amp,1);
 	
-	printf("Step\tResidual^2\n");
+	printf("Step,Residual^2,A.Error\n");
 	for(int i=1;i<=n;i++){
 		cblas_saxpy(n,alpha,p,1,x,1);
 		cblas_saxpy(n,alpha,tmp_Amp,1,r,1);
 		beta=cblas_sdot(n,r,1,r,1)/tmp_nrm2r2;
 		tmp_nrm2r2*=beta;
-		printf("%d\t%.12f\n",i,tmp_nrm2r2);
+		for(int j=0;j<n;j++) *(e+j)=*(x+j)-1;
+		printf("%d,%.12f,%.8f\n",i,tmp_nrm2r2,cblas_snrm2(n,e,1));
 		if(tmp_nrm2r2<epsilon) goto CG_END;
 		//使用残差2范数的平方做收敛判定，少一些计算量
 		cblas_saxpy(n,-1/beta,r,1,p,1);
@@ -56,7 +58,7 @@ void CG(float *m,float *x,float *c,int n,float *r,float epsilon){
 		alpha=tmp_nrm2r2/cblas_sdot(n,p,1,tmp_Amp,1);
 	}
 	
-	CG_END: free(p); free(tmp_Amp); return ;
+	CG_END: free(p); free(tmp_Amp); free(e); return ;
 }
 int main(){
     int n,n2,n4;
