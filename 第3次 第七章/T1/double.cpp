@@ -2,7 +2,7 @@
 #include <random>
 #include <cblas.h>
 #include <cmath>
-#include <lapacke.h>
+//#include <lapacke.h>
 #include <chrono>
 #define T_S 1000000000.0
 using namespace std;
@@ -28,17 +28,19 @@ void rand_matrix(double *m,int n){
 }
 double Orth(double *q,int n){
 	double *e=(double *)malloc(n*n*sizeof(double)),ans;
+	//double *work=(double *)malloc(n*sizeof(double));
 	for(int i=0;i<n*n;i++) *(e+i)=0;
 	for(int i=0;i<n;i++) *(e+i*n+i)=1;
 	cblas_dgemm(CblasRowMajor,CblasTrans,CblasNoTrans,n,n,n,1,q,n,q,n,-1,e,n);
 	ans=cblas_dnrm2(n*n,e,1);
-	free(e); return ans;
+	//ans=LAPACK_dlange("M",&n,&n,e,&n,work);
+	free(e); /*free(work);*/ return ans;
 }
-double Error(double *q,CBLAS_TRANSPOSE t1,CBLAS_TRANSPOSE t2,double *r,double *m,int n){
+double Error(double *q,double *r,CBLAS_TRANSPOSE t2,double *m,int n){
 	double *a=(double *)malloc(n*n*sizeof(double)),ans;
 	cblas_dcopy(n*n,m,1,a,1);
 	ans=cblas_dnrm2(n*n,a,1);
-	cblas_dgemm(CblasRowMajor,t1,t2,n,n,n,1,q,n,r,n,-1,a,n);
+	cblas_dgemm(CblasRowMajor,CblasTrans,t2,n,n,n,1,q,n,r,n,-1,a,n);
 	ans=cblas_dnrm2(n*n,a,1)/ans;
 	free(a); return ans;
 }
@@ -59,7 +61,7 @@ void CGS(double *m,int n){
 	}
 	
 	e=steady_clock::now();
-	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,CblasTrans,CblasNoTrans,r,m,n));
+	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,r,CblasNoTrans,m,n));
 	free(q); free(r); return ;
 }
 void MGS(double *m,int n){
@@ -79,7 +81,7 @@ void MGS(double *m,int n){
 	}
 	
 	e=steady_clock::now();
-	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,CblasTrans,CblasNoTrans,r,m,n));
+	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,r,CblasNoTrans,m,n));
 	free(q); free(r); return ;
 }
 void Householder(double *m,int n){
@@ -97,24 +99,24 @@ void Householder(double *m,int n){
 	
 	for(int i=0;i<n;i++){
 		tmp=i*n+i;
-		a=cblas_dnrm2(n-i,r+tmp,1); //这里还能优化！按行改按列
+		a=cblas_dnrm2(n-i,r+tmp,1);
 		if(*(r+tmp)>0) a=-a;
 		b=a*(a-*(r+tmp));
 		cblas_dcopy(n-i,r+tmp,1,u+i,1);
 		*(u+i)-=a;
-		cblas_dgemv(CblasColMajor,CblasTrans,n-i,n,1,q+i,n,u+i,1,0,y,1);
-		cblas_dger(CblasColMajor,n-i,n,-1/b,u+i,1,y,1,q+i,n);
+		cblas_dgemv(CblasRowMajor,CblasTrans,n-i,n,1,q+i*n,n,u+i,1,0,y,1);
+		cblas_dger(CblasRowMajor,n-i,n,-1/b,u+i,1,y,1,q+i*n,n);
 		cblas_dgemv(CblasColMajor,CblasTrans,n-i,n-i,1,r+tmp,n,u+i,1,0,y+i,1);
 		cblas_dger(CblasColMajor,n-i,n-i,-1/b,u+i,1,y+i,1,r+tmp,n);
 	}
 	
 	e=steady_clock::now();
-	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,CblasNoTrans,CblasTrans,r,m,n));
+	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,r,CblasTrans,m,n));
 	free(q); free(r); free(u); free(y); return ;
 }
 void Givens(double *m,int n){
 	double *q=(double *)malloc(n*n*sizeof(double));
-	double *r=(double *)malloc(n*n*sizeof(double));
+	double *r=(double *)malloc(n*n*sizeof(double)),_a,_b,_c,_s;
 	cblas_dcopy(n*n,m,1,r,1);
 	for(int k=0;k<n;k++){
 		*(q+k*n+k)=1;
@@ -123,10 +125,9 @@ void Givens(double *m,int n){
 	time_point<steady_clock> s,e;
 	s=steady_clock::now();
 	
-	double _a,_b,_c,_s;
 	for(int i=0;i<n;i++){
 		for(int j=i+1;j<n;j++){
-			_b=*(r+j*n+i); if(_b==0) continue;
+			_b=*(r+j*n+i); if(abs(_b)<1e-9) continue;
 			_a=*(r+i*n+i);
 			cblas_drotg(&_a,&_b,&_c,&_s);
 			cblas_drot(n,q+i*n,1,q+j*n,1,_c,_s);
@@ -135,17 +136,17 @@ void Givens(double *m,int n){
 	}
 	
 	e=steady_clock::now();
-	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,CblasTrans,CblasNoTrans,r,m,n));
+	printf(",%.4e,%.3f,%.4e",Orth(q,n),(e-s).count()/T_S,Error(q,r,CblasNoTrans,m,n));
 	free(q); free(r); return ;
 }
 int main(){
 	int n; double *m=0;
-	//freopen("\data.csv","w",stdout);
+	freopen("\data.csv","w",stdout);
 	printf("No.,Order,CGS,,,MGS,,,H,,,G\n");
 	printf(",,Orth.,Time(s),R.Err,Orth.,Time(s),R.Err,Orth.,Time(s),R.Err,Orth.,Time(s),R.Err\n");
-	for(int i=1;i<=1;i++){
+	for(int i=1;i<=100;i++){
 		srand(system_clock::to_time_t(system_clock::now()));
-		n=rand()%501+500;
+		n=rand()%1501+500;
 		m=(double *)malloc(n*n*sizeof(double));
 		rand_matrix(m,n);
 		printf("%d,%d",i,n);
