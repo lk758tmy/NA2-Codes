@@ -5,8 +5,10 @@
 //#include <chrono>
 #include <time.h>
 #include <cblas.h>
+#include <stack>
 using namespace std;
 //using namespace std::chrono;
+stack<pair<int,int> > s;
 void matrix_make(float *h,int n){
 	int n2=n*n; float *p=h;
 	memset(h,0,n2*n2*sizeof(float));
@@ -65,30 +67,39 @@ void gauss_colPivot(float *m,float *x,float *c,int n){
 			}
 		}
 		//*(p+i)=*(p+maxRowId); *(p+maxRowId)=rowId;
-		cblas_sswap(n,m+n*rowId,1,m+n*maxRowId,1);
-		tmp=*cp; *cp=*(c+maxRowId); *(c+maxRowId)=tmp;
+		if(rowId!=maxRowId){
+			cblas_sswap(n,m+n*rowId,1,m+n*maxRowId,1);
+			s.push(make_pair(rowId,maxRowId));
+			tmp=*cp; *cp=*(c+maxRowId); *(c+maxRowId)=tmp;	
+		}
 		mp=m+n*rowId+i;
 		tmp=1.0/(*mp); (*cp)*=tmp;
 		for(int j=i;j<n;j++){
-            (*mp)*=tmp; *mp++;
-        }
+			(*mp)*=tmp; *mp++;
+		}
 		mp=m+n*rowId+i; cp=c+rowId; tmp=*cp;
 		for(int j=i+1;j<n;j++){//BLAS-2
-            cp++; mp+=n;
-            *cp-=tmp*(*mp);//*(c+j(*(p+j)))-=(tmp);
+			cp++; mp+=n;
+			*cp-=tmp*(*mp);//*(c+j(*(p+j)))-=(tmp);
 			cblas_saxpy(n,-*mp,m+n*rowId,1,m+n*j/*(*(p+j))*/,1);
 		}
 	}
-    //matrix_print(m,n); vector_print(c,n);
+	//matrix_print(m,n); vector_print(c,n);
 	float *xp=x+n-1,*xp2;
 	*xp=*(c+n-1);
 	for(int i=n-2;i>=0;i--){
-        xp--; *xp=*(c+i);
-        mp=m+n*(i+1)-1; xp2=x+n-1;
-        for(int j=n-1;j>i;j--){
-            *xp-=(*xp2)*(*mp);
-            mp--; xp2--;
-        }
+		xp--; *xp=*(c+i);
+		mp=m+n*(i+1)-1; xp2=x+n-1;
+		for(int j=n-1;j>i;j--){
+			*xp-=(*xp2)*(*mp);
+			mp--; xp2--;
+		}
+	}
+	while(!s.empty()){
+		tmp=*(x+s.top().first);
+		*(x+s.top().first)=*(x+s.top().second);
+		*(x+s.top().second)=tmp;
+		s.pop();
 	}
 	return ;
 }

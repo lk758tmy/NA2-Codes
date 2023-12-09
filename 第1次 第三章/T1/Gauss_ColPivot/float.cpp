@@ -4,8 +4,10 @@
 #include <memory.h>
 #include <chrono>
 #include <cblas.h>
+#include <stack>
 using namespace std;
 using namespace std::chrono;
+stack<pair<int,int> > s;
 void matrix_make(float *h,int n){
 	int n2=n*n; float *p=h;
 	memset(h,0,n2*n2*sizeof(float));
@@ -64,8 +66,11 @@ void gauss_colPivot(float *m,float *x,float *c,int n){
 			}
 		}
 		//*(p+i)=*(p+maxRowId); *(p+maxRowId)=rowId;
-		cblas_sswap(n,m+n*rowId,1,m+n*maxRowId,1);
-		tmp=*cp; *cp=*(c+maxRowId); *(c+maxRowId)=tmp;
+		if(rowId!=maxRowId){
+			cblas_sswap(n,m+n*rowId,1,m+n*maxRowId,1);
+			s.push(make_pair(rowId,maxRowId));
+			tmp=*cp; *cp=*(c+maxRowId); *(c+maxRowId)=tmp;	
+		}
 		mp=m+n*rowId+i;
 		tmp=1.0/(*mp); (*cp)*=tmp;
 		for(int j=i;j<n;j++){
@@ -88,6 +93,12 @@ void gauss_colPivot(float *m,float *x,float *c,int n){
             *xp-=(*xp2)*(*mp);
             mp--; xp2--;
         }
+	}
+	while(!s.empty()){
+		tmp=*(x+s.top().first);
+		*(x+s.top().first)=*(x+s.top().second);
+		*(x+s.top().second)=tmp;
+		s.pop();
 	}
 	return ;
 }

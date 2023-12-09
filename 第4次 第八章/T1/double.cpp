@@ -11,6 +11,7 @@ void matrix_make(double *m,int n){
 		for(int j=2+i;j<n;j++)
 			*(m+i*n+j)=*(m+j*n+i)=0;
 	}
+	*(m+n*n-1)=2;
 	return ;
 }
 double maxbar(double *v,int n){
