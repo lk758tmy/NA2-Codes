@@ -101,11 +101,10 @@ int T_Jacobi(double *m,int n,double delta){
 				cnt++;
 			}
 		}
-		cntCycle++;
 		if(!flag){
 			if(th<epsilon) break;
 			else th/=delta;
-		}
+		} else cntCycle++;
 	}while(1);
 	printf("%d,",cntCycle);
 	return cnt;

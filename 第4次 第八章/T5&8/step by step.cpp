@@ -135,17 +135,16 @@ int T_Jacobi(double *m,int n,double delta,double *eigenReal){
 				cnt++;
 			}
 		}
-		cntCycle++;
-		
-		cblas_dcopy(n,m,n+1,eigenNum,1);
-		sort(eigenNum,eigenNum+n);
-		cblas_daxpy(n,-1,eigenReal,1,eigenNum,1);
-		errf=cblas_dnrm2(n*n,m,1); errf-=cblas_dnrm2(n,m,n+1);
-		printf("%d,%.3e,%.3e\n",cntCycle,cblas_dnrm2(n,eigenNum,1),errf);
-		
 		if(!flag){
 			if(th<epsilon) break;
 			else th/=delta;
+		}else{
+			cntCycle++;
+			cblas_dcopy(n,m,n+1,eigenNum,1);
+			sort(eigenNum,eigenNum+n);
+			cblas_daxpy(n,-1,eigenReal,1,eigenNum,1);
+			errf=cblas_dnrm2(n*n,m,1); errf-=cblas_dnrm2(n,m,n+1);
+			printf("%d,%.3e,%.3e\n",cntCycle,cblas_dnrm2(n,eigenNum,1),errf);	
 		}
 	}while(1);
 	printf("%d,",cntCycle);
@@ -153,7 +152,7 @@ int T_Jacobi(double *m,int n,double delta,double *eigenReal){
 }
 int main(){
 	double *m,*eigenReal;
-	freopen("\data.csv","w",stdout);
+	freopen("\data_step by step.csv","w",stdout);
 	for(int n=100;n<102;n++){
 	for(int q=0;q<3;q++){
 		m=(double *)malloc(n*n*sizeof(double));
@@ -174,9 +173,7 @@ int main(){
 			T_Jacobi(m,n,double(n+1),eigenReal);
 		}
 		
-		//matrix_make(m,n); power(m,n,v0);
-		//matrix_make(m,n); power(m,n,v0);
 		free(m); free(eigenReal);
-    }}
+    }} printf("\n");
 	return 0;
 }
