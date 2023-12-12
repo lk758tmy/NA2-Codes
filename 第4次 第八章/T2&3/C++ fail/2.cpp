@@ -30,43 +30,36 @@ void inverse_power(double *a,int n,double &l,double *u,double *v0,double q){
 	for(int i=0;i<n;i++) *(a+i*n+i)-=q;
 	
 	e=cblas_ddot(n,v1,1,u,1)/cblas_dnrm2(n,v1,1);
-	//printf("%d,%.7e,%.7e\n",cnt,abs(l-q-m1),sqrt(1-e*e));
+	printf("%d,%.3f\n%d,,%.7e\n",n,q,cnt,sqrt(1-e*e));
 	do{
-		cnt++; if(cnt==500) break;
+		cnt++; if(cnt==100) break;
 		//gauss_colPivot(a,v2,v1,n);
 		cblas_dcopy(n,v1,1,v2,1); cblas_dcopy(n*n,a,1,m,1);
 		LAPACKE_dgesv(LAPACK_ROW_MAJOR,n,1,m,n,ipiv,v2,1);
-		m0=m1; m1=1/maxbar(v2,n);
-		for(int i=0;i<n;i++) *(v1+ipiv[i]-1)=*(v2+i)*m1;
+		m0=m1; m1=maxbar(v2,n);
+		for(int i=0;i<n;i++) *(v1+ipiv[i]-1)=*(v2+i)/m1;
 		
 		e=1/cblas_dnrm2(n,v1,1);
 		e*=cblas_ddot(n,v1,1,u,1);
-		//printf("%d,%.7e,%.7e\n",cnt,abs(l-q-m1),sqrt(1-e*e));	
-	}while(abs(m1-m0)>epsilon);
-	printf("%d,%.7e,%.7e\n",cnt,abs(l-q-m1),sqrt(1-e*e));		
-	printf("%d: %.5f\n",cnt,m1+q);
+		printf("%d,%.7e,%.7e,%.7e\n",cnt,abs(l-q-1/m1),1/m1+q,sqrt(1-e*e));	
+	}while(abs(1/m1-1/m0)>epsilon);
 	free(v1); free(v2); free(ipiv); return ;
 }
 int main(){
 	double *a,*v0,*u,l;
 	//freopen("\data.csv","w",stdout);
 	for(int n=100;n<102;n++){
-	for(int q=2;q<4;q++){
+	for(double q=1.999;q<3.1;q++){
 		a=(double *)malloc(n*n*sizeof(double));
 		v0=(double *)malloc(n*sizeof(double));
 		u=(double *)malloc(n*sizeof(double));
 		
 		if(n==100){
-			if(q==2){
-				for(int i=0;i<n;i++) *(u+i)=sin((i+1)*51*M_PI/101);
+			if(q==1.999){
+				for(int i=0;i<n;i++) *(u+i)=sin((i+1)*50*M_PI/101);
 				l=1/cblas_dnrm2(n,u,1);
 				for(int i=0;i<n;i++) *(u+i)*=l;
-				l=2-2*cos(51*M_PI/101);
-				
-				/*matrix_make(a,n); 
-				for(int i=0;i<n;i++) printf("%.2f ",*(u+i)); printf("\n");
-				cblas_dgemv(CblasRowMajor,CblasNoTrans,n,n,1/l,a,n,u,1,0,v0,1);
-				  for(int i=0;i<n;i++) printf("%.2f ",*(v0+i)); printf("\n");*/
+				l=2-2*cos(50*M_PI/101);
 			}else{
 				for(int i=0;i<n;i++) *(u+i)=sin((i+1)*67/101);
 				l=1/cblas_dnrm2(n,u,1);
@@ -74,7 +67,7 @@ int main(){
 				l=2-2*cos(67*M_PI/101);
 			}
 		}if(n==101){
-			if(q==2){
+			if(q==1.999){
 				for(int i=0;i<n;i++) *(u+i)=sin((i+1)*M_PI/2); // 51/120
 				l=1/cblas_dnrm2(n,u,1);
 				for(int i=0;i<n;i++) *(u+i)*=l;
@@ -90,7 +83,9 @@ int main(){
 		srand(time(0));
 		for(int i=0;i<n;i++) *(v0+i)=double(rand())/RAND_MAX;
 		
-		matrix_make(a,n); inverse_power(a,n,l,u,v0,q+0.001);
+		matrix_make(a,n); 
+		if(n==100) inverse_power(a,n,l,u,v0,q);
+		if(n==101) inverse_power(a,n,l,u,v0,q);
 		free(u); free(a);		
 	}}
 
