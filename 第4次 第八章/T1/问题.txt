@@ -1,0 +1,6 @@
+atiken加速只加快了特征值的收敛速度，算法会更快停机，但是特征向量并没有更快地收敛？
+
+三个数据都是有代表性选取的：停机步数
+data1 Atiken = Original < Rayleigh
+data2 Atiken < Original = Rayleigh
+data3 Atiken = Rayleigh < Original

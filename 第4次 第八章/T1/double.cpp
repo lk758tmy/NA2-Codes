@@ -53,7 +53,7 @@ void power(double *a,int n,char s,double &l,double *u,double *v0){
 				}
 			}
 		}
-		if(cnt%10==0){
+		if(cnt%100==0){
 			if(s=='R') e=1;
 			else e=1/cblas_dnrm2(n,v1,1);
 			e*=cblas_ddot(n,v1,1,u,1);
@@ -61,6 +61,9 @@ void power(double *a,int n,char s,double &l,double *u,double *v0){
 		}
 		cnt++;
 	}while(abs(m1-m0)>epsilon);
+	if(s=='R') e=1;
+	else e=1/cblas_dnrm2(n,v1,1);
+	e*=cblas_ddot(n,v1,1,u,1);
 	printf("%d,%.7e,%.7e\n",cnt,abs(l-m1),sqrt(1-e*e));
 	printf("\n");
 	free(v1); free(v2); return ;
